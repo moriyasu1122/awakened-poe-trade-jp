@@ -11,10 +11,8 @@
 
 本ツールは [SnosMe/awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade)(MIT License)を改変したものです。
 
+### Development
 
-## Acknowledgments
+See [DEVELOPING.md](./DEVELOPING.md)
 
-- [libuiohook](https://github.com/kwhat/libuiohook)
-- [RePoE](https://github.com/brather1ng/RePoE)
-- [poeprices.info](https://www.poeprices.info)
-- [poe.ninja](https://poe.ninja)
+### Acknowledgments
