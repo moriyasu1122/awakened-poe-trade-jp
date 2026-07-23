@@ -16,3 +16,10 @@
 See [DEVELOPING.md](./DEVELOPING.md)
 
 ### Acknowledgments
+
+- [libuiohook](https://github.com/kwhat/libuiohook)
+- [RePoE](https://github.com/brather1ng/RePoE)
+- [poeprices.info](https://www.poeprices.info/)
+- [poe.ninja](https://poe.ninja/)
+
+![](https://i.imgur.com/MATqhv7.png)
