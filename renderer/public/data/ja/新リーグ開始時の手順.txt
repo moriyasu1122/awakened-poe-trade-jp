@@ -1,0 +1,7 @@
+新リーグ対応の具体的な手順は次の通りです。
+
+新リーグ実装後、本家の awakened-poe-trade(GitHub: SnosMe/awakened-poe-trade)が更新版をリリースするのを待ち、最新ソース一式を再度ダウンロードする
+上書きする前に、現在の renderer/public/data/ja フォルダ一式と renderer/build-ja-stats.mjs を別の場所にバックアップしておく(ここが今回の翻訳作業の成果そのものなので、うっかり新しい en 版で丸ごと上書きしないように)
+新しい public/data/en/stats.ndjson・en/items.ndjson 等だけを反映し、バックアップしておいた ja フォルダと build-ja-stats.mjs を元の場所に戻す
+node build-ja-stats.mjs を再実行 — 新しい en/stats.ndjson に対して、既存のTRANSLATIONS辞書が自動的に再マッチされます。新リーグの新しいMod文言はTRANSLATIONS辞書にまだ登録されていないので、そこだけ英語表示のまま残りますが、エラーやクラッシュにはなりません
+yarn make-index-files を再実行
