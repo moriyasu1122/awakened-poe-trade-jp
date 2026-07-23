@@ -1,27 +1,28 @@
-# ![Awakener's Orb](https://web.poecdn.com/image/Art/2DItems/Currency/TransferOrb.png) Awakened PoE Trade
+# Awakened PoE Trade 日本語対応版
 
-[![](https://user-images.githubusercontent.com/4292308/153364874-dde23599-278c-4350-8d86-dadbc4b978b3.svg)](https://somsubhra.github.io/github-release-stats/?username=SnosMe&repository=awakened-poe-trade)
-[![](https://user-images.githubusercontent.com/4292308/153364769-e4fe1e82-1bbc-46ac-8a3c-f5a98a5667cc.svg)](https://patreon.com/awakened_poe_trade)
-[![](https://user-images.githubusercontent.com/4292308/153364565-7a545d26-e617-4a33-a919-ff90d8feda3d.svg)](https://github.com/SnosMe/awakened-poe-trade/issues/22)
+[Awakened PoE Trade](https://github.com/SnosMe/awakened-poe-trade) を日本語で使えるようにしたフォーク版です。
+Path of Exile のアイテム価格チェック・マップチェックツールです。
 
+➡️ **[Releaseページからダウンロード(Windows)](https://github.com/tomogara1111-afk/awakened-poe-trade-jp/releases)** ⬅️
 
-➡ [Download for Windows & Linux](https://snosme.github.io/awakened-poe-trade/download) ⬅
+使い方
+下記の Assets から Awakened PoE Trade x.x.x.exeをダウンロード
+ダブルクリックで起動(インストール不要)
+初回起動時にWindows SmartScreenの警告が出る場合は「詳細情報」→「実行」を選択してください
+設定のGeneral→Languageで日本語を選択
+UI、検索結果が英語なのは仕様
+注意事項
+本アプリは署名されていないため、Windowsやウイルス対策ソフトの警告が表示される場合があります
+本家プロジェクト(SnosMe/awakened-poe-trade)のMITライセンスに基づく改変版です
 
-## Tool showcase
+## 元プロジェクトについて
 
-| Gem | Rare | Unique | Currency |
-|-----|------|--------|----------|
-| ![](https://i.imgur.com/LTsH2DZ.png) | ![](https://i.imgur.com/2XL5Wl8.png) | ![](https://i.imgur.com/UTV6prE.png) | ![](https://i.imgur.com/dQ9Sns6.png) |
+本ツールは [SnosMe/awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade)(MIT License)を改変したものです。
+開発方法などは元プロジェクトの [DEVELOPING.md](https://github.com/SnosMe/awakened-poe-trade/blob/master/DEVELOPING.md) を参照してください。
 
-### Development
-
-See [DEVELOPING.md](./DEVELOPING.md)
-
-### Acknowledgments
+## Acknowledgments
 
 - [libuiohook](https://github.com/kwhat/libuiohook)
 - [RePoE](https://github.com/brather1ng/RePoE)
-- [poeprices.info](https://www.poeprices.info/)
-- [poe.ninja](https://poe.ninja/)
-
-![](https://i.imgur.com/MATqhv7.png)
+- [poeprices.info](https://www.poeprices.info)
+- [poe.ninja](https://poe.ninja)
