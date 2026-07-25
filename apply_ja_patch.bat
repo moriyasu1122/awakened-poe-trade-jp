@@ -1,11 +1,11 @@
 @echo off
 setlocal enabledelayedexpansion
-chcp 65001 >nul
 
 rem =====================================================================
-rem  Awakened PoE Trade 日本語化パッチ適用ツール
-rem  使い方: apply_ja_patch.bat "パッチを当てたいアプリのフォルダ"
-rem  (resources フォルダがある場所を指定してください)
+rem  Awakened PoE Trade - Japanese localization patch tool
+rem  Usage: apply_ja_patch.bat "path to the app folder"
+rem  (the folder that contains a "resources" subfolder)
+rem  Or just double-click and drag the folder into the window when asked.
 rem =====================================================================
 
 set BASE_DIR=%~dp0
@@ -13,84 +13,67 @@ set ASAR_CLI=%BASE_DIR%main\node_modules\.bin\asar.cmd
 set JA_DATA=%BASE_DIR%renderer\public\data\ja
 
 if not exist "%ASAR_CLI%" (
-  echo [エラー] asarツールが見つかりません: %ASAR_CLI%
-  echo main フォルダで一度 "yarn install" を実行してから、このツールを使ってください。
+  echo [ERROR] asar tool not found: %ASAR_CLI%
+  echo Please run "yarn install" in the main folder first.
   pause
   exit /b 1
 )
 
 if not exist "%JA_DATA%" (
-  echo [エラー] 日本語データフォルダが見つかりません: %JA_DATA%
+  echo [ERROR] Japanese data folder not found: %JA_DATA%
   pause
   exit /b 1
 )
 
 set TARGET=%~1
 
-if "%TARGET%"=="" (
-  echo インストール先を自動検索しています...
-
-  for %%P in (
-    "%LOCALAPPDATA%\Programs\awakened-poe-trade"
-    "%LOCALAPPDATA%\Programs\Awakened PoE Trade"
-    "%ProgramFiles%\Awakened PoE Trade"
-    "%ProgramFiles(x86)%\Awakened PoE Trade"
-  ) do (
-    if exist "%%~P\resources\app.asar" (
-      set TARGET=%%~P
-    )
-  )
-)
-
-if "%TARGET%"=="" (
-  echo 自動検出できませんでした。
+if not defined TARGET (
+  echo Please drag and drop the Awakened PoE Trade folder onto this window
+  echo (the folder that contains a "resources" subfolder), then press Enter.
   echo.
-  echo Awakened PoE Trade がインストールされている^(または展開されている^)
-  echo フォルダをこのウィンドウにドラッグ^&ドロップして Enter を押してください。
-  echo ^(フォルダの中に resources フォルダがある場所です^)
-  echo.
-  set /p TARGET=フォルダのパス:
+  set /p TARGET=Folder path:
   set TARGET=!TARGET:"=!
 )
 
-if "%TARGET%"=="" (
-  echo パスが入力されなかったため終了します。
+if not defined TARGET (
+  echo No path was given. Exiting.
   pause
   exit /b 1
 )
 
 echo.
-echo 対象フォルダ: %TARGET%
+echo Target folder: %TARGET%
 echo.
 set ASAR_FILE=%TARGET%\resources\app.asar
 set BACKUP_FILE=%TARGET%\resources\app.asar.original-backup
 
 if not exist "%ASAR_FILE%" (
-  echo [エラー] %ASAR_FILE% が見つかりません。
-  echo 指定したフォルダの中に resources\app.asar があるか確認してください。
+  echo [ERROR] Not found: %ASAR_FILE%
+  echo Please check that the folder contains resources\app.asar
   pause
   exit /b 1
 )
 
-if not exist "%BACKUP_FILE%" (
-  echo オリジナルファイルをバックアップしています...
-  copy "%ASAR_FILE%" "%BACKUP_FILE%" >nul
-) else (
-  echo ^(オリジナルのバックアップは既に存在するのでスキップします^)
-)
+if exist "%BACKUP_FILE%" goto :skip_backup
+echo Backing up the original file...
+copy "%ASAR_FILE%" "%BACKUP_FILE%" >nul
+goto :after_backup
+:skip_backup
+echo Backup already exists, skipping.
+:after_backup
 
 set WORKDIR=%TEMP%\apt_ja_patch_work
 if exist "%WORKDIR%" rmdir /s /q "%WORKDIR%"
 
-echo アプリを展開しています...
+echo Extracting the app...
 call "%ASAR_CLI%" extract "%ASAR_FILE%" "%WORKDIR%"
 if errorlevel 1 goto :error
 
-echo 日本語データを適用しています...
+echo Applying Japanese data...
 xcopy /s /y /i "%JA_DATA%" "%WORKDIR%\data\ja" >nul
 if errorlevel 1 goto :error
 
-echo パッケージを再構築しています...
+echo Repacking the app...
 del "%ASAR_FILE%"
 call "%ASAR_CLI%" pack "%WORKDIR%" "%ASAR_FILE%"
 if errorlevel 1 goto :error
@@ -99,16 +82,18 @@ rmdir /s /q "%WORKDIR%"
 
 echo.
 echo ================================
-echo   完了しました！
-echo   "%TARGET%" のアプリを起動して確認してください。
-echo   (元の英語版に戻したい場合は、resources フォルダ内の
-echo    app.asar.original-backup を app.asar にリネームし直してください)
+echo   Done!
+echo   Please launch the app to check.
+echo   Target: %TARGET%
+echo   (To restore the original English version, rename
+echo    app.asar.original-backup back to app.asar
+echo    inside the resources folder)
 echo ================================
 pause
 exit /b 0
 
 :error
 echo.
-echo [エラー] 処理中に問題が発生しました。上のメッセージを確認してください。
+echo [ERROR] Something went wrong. See the messages above.
 pause
 exit /b 1

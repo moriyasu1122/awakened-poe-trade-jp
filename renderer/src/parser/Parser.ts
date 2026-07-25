@@ -179,28 +179,44 @@ function normalizeName (item: ParserState) {
   }
 }
 
+// The game client copies item text using the *display* (localized) name/base type
+// for non-English languages, but our database's `refName` field is always English.
+// `ITEM_BY_REF` alone can therefore never match localized text (e.g. Japanese).
+// Try the localized-name index first, and fall back to the English-ref index so
+// this still works for English clients / entries that were never translated.
+function lookupByAnyName (ns: BaseType['namespace'], name: string): BaseType[] | undefined {
+  const translated = ITEM_BY_TRANSLATED(ns, name)
+  if (translated?.length) return translated
+  return ITEM_BY_REF(ns, name)
+}
+
 function findInDatabase (item: ParserState) {
   let info: BaseType[] | undefined
   if (item.category === ItemCategory.DivinationCard) {
-    info = ITEM_BY_REF('DIVINATION_CARD', item.name)
+    info = lookupByAnyName('DIVINATION_CARD', item.name)
   } else if (item.category === ItemCategory.CapturedBeast) {
-    info = ITEM_BY_REF('CAPTURED_BEAST', item.baseType ?? item.name)
+    info = lookupByAnyName('CAPTURED_BEAST', item.baseType ?? item.name)
   } else if (item.category === ItemCategory.Gem) {
-    info = ITEM_BY_REF('GEM', item.name)
+    info = lookupByAnyName('GEM', item.name)
   } else if (item.category === ItemCategory.MetamorphSample) {
     info = ITEM_BY_REF('ITEM', item.name)
   } else if (item.category === ItemCategory.Voidstone) {
     info = ITEM_BY_REF('ITEM', 'Charged Compass')
   } else if (item.rarity === ItemRarity.Unique && !item.isUnidentified) {
-    info = ITEM_BY_REF('UNIQUE', item.name)
+    info = lookupByAnyName('UNIQUE', item.name)
   } else {
-    info = ITEM_BY_REF('ITEM', item.baseType ?? item.name)
+    info = lookupByAnyName('ITEM', item.baseType ?? item.name)
   }
   if (!info?.length) {
     return err('item.unknown')
   }
   if (info[0].unique) {
-    info = info.filter(info => info.unique!.base === item.baseType)
+    // item.baseType is raw (possibly localized) client text; resolve it to the
+    // English refName before comparing against `unique.base` (always English).
+    const baseTypeRef = item.baseType
+      ? lookupByAnyName('ITEM', item.baseType)?.[0]?.refName ?? item.baseType
+      : item.baseType
+    info = info.filter(info => info.unique!.base === baseTypeRef)
   }
   item.infoVariants = info
   // choose 1st variant, correct one will be picked at the end of parsing
