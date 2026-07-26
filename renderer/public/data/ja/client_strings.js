@@ -108,14 +108,14 @@ export default {
   CRAFTED_PREFIX: 'マスタークラフト プレフィックスモッド',
   CRAFTED_SUFFIX: 'マスタークラフト サフィックスモッド',
   IMPLICIT_MODIFIER: '暗黙モッド',
-  FRACTURED_PREFIX: 'Fractured Prefix',
-  FRACTURED_SUFFIX: 'Fractured Suffix',
+  FRACTURED_PREFIX: 'フラクチャー プレフィックスモッド',
+  FRACTURED_SUFFIX: 'フラクチャー サフィックスモッド',
   UNSCALABLE_VALUE: ' — スケールできない値',
   CORRUPTED_IMPLICIT: 'コラプト暗黙モッド',
   MODIFIER_INCREASED: /^(.*)増加する$/,
 
-  INCURSION_OPEN: 'Opens Into',
-  INCURSION_OBSTRUCTED: 'Obstructed By',
+  INCURSION_OPEN: '開放された部屋:',
+  INCURSION_OBSTRUCTED: '塞がれた部屋:',
 
   EATER_IMPLICIT: /^世界を喰らうもの 暗黙モッド(?<rank>「[^」]+」)?$/,
   EXARCH_IMPLICIT: /^灼熱の代行者 暗黙モッド(?<rank>「[^」]+」)?$/,
@@ -127,7 +127,7 @@ export default {
   ELDRITCH_MOD_R5: '「大」',
   ELDRITCH_MOD_R6: '「大」',
 
-  SENTINEL_CHARGE: 'Sentinel Charge',
+  SENTINEL_CHARGE: 'チャージ: ',
 
   SHAPER_MODS: [],
   ELDER_MODS: [],

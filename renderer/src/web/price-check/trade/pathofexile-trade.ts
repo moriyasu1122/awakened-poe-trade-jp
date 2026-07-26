@@ -400,7 +400,7 @@ export function createTradeRequest (filters: ItemFilters, stats: StatFilter[]) {
   }
 
   for (const stat of stats) {
-    if (!stat.tradeId[0].startsWith('item.')) continue
+    if (!stat.tradeId.length || !stat.tradeId[0].startsWith('item.')) continue
 
     if (stat.tradeId[0] === 'item.has_empty_modifier') {
       const TARGET_ID = {

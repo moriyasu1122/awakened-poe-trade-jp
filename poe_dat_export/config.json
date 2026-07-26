@@ -1,0 +1,18 @@
+{
+  "patch": "3.29.0.2.2",
+  "translations": ["English", "Japanese"],
+  "tables": [
+    {
+      "name": "Words",
+      "columns": ["Wordlist", "Text", "Text2"]
+    },
+    {
+      "name": "BaseItemTypes",
+      "columns": ["Id", "Name"]
+    },
+    {
+      "name": "ClientStrings",
+      "columns": ["Id", "Text"]
+    }
+  ]
+}
