@@ -920,7 +920,7 @@ electron-updater@^6.8.3:
     semver "~7.7.3"
     tiny-typed-emitter "^2.1.0"
 
-electron@^40.9.1:
+electron@^40.10.6:
   version "40.10.6"
   resolved "https://registry.yarnpkg.com/electron/-/electron-40.10.6.tgz#4d6fedded9b2a789f3b42ece9b251961192d87f9"
   integrity sha512-TGjlkOU9Lg6K4KjDbsErywCWCIDaNgLh0q+xj0nlpRoQhevI7VBIxBTtJI/V30lypyLAaXMpnP9O9jui1/qRFw==
