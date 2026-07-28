@@ -117,8 +117,8 @@ export default {
   INCURSION_OPEN: '開放された部屋:',
   INCURSION_OBSTRUCTED: '塞がれた部屋:',
 
-  EATER_IMPLICIT: /^世界を喰らうもの 暗黙モッド(?<rank>「[^」]+」)?$/,
-  EXARCH_IMPLICIT: /^灼熱の代行者 暗黙モッド(?<rank>「[^」]+」)?$/,
+  EATER_IMPLICIT: /^イーター・オブ・ワールズ 暗黙モッド\s*(?<rank>「[^」]+」)?$/,
+  EXARCH_IMPLICIT: /^シアリング・エグザーク 暗黙モッド\s*(?<rank>「[^」]+」)?$/,
 
   ELDRITCH_MOD_R1: '「小」',
   ELDRITCH_MOD_R2: '「小」',
