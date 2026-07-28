@@ -138,6 +138,8 @@ export default {
   DELVE_MODS: [],
   VEILED_MODS: [],
   INCURSION_MODS: [],
+  ESSENCE_MODS: [],
+  INFAMOUS_MODS: [],
 
   FOIL_UNIQUE: 'フォイルユニーク',
   UNMODIFIABLE: '変更不可',
