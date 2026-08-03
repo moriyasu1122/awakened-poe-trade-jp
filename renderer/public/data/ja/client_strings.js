@@ -128,6 +128,7 @@ export default {
   ELDRITCH_MOD_R6: '「大」',
 
   SENTINEL_CHARGE: 'チャージ: ',
+  SCRYING_MAP_AREA: 'マップエリア: ',
 
   SHAPER_MODS: [],
   ELDER_MODS: [],
@@ -145,6 +146,8 @@ export default {
   UNMODIFIABLE: '変更不可',
   FOULBORN_NAME: /^ファウルボーン (.*)$/,
   FOULBORN_MODIFIER: 'ファウルボーンユニークモッド',
+  VESTIGIAL_NAME: /^痕跡 (.*)$/,
+  VESTIGIAL_IMPLICIT: '痕跡暗黙モッド',
 
   CHAT_SYSTEM: /^$/,
   CHAT_TRADE: /^$/,

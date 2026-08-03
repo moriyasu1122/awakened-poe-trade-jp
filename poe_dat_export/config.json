@@ -17,6 +17,10 @@
     {
       "name": "PassiveSkills",
       "columns": ["Id", "Name"]
+    },
+    {
+      "name": "WorldAreas",
+      "columns": ["Id", "Name"]
     }
   ]
 }
