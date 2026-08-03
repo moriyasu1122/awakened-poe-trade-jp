@@ -1,7 +1,8 @@
 # Awakened PoE Trade 日本語対応版
 
 [Awakened PoE Trade](https://github.com/SnosMe/awakened-poe-trade) を日本語で使えるようにしたフォーク版です。
-。
+設定のgeneral→language→日本語
+UIが英語なのは仕様
 
 ➡️ **[Releaseページからダウンロード(Windows)](https://github.com/tomogara1111-afk/awakened-poe-trade-jp/releases)** ⬅️
 
