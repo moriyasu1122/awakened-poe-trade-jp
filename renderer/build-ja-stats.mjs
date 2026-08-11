@@ -20559,6 +20559,9 @@ const TRANSLATIONS = {
   'Added Small Passive Skills grant: 10% increased Life Recovery from Flasks': '追加される通常パッシブスキルは付与: フラスコによるライフ回復量が10%増加する',
   'Added Small Passive Skills grant: 10% increased Mana Recovery from Flasks': '追加される通常パッシブスキルは付与: フラスコによるマナ回復量が10%増加する',
   "Area is Influenced by the Originator's Memories": 'エリアはオリジネイターのメモリーインフルエンスを受けている',
+  '#% increased Dead Man\'s Sulphur found in this Area': 'このエリアで見つかる死人の硫黄が#%増加する',
+  '#% reduced Dead Man\'s Sulphur found in this Area': 'このエリアで見つかる死人の硫黄が#%減少する',
+  'Voyage Modifier will be revealed once Charted': '海図作成すると航海モッドが公開される',
 }
 
 const NOTABLE_NAMES = {

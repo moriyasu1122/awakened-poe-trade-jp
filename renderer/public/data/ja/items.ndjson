@@ -4890,3 +4890,19 @@
 {"name":"サンゴの森の海図","refName":"Coral Forest Chart","namespace":"ITEM","craftable":{"category":"Chart"},"tradeDisc":"chart","icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVlcHdhdGVyL0RlZXB3YXRlclRvcm5NYXAyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImRjZCI6MTN9XQ/e06af0c1ae/DeepwaterTornMap2.png"}
 {"name":"サンゴ礁の海図","refName":"Coral Reef Chart","namespace":"ITEM","craftable":{"category":"Chart"},"tradeDisc":"chart","icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVlcHdhdGVyL0RlZXB3YXRlclRvcm5NYXAzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImRjZCI6MTN9XQ/894944efa8/DeepwaterTornMap3.png"}
 {"name":"砂の海底の海図","refName":"Sandy Seabed Chart","namespace":"ITEM","craftable":{"category":"Chart"},"tradeDisc":"chart","icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVlcHdhdGVyL0RlZXB3YXRlclRvcm5NYXAxIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImRjZCI6MTN9XQ/e108d791dc/DeepwaterTornMap1.png"}
+{"name":"深海平原","refName":"Abyssal Plain","namespace":"AREA","tradeDisc":"AbyssalPlain","icon":""}
+{"name":"ブラインキングの領域","refName":"Brine King's Domain","namespace":"AREA","tradeDisc":"BrineKingsDomain","icon":""}
+{"name":"貝が群生する海棚","refName":"Clam-infested Shelf","namespace":"AREA","tradeDisc":"ClamInfestedShelf","icon":""}
+{"name":"潜水の浅瀬","refName":"Diving Shoals","namespace":"AREA","tradeDisc":"DivingShoals","icon":""}
+{"name":"エルドリッチの深み","refName":"Eldritch Depths","namespace":"AREA","tradeDisc":"EldritchDepths","icon":""}
+{"name":"危険な深み","refName":"Hazardous Depths","namespace":"AREA","tradeDisc":"HazardousDepths","icon":""}
+{"name":"寄生された潜水球","refName":"Infested Bathyspheres","namespace":"AREA","tradeDisc":"InfestedBathyspheres","icon":""}
+{"name":"キシャラの安息所","refName":"Kishara's Rest","namespace":"AREA","tradeDisc":"KisharasRest","icon":""}
+{"name":"失われた遺跡","refName":"Lost Ruins","namespace":"AREA","tradeDisc":"LostRuins","icon":""}
+{"name":"外洋のアビス","refName":"Pelagic Abyss","namespace":"AREA","tradeDisc":"PelagicAbyss","icon":""}
+{"name":"海の柱","refName":"Sea Pillars","namespace":"AREA","tradeDisc":"SeaPillars","icon":""}
+{"name":"海底の尾根","refName":"Seafloor Ridges","namespace":"AREA","tradeDisc":"SeafloorRidges","icon":""}
+{"name":"沈んだトーテム","refName":"Sunken Totems","namespace":"AREA","tradeDisc":"SunkenTotems","icon":""}
+{"name":"海底の木立","refName":"Undersea Groves","namespace":"AREA","tradeDisc":"UnderseaGroves","icon":""}
+{"name":"特徴のない海底","refName":"Unremarkable Seabed","namespace":"AREA","tradeDisc":"UnremarkableSeabed","icon":""}
+{"name":"錨海域","refName":"Anchorfield","namespace":"AREA","tradeDisc":"Anchorfield","icon":""}
