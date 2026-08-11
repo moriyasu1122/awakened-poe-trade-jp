@@ -4887,3 +4887,6 @@
 {"name": "荒野", "refName": "Wasteland", "namespace": "AREA", "tradeDisc": "17533", "icon": ""}
 {"name": "水路", "refName": "Waterways", "namespace": "AREA", "tradeDisc": "28402", "icon": ""}
 {"name": "埠頭", "refName": "Wharf", "namespace": "AREA", "tradeDisc": "54239", "icon": ""}
+{"name":"サンゴの森の海図","refName":"Coral Forest Chart","namespace":"ITEM","craftable":{"category":"Chart"},"tradeDisc":"chart","icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVlcHdhdGVyL0RlZXB3YXRlclRvcm5NYXAyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImRjZCI6MTN9XQ/e06af0c1ae/DeepwaterTornMap2.png"}
+{"name":"サンゴ礁の海図","refName":"Coral Reef Chart","namespace":"ITEM","craftable":{"category":"Chart"},"tradeDisc":"chart","icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVlcHdhdGVyL0RlZXB3YXRlclRvcm5NYXAzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImRjZCI6MTN9XQ/894944efa8/DeepwaterTornMap3.png"}
+{"name":"砂の海底の海図","refName":"Sandy Seabed Chart","namespace":"ITEM","craftable":{"category":"Chart"},"tradeDisc":"chart","icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVlcHdhdGVyL0RlZXB3YXRlclRvcm5NYXAxIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImRjZCI6MTN9XQ/e108d791dc/DeepwaterTornMap1.png"}

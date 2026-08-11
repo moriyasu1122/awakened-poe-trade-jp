@@ -129,6 +129,7 @@ export default {
 
   SENTINEL_CHARGE: 'チャージ: ',
   SCRYING_MAP_AREA: 'マップエリア: ',
+  CHART_SULPHUR: '死人の硫黄: ',
 
   SHAPER_MODS: [],
   ELDER_MODS: [],
