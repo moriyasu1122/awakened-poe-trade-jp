@@ -50,7 +50,12 @@ export enum ItemCategory {
   Charm = 'Charm',
   Idol = 'Idol',
   Graft = 'Graft',
-  Chart = 'Chart'
+  Chart = 'Chart',
+  MercenaryWarrant = 'Mercenary Warrant',
+  UpperLimbViscera = 'Upper Limb Viscera',
+  LowerLimbViscera = 'Lower Limb Viscera',
+  HeadViscera = 'Head Viscera',
+  TorsoViscera = 'Torso Viscera'
 }
 
 export const WEAPON_ONE_HANDED_MELEE = new Set([
@@ -91,7 +96,7 @@ export const ARMOUR = new Set([
   ItemCategory.Shield
 ])
 
-export const ACCESSORY = new Set([
+export const JEWELLERY = new Set([
   ItemCategory.Amulet,
   ItemCategory.Belt,
   ItemCategory.Ring

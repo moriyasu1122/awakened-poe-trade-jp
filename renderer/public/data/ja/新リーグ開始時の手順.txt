@@ -1,7 +1,28 @@
-新リーグ対応の具体的な手順は次の通りです。
+新リーグ開始時(本家の更新取り込み)の手順  ※2026/11 3.30対応時に更新
 
-新リーグ実装後、本家の awakened-poe-trade(GitHub: SnosMe/awakened-poe-trade)が更新版をリリースするのを待ち、最新ソース一式を再度ダウンロードする
-上書きする前に、現在の renderer/public/data/ja フォルダ一式と renderer/build-ja-stats.mjs を別の場所にバックアップしておく(ここが今回の翻訳作業の成果そのものなので、うっかり新しい en 版で丸ごと上書きしないように)
-新しい public/data/en/stats.ndjson・en/items.ndjson 等だけを反映し、バックアップしておいた ja フォルダと build-ja-stats.mjs を元の場所に戻す
-node build-ja-stats.mjs を再実行 — 新しい en/stats.ndjson に対して、既存のTRANSLATIONS辞書が自動的に再マッチされます。新リーグの新しいMod文言はTRANSLATIONS辞書にまだ登録されていないので、そこだけ英語表示のまま残りますが、エラーやクラッシュにはなりません
-yarn make-index-files を再実行
+1. 本家の更新を取り込む
+   git fetch upstream
+   git merge upstream/master
+   (衝突したら、日本語版の変更 = 'ja' の追加など を残しつつ本家側に合わせる)
+
+2. ゲームデータを最新にする(poe_dat_export フォルダで)
+   config.json の "patch" を最新のパッチ番号に書き換える
+   npx pathofexile-dat
+
+3. 日本語データを作り直す(renderer フォルダで)
+   node build-ja-items.mjs   … アイテム名。既存の訳を残し、新アイテムはゲームデータから訳を取る
+   node build-ja-stats.mjs   … Mod。build-ja-stats.mjs の TRANSLATIONS 辞書から作る
+
+4. client_strings.js の項目の抜けを確認する
+   本家の en/client_strings.js に増えた項目を ja/client_strings.js にも追加する
+   (日本語訳は poe_dat_export/tables/Japanese/ClientStrings.json から探せる)
+
+5. 動作確認と exe 作成
+   yarn dev で確認 → build_exe.bat
+   ※ 検索インデックス(*.index.bin)は yarn dev / yarn build 時に自動で作られる
+     (以前の yarn make-index-files は不要になった)
+
+メモ
+- 本家の更新で英文の大文字/小文字だけが変わった場合は、build-ja-stats.mjs が自動で吸収する
+- 英文自体が変わったModは辞書を直す必要がある。ゲームで NOT RECOGNIZED になったものから順に対応する
+- 1つの英文に複数の日本語表記を登録したい場合は ['旧表記', '新表記'] のように配列で書く

@@ -16,7 +16,8 @@ export default {
   MAP_ITEM_RARITY: 'アイテムレアリティ: ',
   MAP_MONSTER_PACK_SIZE: 'モンスターパックサイズ: ',
   MAP_MORE_MAPS: 'マップ量が上昇: ',
-  MAP_MORE_SCARABS: 'スレッド量が上昇: ',
+  MAP_ATLAS_DROPS: 'アトラスドロップ: ',
+  MAP_MORE_THREADS: 'スレッド量が上昇: ',
   MAP_MORE_CURRENCY: 'カレンシー量が上昇: ',
   MAP_MORE_DIVINATION_CARDS: '占いカード増加: ',
   MAP_COMPLETION_REWARD: /^報酬: フォイル (.*)$/,
@@ -45,6 +46,15 @@ export default {
   BLOCK_CHANCE: 'ブロック率: ',
 
   CORRUPTED: 'コラプト状態',
+  TWICE_CORRUPTED: '二重コラプト',
+  VISCERA_HELP: 'これを街または隠れ家にいるウィッカーマンのもとに持っていくと、取り付けることができる。',
+  VISCERA_UPPER_LIMB: '腕',
+  VISCERA_LOWER_LIMB: '足',
+  VISCERA_HEAD: '頭部',
+  VISCERA_TORSO: '胴体',
+  RARE_ONLY_AFFIX: 'レアのみ',
+  ITEM_EATER: 'イーター・オブ・ワールズのアイテム',
+  ITEM_EXARCH: 'シアリング・エグザークのアイテム',
   UNIDENTIFIED: '未鑑定',
   ITEM_SUPERIOR: /^上質な (.*)$/,
 
@@ -128,7 +138,9 @@ export default {
   ELDRITCH_MOD_R6: '「大」',
 
   SENTINEL_CHARGE: 'チャージ: ',
-  SCRYING_MAP_AREA: 'マップエリア: ',
+  MAP_AREA: 'マップエリア: ',
+  MERCENARY_LEVEL: '傭兵レベル: ', // 未確認(ゲームデータに無し)
+  MERCENARY_BUILD: 'ビルド: ', // 未確認(ゲームデータに無し)
   CHART_SULPHUR: '死人の硫黄: ',
 
   SHAPER_MODS: [],

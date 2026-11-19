@@ -12624,7 +12624,9 @@ const TRANSLATIONS = {
   '#% increased Cold Damage with Attack Skills': 'アタックスキルの冷気ダメージが#%増加する',
   '#% increased Fire Damage with Attack Skills': 'アタックスキルの火ダメージ#%増加',
   '#% increased Elemental Damage with Attack Skills': 'アタックスキルの元素ダメージが#%増加する',
-  '#% increased Rarity of Items found': ['見つかるアイテムのレアリティが#%増加する', 'アイテムレアリティ #%'],
+  '#% increased Rarity of Items found': '見つかるアイテムのレアリティが#%増加する',
+  // 3.30から装備のレアリティModは「+#% to Item Rarity」(日本語: アイテムレアリティ +#%)に置き換わった
+  '#% to Item Rarity': 'アイテムレアリティ #%',
   '#% increased Burning Damage': '燃焼ダメージが#%増加する',
   '# Life Regenerated per Second ': '毎秒#のライフ自動回復',
   '#% of Life Regenerated per Second ': '毎秒ライフの #%自動回復',
@@ -20869,6 +20871,15 @@ console.log(`${lines.length} 行見つかりました。変換を開始します
 
 const NOTABLE_PATTERN = /^1 Added Passive Skill is (.+)$/
 
+// 本家の更新で英文の大文字・小文字だけが変わることがある(例: "on hit" → "on Hit")ため、
+// 完全一致しない場合は大文字・小文字と空白の違いを無視して辞書を引く
+const normKey = (s) => s.toLowerCase().replace(/\s+/g, ' ').trim()
+const TRANSLATIONS_NORM = new Map()
+for (const [k, v] of Object.entries(TRANSLATIONS)) {
+  TRANSLATIONS_NORM.set(normKey(k), v)
+}
+const lookupTranslation = (en) => TRANSLATIONS[en] ?? TRANSLATIONS_NORM.get(normKey(en))
+
 let addedCount = 0
 let notableMatchedCount = 0
 const notFoundNotables = new Set(Object.keys(NOTABLE_NAMES))
@@ -20886,7 +20897,15 @@ const outLines = lines.map(line => {
   for (const stat of stats) {
     for (const matcher of stat.matchers) {
       // 値は文字列、または複数の表記を登録したい場合は配列 ['旧表記', '新表記'] で書ける
-      const jaTexts = [].concat(TRANSLATIONS[matcher.string] ?? [])
+      const jaTexts = [].concat(lookupTranslation(matcher.string) ?? [])
+      // タイムレスジュエル: 3.30から名前の範囲「(アコヤ-ラキアタ)」が「(...)」と表示され、
+      // パーサーはそれを取り除いてから照合するため、括弧部分を除いた表記も登録する
+      if (/ are Conquered by the /.test(matcher.string)) {
+        for (const t of [...jaTexts]) {
+          const stripped = t.replace(/\([^()#\d\n]*-[^()#\d\n]*\)/g, '')
+          if (stripped !== t) jaTexts.push(stripped)
+        }
+      }
       for (const jaText of jaTexts) {
         if (jaText && !stat.matchers.some((m) => m.string === jaText)) {
           stat.matchers.push({ ...matcher, string: jaText })
