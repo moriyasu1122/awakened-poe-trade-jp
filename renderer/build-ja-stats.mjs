@@ -1836,7 +1836,7 @@ const TRANSLATIONS = {
   'While there are at least five nearby Allies, you and nearby Allies have Onslaught': '周囲に少なくとも5体の味方がいる場合、あなたと周囲の味方は猛攻を得る',
 
   // --- ティンクチャー(Tinctures) modifiers (poedb.tw/us/Tinctures 照合) ---
-  '#% increased Elemental Damage with Melee Weapons': '近接武器のエレメンタルダメージが#%増加する',
+  '#% increased Elemental Damage with Melee Weapons': '近接武器による元素ダメージが#%増加する',
   '#% reduced Enemy Stun Threshold with Melee Weapons': '近接武器による敵のスタン閾値が#%減少する',
   '#% increased Stun Duration with Melee Weapons': '近接武器によるスタン時間が#%増加する',
   '#% chance to Ignite with Melee Weapons': '近接武器で#%の確率で発火させる',
@@ -6472,7 +6472,7 @@ const TRANSLATIONS = {
   '#% reduced Elemental Damage with Attack Skills per Power Charge': 'パワーチャージ1個につき、アタックスキルのエレメンタルダメージが#%減少する',
   '#% increased Elemental Damage with Hits and Ailments for\neach type of Elemental Ailment on Enemy': '敵にかかっているエレメンタル状態異常の種類につき、ヒットおよび状態異常のエレメンタルダメージが#%増加する',
   '#% reduced Elemental Damage with Hits and Ailments for\neach type of Elemental Ailment on Enemy': '敵にかかっているエレメンタル状態異常の種類につき、ヒットおよび状態異常のエレメンタルダメージが#%減少する',
-  '#% reduced Elemental Damage with Melee Weapons': '近接武器のエレメンタルダメージが#%減少する',
+  '#% reduced Elemental Damage with Melee Weapons': '近接武器による元素ダメージが#%減少する',
   '#% of Elemental Damage from your Hits cannot be Reflected while\naffected by Purity of Elements': 'ピュリティオブエレメンツの影響を受けている間、自分のヒットによるエレメンタルダメージの#%は反射されない',
   '#% increased Elemental Damage taken from Hits per Endurance Charge': 'エンデュランスチャージ1個につき、ヒットから受けるエレメンタルダメージが#%増加する',
   '#% reduced Elemental Damage taken from Hits per Endurance Charge': 'エンデュランスチャージ1個につき、ヒットから受けるエレメンタルダメージが#%減少する',
@@ -12624,7 +12624,7 @@ const TRANSLATIONS = {
   '#% increased Cold Damage with Attack Skills': 'アタックスキルの冷気ダメージが#%増加する',
   '#% increased Fire Damage with Attack Skills': 'アタックスキルの火ダメージ#%増加',
   '#% increased Elemental Damage with Attack Skills': 'アタックスキルの元素ダメージが#%増加する',
-  '#% increased Rarity of Items found': '見つかるアイテムのレアリティが#%増加する',
+  '#% increased Rarity of Items found': ['見つかるアイテムのレアリティが#%増加する', 'アイテムレアリティ #%'],
   '#% increased Burning Damage': '燃焼ダメージが#%増加する',
   '# Life Regenerated per Second ': '毎秒#のライフ自動回復',
   '#% of Life Regenerated per Second ': '毎秒ライフの #%自動回復',
@@ -20885,10 +20885,13 @@ const outLines = lines.map(line => {
   const stats = ('stats' in obj) ? obj.stats : [obj]
   for (const stat of stats) {
     for (const matcher of stat.matchers) {
-      const jaText = TRANSLATIONS[matcher.string]
-      if (jaText && !stat.matchers.some((m) => m.string === jaText)) {
-        stat.matchers.push({ ...matcher, string: jaText })
-        addedCount += 1
+      // 値は文字列、または複数の表記を登録したい場合は配列 ['旧表記', '新表記'] で書ける
+      const jaTexts = [].concat(TRANSLATIONS[matcher.string] ?? [])
+      for (const jaText of jaTexts) {
+        if (jaText && !stat.matchers.some((m) => m.string === jaText)) {
+          stat.matchers.push({ ...matcher, string: jaText })
+          addedCount += 1
+        }
       }
 
       const notableMatch = matcher.string.match(NOTABLE_PATTERN)

@@ -1,1 +1,6 @@
-{}
+{
+  "dependencies": {
+    "pathofexile-dat": "^16.0.1",
+    "poe-dat-export": "^2.0.0"
+  }
+}

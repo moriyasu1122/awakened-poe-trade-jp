@@ -16,7 +16,7 @@ export default {
   MAP_ITEM_RARITY: 'アイテムレアリティ: ',
   MAP_MONSTER_PACK_SIZE: 'モンスターパックサイズ: ',
   MAP_MORE_MAPS: 'マップ量が上昇: ',
-  MAP_MORE_SCARABS: 'スカラベ量が上昇: ',
+  MAP_MORE_SCARABS: 'スレッド量が上昇: ',
   MAP_MORE_CURRENCY: 'カレンシー量が上昇: ',
   MAP_MORE_DIVINATION_CARDS: '占いカード増加: ',
   MAP_COMPLETION_REWARD: /^報酬: フォイル (.*)$/,
@@ -112,7 +112,7 @@ export default {
   FRACTURED_SUFFIX: 'フラクチャー サフィックスモッド',
   UNSCALABLE_VALUE: ' — スケールできない値',
   CORRUPTED_IMPLICIT: 'コラプト暗黙モッド',
-  MODIFIER_INCREASED: /^(.*)増加する$/,
+  MODIFIER_INCREASED: /^(.+?)%\s*増加(?:する)?$/,
 
   INCURSION_OPEN: '開放された部屋:',
   INCURSION_OBSTRUCTED: '塞がれた部屋:',

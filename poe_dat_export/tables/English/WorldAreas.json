@@ -2056,4543 +2056,4543 @@
   },
   {
     "_index": 411,
-    "Id": "BetrayalTest",
-    "Name": "Betrayal Test Encounter"
-  },
-  {
-    "_index": 412,
     "Id": "BetrayalLaboratory1",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 413,
+    "_index": 412,
     "Id": "BetrayalLaboratory2",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 414,
+    "_index": 413,
     "Id": "BetrayalLaboratory3",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 415,
+    "_index": 414,
     "Id": "BetrayalLaboratory4",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 416,
+    "_index": 415,
     "Id": "BetrayalLaboratory5",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 417,
+    "_index": 416,
     "Id": "BetrayalLaboratory6",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 418,
+    "_index": 417,
     "Id": "BetrayalLaboratory7",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 419,
+    "_index": 418,
     "Id": "BetrayalLaboratory8",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 420,
+    "_index": 419,
     "Id": "BetrayalLaboratory9",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 421,
+    "_index": 420,
     "Id": "BetrayalLaboratory10",
     "Name": "Syndicate Laboratory"
   },
   {
-    "_index": 422,
+    "_index": 421,
     "Id": "BetrayalSafeHouseFortress",
     "Name": "Syndicate Hideout"
   },
   {
-    "_index": 423,
+    "_index": 422,
     "Id": "BetrayalSafeHouseAssassins",
     "Name": "Syndicate Hideout"
   },
   {
-    "_index": 424,
+    "_index": 423,
     "Id": "BetrayalSafeHouseCaravan",
     "Name": "Syndicate Hideout"
   },
   {
-    "_index": 425,
+    "_index": 424,
     "Id": "BetrayalSafeHouseLaboratory",
     "Name": "Syndicate Hideout"
   },
   {
-    "_index": 426,
+    "_index": 425,
     "Id": "BetrayalMastermindFight",
     "Name": "Mastermind's Lair"
   },
   {
-    "_index": 427,
+    "_index": 426,
     "Id": "Synthesis_Main",
     "Name": "Memory Void"
   },
   {
-    "_index": 428,
+    "_index": 427,
     "Id": "Synthesis_Main2",
     "Name": "Memory Void"
   },
   {
-    "_index": 429,
+    "_index": 428,
     "Id": "Synthesis_Main3",
     "Name": "Memory Void"
   },
   {
-    "_index": 430,
+    "_index": 429,
     "Id": "Synthesis_Main4",
     "Name": "Memory Void"
   },
   {
-    "_index": 431,
+    "_index": 430,
     "Id": "Synthesis_Main5",
     "Name": "Memory Void"
   },
   {
-    "_index": 432,
+    "_index": 431,
     "Id": "Synthesis_Main6",
     "Name": "Memory Void"
   },
   {
-    "_index": 433,
+    "_index": 432,
     "Id": "Synthesis_Main7_",
     "Name": "Memory Void"
   },
   {
-    "_index": 434,
+    "_index": 433,
     "Id": "Synthesis_Main8",
     "Name": "Memory Void"
   },
   {
-    "_index": 435,
+    "_index": 434,
     "Id": "Synthesis_Main9",
     "Name": "Memory Void"
   },
   {
-    "_index": 436,
+    "_index": 435,
     "Id": "Synthesis_Main10",
     "Name": "Memory Void"
   },
   {
-    "_index": 437,
+    "_index": 436,
     "Id": "Synthesis_Main11",
     "Name": "Memory Void"
   },
   {
-    "_index": 438,
+    "_index": 437,
     "Id": "Synthesis_Main12",
     "Name": "Memory Void"
   },
   {
-    "_index": 439,
+    "_index": 438,
     "Id": "Synthesis_Single",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 440,
+    "_index": 439,
     "Id": "Synthesis_Single2",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 441,
+    "_index": 440,
     "Id": "Synthesis_Single3",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 442,
+    "_index": 441,
     "Id": "Synthesis_Single4",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 443,
+    "_index": 442,
     "Id": "Synthesis_Single5",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 444,
+    "_index": 443,
     "Id": "Synthesis_Single6",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 445,
+    "_index": 444,
     "Id": "Synthesis_Single7",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 446,
+    "_index": 445,
     "Id": "Synthesis_Single8",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 447,
+    "_index": 446,
     "Id": "Synthesis_Single9",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 448,
+    "_index": 447,
     "Id": "Synthesis_Single10",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 449,
+    "_index": 448,
     "Id": "Synthesis_Single11",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 450,
+    "_index": 449,
     "Id": "Synthesis_Single12",
     "Name": "Fragmented Memory"
   },
   {
-    "_index": 451,
+    "_index": 450,
     "Id": "Synthesis_Hub",
     "Name": "Memory Nexus"
   },
   {
-    "_index": 452,
+    "_index": 451,
     "Id": "Synthesis_Boss",
     "Name": "Fractured Laboratory"
   },
   {
-    "_index": 453,
+    "_index": 452,
     "Id": "Synthesis_Guardian1",
     "Name": "Distant Memory"
   },
   {
-    "_index": 454,
+    "_index": 453,
     "Id": "Synthesis_Guardian2",
     "Name": "Distant Memory"
   },
   {
-    "_index": 455,
+    "_index": 454,
     "Id": "Synthesis_Guardian3",
     "Name": "Distant Memory"
   },
   {
-    "_index": 456,
+    "_index": 455,
     "Id": "Synthesis_Guardian4",
     "Name": "Distant Memory"
   },
   {
-    "_index": 457,
+    "_index": 456,
     "Id": "Synthesis_TippingPoint",
     "Name": "Shattered Memory"
   },
   {
-    "_index": 458,
+    "_index": 457,
     "Id": "Synthesis_MapBoss",
     "Name": "Cortex"
   },
   {
-    "_index": 459,
+    "_index": 458,
     "Id": "Synthesis_MapGuardian1",
     "Name": "Altered Distant Memory"
   },
   {
-    "_index": 460,
+    "_index": 459,
     "Id": "Synthesis_MapGuardian2",
     "Name": "Augmented Distant Memory"
   },
   {
-    "_index": 461,
+    "_index": 460,
     "Id": "Synthesis_MapGuardian3",
     "Name": "Twisted Distant Memory"
   },
   {
-    "_index": 462,
+    "_index": 461,
     "Id": "Synthesis_MapGuardian4",
     "Name": "Rewritten Distant Memory"
   },
   {
-    "_index": 463,
+    "_index": 462,
     "Id": "Metamorphosis_Hub",
     "Name": "Tane's Laboratory"
   },
   {
-    "_index": 464,
+    "_index": 463,
     "Id": "Labyrinth_Airlock",
     "Name": "Aspirants' Plaza"
   },
   {
-    "_index": 465,
+    "_index": 464,
     "Id": "1_Labyrinth_AirlockClean",
     "Name": "Aspirants' Plaza"
   },
   {
-    "_index": 466,
+    "_index": 465,
     "Id": "1_Labyrinth_C_end",
     "Name": "Sepulchre Annex"
   },
   {
-    "_index": 467,
+    "_index": 466,
     "Id": "1_Labyrinth_C_end_bottleneck",
     "Name": "Sepulchre Annex"
   },
   {
-    "_index": 468,
+    "_index": 467,
     "Id": "1_Labyrinth_C_straight",
     "Name": "Sepulchre Passage"
   },
   {
-    "_index": 469,
+    "_index": 468,
     "Id": "1_Labyrinth_C_straight_bottleneck",
     "Name": "Sepulchre Passage"
   },
   {
-    "_index": 470,
+    "_index": 469,
     "Id": "1_Labyrinth_C_branch",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 471,
+    "_index": 470,
     "Id": "1_Labyrinth_C_branch_bottleneck_1",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 472,
+    "_index": 471,
     "Id": "1_Labyrinth_C_branch_bottleneck_2",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 473,
+    "_index": 472,
     "Id": "1_Labyrinth_C_branch_door",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 474,
+    "_index": 473,
     "Id": "1_Labyrinth_C_quad",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 475,
+    "_index": 474,
     "Id": "1_Labyrinth_C_quad_bottleneck",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 476,
+    "_index": 475,
     "Id": "1_Labyrinth_C_quad_door",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 477,
+    "_index": 476,
     "Id": "1_Labyrinth_P_end",
     "Name": "Sanitorium Annex"
   },
   {
-    "_index": 478,
+    "_index": 477,
     "Id": "1_Labyrinth_P_end_bottleneck",
     "Name": "Sanitorium Annex"
   },
   {
-    "_index": 479,
+    "_index": 478,
     "Id": "1_Labyrinth_P_straight",
     "Name": "Sanitorium Passage"
   },
   {
-    "_index": 480,
+    "_index": 479,
     "Id": "1_Labyrinth_P_straight_bottleneck",
     "Name": "Sanitorium Passage"
   },
   {
-    "_index": 481,
+    "_index": 480,
     "Id": "1_Labyrinth_P_branch",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 482,
+    "_index": 481,
     "Id": "1_Labyrinth_P_branch_bottleneck_1",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 483,
+    "_index": 482,
     "Id": "1_Labyrinth_P_branch_bottleneck_2",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 484,
+    "_index": 483,
     "Id": "1_Labyrinth_P_branch_door",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 485,
+    "_index": 484,
     "Id": "1_Labyrinth_P_quad",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 486,
+    "_index": 485,
     "Id": "1_Labyrinth_P_quad_bottleneck",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 487,
+    "_index": 486,
     "Id": "1_Labyrinth_P_quad_door",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 488,
+    "_index": 487,
     "Id": "1_Labyrinth_EH_end",
     "Name": "Mansion Annex"
   },
   {
-    "_index": 489,
+    "_index": 488,
     "Id": "1_Labyrinth_EH_end_bottleneck",
     "Name": "Mansion Annex"
   },
   {
-    "_index": 490,
+    "_index": 489,
     "Id": "1_Labyrinth_EH_straight_#",
     "Name": "Mansion Passage"
   },
   {
-    "_index": 491,
+    "_index": 490,
     "Id": "1_Labyrinth_EH_straight_bottleneck",
     "Name": "Mansion Passage"
   },
   {
-    "_index": 492,
+    "_index": 491,
     "Id": "1_Labyrinth_EH_branch",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 493,
+    "_index": 492,
     "Id": "1_Labyrinth_EH_branch_bottleneck_1",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 494,
+    "_index": 493,
     "Id": "1_Labyrinth_EH_branch_bottleneck_2",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 495,
+    "_index": 494,
     "Id": "1_Labyrinth_EH_branch_door",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 496,
+    "_index": 495,
     "Id": "1_Labyrinth_EH_quad",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 497,
+    "_index": 496,
     "Id": "1_Labyrinth_EH_quad_bottleneck",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 498,
+    "_index": 497,
     "Id": "1_Labyrinth_EH_quad_door_#",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 499,
+    "_index": 498,
     "Id": "1_Labyrinth_EH_block_branch",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 500,
+    "_index": 499,
     "Id": "1_Labyrinth_RT_end",
     "Name": "Basilica Annex"
   },
   {
-    "_index": 501,
+    "_index": 500,
     "Id": "1_Labyrinth_RT_end_bottleneck",
     "Name": "Basilica Annex"
   },
   {
-    "_index": 502,
+    "_index": 501,
     "Id": "1_Labyrinth_RT_straight",
     "Name": "Basilica Passage"
   },
   {
-    "_index": 503,
+    "_index": 502,
     "Id": "1_Labyrinth_RT_straight_bottleneck",
     "Name": "Basilica Passage"
   },
   {
-    "_index": 504,
+    "_index": 503,
     "Id": "1_Labyrinth_RT_branch",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 505,
+    "_index": 504,
     "Id": "1_Labyrinth_RT_branch_bottleneck_1",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 506,
+    "_index": 505,
     "Id": "1_Labyrinth_RT_branch_bottleneck_2",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 507,
+    "_index": 506,
     "Id": "1_Labyrinth_RT_branch_door",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 508,
+    "_index": 507,
     "Id": "1_Labyrinth_RT_quad_#",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 509,
+    "_index": 508,
     "Id": "1_Labyrinth_RT_quad_bottleneck",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 510,
+    "_index": 509,
     "Id": "1_Labyrinth_RT_quad_door",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 511,
+    "_index": 510,
     "Id": "1_Labyrinth_DG_end",
     "Name": "Domain Enclosure"
   },
   {
-    "_index": 512,
+    "_index": 511,
     "Id": "1_Labyrinth_DG_end_bottleneck_#",
     "Name": "Domain Enclosure"
   },
   {
-    "_index": 513,
+    "_index": 512,
     "Id": "1_Labyrinth_DG_straight",
     "Name": "Domain Path"
   },
   {
-    "_index": 514,
+    "_index": 513,
     "Id": "1_Labyrinth_DG_straight_bottleneck",
     "Name": "Domain Path"
   },
   {
-    "_index": 515,
+    "_index": 514,
     "Id": "1_Labyrinth_DG_branch",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 516,
+    "_index": 515,
     "Id": "1_Labyrinth_DG_branch_bottleneck_1_#",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 517,
+    "_index": 516,
     "Id": "1_Labyrinth_DG_branch_bottleneck_2",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 518,
+    "_index": 517,
     "Id": "1_Labyrinth_DG_branch_door",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 519,
+    "_index": 518,
     "Id": "1_Labyrinth_DG_quad",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 520,
+    "_index": 519,
     "Id": "1_Labyrinth_DG_quad_bottleneck",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 521,
+    "_index": 520,
     "Id": "1_Labyrinth_DG_quad_door",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 522,
+    "_index": 521,
     "Id": "1_Labyrinth_OH_end",
     "Name": "Estate Enclosure"
   },
   {
-    "_index": 523,
+    "_index": 522,
     "Id": "1_Labyrinth_OH_end_bottleneck",
     "Name": "Estate Enclosure"
   },
   {
-    "_index": 524,
+    "_index": 523,
     "Id": "1_Labyrinth_OH_straight",
     "Name": "Estate Path"
   },
   {
-    "_index": 525,
+    "_index": 524,
     "Id": "1_Labyrinth_OH_straight_bottleneck",
     "Name": "Estate Path"
   },
   {
-    "_index": 526,
+    "_index": 525,
     "Id": "1_Labyrinth_OH_branch",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 527,
+    "_index": 526,
     "Id": "1_Labyrinth_OH_branch_bottleneck_1",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 528,
+    "_index": 527,
     "Id": "1_Labyrinth_OH_branch_bottleneck_2",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 529,
+    "_index": 528,
     "Id": "1_Labyrinth_OH_branch_door",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 530,
+    "_index": 529,
     "Id": "1_Labyrinth_OH_quad_#",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 531,
+    "_index": 530,
     "Id": "1_Labyrinth_OH_quad_bottleneck",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 532,
+    "_index": 531,
     "Id": "1_Labyrinth_OH_quad_door_#",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 533,
+    "_index": 532,
     "Id": "1_Labyrinth_boss_1",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 534,
+    "_index": 533,
     "Id": "1_Labyrinth_boss_2",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 535,
+    "_index": 534,
     "Id": "1_Labyrinth_boss_3",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 536,
+    "_index": 535,
     "Id": "1_Labyrinth_boss_1_end",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 537,
+    "_index": 536,
     "Id": "1_Labyrinth_boss_2_end",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 538,
+    "_index": 537,
     "Id": "1_Labyrinth_boss_3_end_#",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 539,
+    "_index": 538,
     "Id": "2_Labyrinth_C_end",
     "Name": "Sepulchre Annex"
   },
   {
-    "_index": 540,
+    "_index": 539,
     "Id": "2_Labyrinth_C_end_bottleneck",
     "Name": "Sepulchre Annex"
   },
   {
-    "_index": 541,
+    "_index": 540,
     "Id": "2_Labyrinth_C_straight",
     "Name": "Sepulchre Passage"
   },
   {
-    "_index": 542,
+    "_index": 541,
     "Id": "2_Labyrinth_C_straight_bottleneck",
     "Name": "Sepulchre Passage"
   },
   {
-    "_index": 543,
+    "_index": 542,
     "Id": "2_Labyrinth_C_branch",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 544,
+    "_index": 543,
     "Id": "2_Labyrinth_C_branch_bottleneck_1",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 545,
+    "_index": 544,
     "Id": "2_Labyrinth_C_branch_bottleneck_2",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 546,
+    "_index": 545,
     "Id": "2_Labyrinth_C_branch_door",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 547,
+    "_index": 546,
     "Id": "2_Labyrinth_C_quad",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 548,
+    "_index": 547,
     "Id": "2_Labyrinth_C_quad_bottleneck",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 549,
+    "_index": 548,
     "Id": "2_Labyrinth_C_quad_door",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 550,
+    "_index": 549,
     "Id": "2_Labyrinth_P_end",
     "Name": "Sanitorium Annex"
   },
   {
-    "_index": 551,
+    "_index": 550,
     "Id": "2_Labyrinth_P_end_bottleneck",
     "Name": "Sanitorium Annex"
   },
   {
-    "_index": 552,
+    "_index": 551,
     "Id": "2_Labyrinth_P_straight",
     "Name": "Sanitorium Passage"
   },
   {
-    "_index": 553,
+    "_index": 552,
     "Id": "2_Labyrinth_P_straight_bottleneck",
     "Name": "Sanitorium Passage"
   },
   {
-    "_index": 554,
+    "_index": 553,
     "Id": "2_Labyrinth_P_branch",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 555,
+    "_index": 554,
     "Id": "2_Labyrinth_P_branch_bottleneck_1",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 556,
+    "_index": 555,
     "Id": "2_Labyrinth_P_branch_bottleneck_2",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 557,
+    "_index": 556,
     "Id": "2_Labyrinth_P_branch_door",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 558,
+    "_index": 557,
     "Id": "2_Labyrinth_P_quad",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 559,
+    "_index": 558,
     "Id": "2_Labyrinth_P_quad_bottleneck",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 560,
+    "_index": 559,
     "Id": "2_Labyrinth_P_quad_door",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 561,
+    "_index": 560,
     "Id": "2_Labyrinth_EH_end",
     "Name": "Mansion Annex"
   },
   {
-    "_index": 562,
+    "_index": 561,
     "Id": "2_Labyrinth_EH_end_bottleneck",
     "Name": "Mansion Annex"
   },
   {
-    "_index": 563,
+    "_index": 562,
     "Id": "2_Labyrinth_EH_straight_#",
     "Name": "Mansion Passage"
   },
   {
-    "_index": 564,
+    "_index": 563,
     "Id": "2_Labyrinth_EH_straight_bottleneck",
     "Name": "Mansion Passage"
   },
   {
-    "_index": 565,
+    "_index": 564,
     "Id": "2_Labyrinth_EH_branch",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 566,
+    "_index": 565,
     "Id": "2_Labyrinth_EH_branch_bottleneck_1",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 567,
+    "_index": 566,
     "Id": "2_Labyrinth_EH_branch_bottleneck_2",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 568,
+    "_index": 567,
     "Id": "2_Labyrinth_EH_branch_door",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 569,
+    "_index": 568,
     "Id": "2_Labyrinth_EH_quad",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 570,
+    "_index": 569,
     "Id": "2_Labyrinth_EH_quad_bottleneck",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 571,
+    "_index": 570,
     "Id": "2_Labyrinth_EH_quad_door_#",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 572,
+    "_index": 571,
     "Id": "2_Labyrinth_RT_end",
     "Name": "Basilica Annex"
   },
   {
-    "_index": 573,
+    "_index": 572,
     "Id": "2_Labyrinth_RT_end_bottleneck",
     "Name": "Basilica Annex"
   },
   {
-    "_index": 574,
+    "_index": 573,
     "Id": "2_Labyrinth_RT_straight",
     "Name": "Basilica Passage"
   },
   {
-    "_index": 575,
+    "_index": 574,
     "Id": "2_Labyrinth_RT_straight_bottleneck",
     "Name": "Basilica Passage"
   },
   {
-    "_index": 576,
+    "_index": 575,
     "Id": "2_Labyrinth_RT_branch",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 577,
+    "_index": 576,
     "Id": "2_Labyrinth_RT_branch_bottleneck_1",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 578,
+    "_index": 577,
     "Id": "2_Labyrinth_RT_branch_bottleneck_2",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 579,
+    "_index": 578,
     "Id": "2_Labyrinth_RT_branch_door",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 580,
+    "_index": 579,
     "Id": "2_Labyrinth_RT_quad_#",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 581,
+    "_index": 580,
     "Id": "2_Labyrinth_RT_quad_bottleneck",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 582,
+    "_index": 581,
     "Id": "2_Labyrinth_RT_quad_door",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 583,
+    "_index": 582,
     "Id": "2_Labyrinth_DG_end",
     "Name": "Domain Enclosure"
   },
   {
-    "_index": 584,
+    "_index": 583,
     "Id": "2_Labyrinth_DG_end_bottleneck_#",
     "Name": "Domain Enclosure"
   },
   {
-    "_index": 585,
+    "_index": 584,
     "Id": "2_Labyrinth_DG_straight",
     "Name": "Domain Path"
   },
   {
-    "_index": 586,
+    "_index": 585,
     "Id": "2_Labyrinth_DG_straight_bottleneck",
     "Name": "Domain Path"
   },
   {
-    "_index": 587,
+    "_index": 586,
     "Id": "2_Labyrinth_DG_branch",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 588,
+    "_index": 587,
     "Id": "2_Labyrinth_DG_branch_bottleneck_1_#",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 589,
+    "_index": 588,
     "Id": "2_Labyrinth_DG_branch_bottleneck_2",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 590,
+    "_index": 589,
     "Id": "2_Labyrinth_DG_branch_door",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 591,
+    "_index": 590,
     "Id": "2_Labyrinth_DG_quad",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 592,
+    "_index": 591,
     "Id": "2_Labyrinth_DG_quad_bottleneck",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 593,
+    "_index": 592,
     "Id": "2_Labyrinth_DG_quad_door",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 594,
+    "_index": 593,
     "Id": "2_Labyrinth_OH_end",
     "Name": "Estate Enclosure"
   },
   {
-    "_index": 595,
+    "_index": 594,
     "Id": "2_Labyrinth_OH_end_bottleneck",
     "Name": "Estate Enclosure"
   },
   {
-    "_index": 596,
+    "_index": 595,
     "Id": "2_Labyrinth_OH_straight",
     "Name": "Estate Path"
   },
   {
-    "_index": 597,
+    "_index": 596,
     "Id": "2_Labyrinth_OH_straight_bottleneck",
     "Name": "Estate Path"
   },
   {
-    "_index": 598,
+    "_index": 597,
     "Id": "2_Labyrinth_OH_branch",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 599,
+    "_index": 598,
     "Id": "2_Labyrinth_OH_branch_bottleneck_1",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 600,
+    "_index": 599,
     "Id": "2_Labyrinth_OH_branch_bottleneck_2",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 601,
+    "_index": 600,
     "Id": "2_Labyrinth_OH_branch_door",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 602,
+    "_index": 601,
     "Id": "2_Labyrinth_OH_quad_#",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 603,
+    "_index": 602,
     "Id": "2_Labyrinth_OH_quad_bottleneck",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 604,
+    "_index": 603,
     "Id": "2_Labyrinth_OH_quad_door_#",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 605,
+    "_index": 604,
     "Id": "2_Labyrinth_boss_1",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 606,
+    "_index": 605,
     "Id": "2_Labyrinth_boss_2",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 607,
+    "_index": 606,
     "Id": "2_Labyrinth_boss_3",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 608,
+    "_index": 607,
     "Id": "2_Labyrinth_boss_1_end",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 609,
+    "_index": 608,
     "Id": "2_Labyrinth_boss_2_end",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 610,
+    "_index": 609,
     "Id": "2_Labyrinth_boss_3_end_#",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 611,
+    "_index": 610,
     "Id": "3_Labyrinth_C_end",
     "Name": "Sepulchre Annex"
   },
   {
-    "_index": 612,
+    "_index": 611,
     "Id": "3_Labyrinth_C_end_bottleneck",
     "Name": "Sepulchre Annex"
   },
   {
-    "_index": 613,
+    "_index": 612,
     "Id": "3_Labyrinth_C_straight",
     "Name": "Sepulchre Passage"
   },
   {
-    "_index": 614,
+    "_index": 613,
     "Id": "3_Labyrinth_C_straight_bottleneck",
     "Name": "Sepulchre Passage"
   },
   {
-    "_index": 615,
+    "_index": 614,
     "Id": "3_Labyrinth_C_branch",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 616,
+    "_index": 615,
     "Id": "3_Labyrinth_C_branch_bottleneck_1",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 617,
+    "_index": 616,
     "Id": "3_Labyrinth_C_branch_bottleneck_2",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 618,
+    "_index": 617,
     "Id": "3_Labyrinth_C_branch_door",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 619,
+    "_index": 618,
     "Id": "3_Labyrinth_C_quad",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 620,
+    "_index": 619,
     "Id": "3_Labyrinth_C_quad_bottleneck",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 621,
+    "_index": 620,
     "Id": "3_Labyrinth_C_quad_door",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 622,
+    "_index": 621,
     "Id": "3_Labyrinth_P_end",
     "Name": "Sanitorium Annex"
   },
   {
-    "_index": 623,
+    "_index": 622,
     "Id": "3_Labyrinth_P_end_bottleneck",
     "Name": "Sanitorium Annex"
   },
   {
-    "_index": 624,
+    "_index": 623,
     "Id": "3_Labyrinth_P_straight",
     "Name": "Sanitorium Passage"
   },
   {
-    "_index": 625,
+    "_index": 624,
     "Id": "3_Labyrinth_P_straight_bottleneck",
     "Name": "Sanitorium Passage"
   },
   {
-    "_index": 626,
+    "_index": 625,
     "Id": "3_Labyrinth_P_branch",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 627,
+    "_index": 626,
     "Id": "3_Labyrinth_P_branch_bottleneck_1",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 628,
+    "_index": 627,
     "Id": "3_Labyrinth_P_branch_bottleneck_2",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 629,
+    "_index": 628,
     "Id": "3_Labyrinth_P_branch_door",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 630,
+    "_index": 629,
     "Id": "3_Labyrinth_P_quad",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 631,
+    "_index": 630,
     "Id": "3_Labyrinth_P_quad_bottleneck",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 632,
+    "_index": 631,
     "Id": "3_Labyrinth_P_quad_door",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 633,
+    "_index": 632,
     "Id": "3_Labyrinth_EH_end",
     "Name": "Mansion Annex"
   },
   {
-    "_index": 634,
+    "_index": 633,
     "Id": "3_Labyrinth_EH_end_bottleneck",
     "Name": "Mansion Annex"
   },
   {
-    "_index": 635,
+    "_index": 634,
     "Id": "3_Labyrinth_EH_straight_#",
     "Name": "Mansion Passage"
   },
   {
-    "_index": 636,
+    "_index": 635,
     "Id": "3_Labyrinth_EH_straight_bottleneck",
     "Name": "Mansion Passage"
   },
   {
-    "_index": 637,
+    "_index": 636,
     "Id": "3_Labyrinth_EH_branch",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 638,
+    "_index": 637,
     "Id": "3_Labyrinth_EH_branch_bottleneck_1",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 639,
+    "_index": 638,
     "Id": "3_Labyrinth_EH_branch_bottleneck_2",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 640,
+    "_index": 639,
     "Id": "3_Labyrinth_EH_branch_door",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 641,
+    "_index": 640,
     "Id": "3_Labyrinth_EH_quad",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 642,
+    "_index": 641,
     "Id": "3_Labyrinth_EH_quad_bottleneck",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 643,
+    "_index": 642,
     "Id": "3_Labyrinth_EH_quad_door_#",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 644,
+    "_index": 643,
     "Id": "3_Labyrinth_RT_end",
     "Name": "Basilica Annex"
   },
   {
-    "_index": 645,
+    "_index": 644,
     "Id": "3_Labyrinth_RT_end_bottleneck",
     "Name": "Basilica Annex"
   },
   {
-    "_index": 646,
+    "_index": 645,
     "Id": "3_Labyrinth_RT_straight",
     "Name": "Basilica Passage"
   },
   {
-    "_index": 647,
+    "_index": 646,
     "Id": "3_Labyrinth_RT_straight_bottleneck",
     "Name": "Basilica Passage"
   },
   {
-    "_index": 648,
+    "_index": 647,
     "Id": "3_Labyrinth_RT_branch",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 649,
+    "_index": 648,
     "Id": "3_Labyrinth_RT_branch_bottleneck_1",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 650,
+    "_index": 649,
     "Id": "3_Labyrinth_RT_branch_bottleneck_2",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 651,
+    "_index": 650,
     "Id": "3_Labyrinth_RT_branch_door",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 652,
+    "_index": 651,
     "Id": "3_Labyrinth_RT_quad_#",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 653,
+    "_index": 652,
     "Id": "3_Labyrinth_RT_quad_bottleneck",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 654,
+    "_index": 653,
     "Id": "3_Labyrinth_RT_quad_door",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 655,
+    "_index": 654,
     "Id": "3_Labyrinth_DG_end",
     "Name": "Domain Enclosure"
   },
   {
-    "_index": 656,
+    "_index": 655,
     "Id": "3_Labyrinth_DG_end_bottleneck_#",
     "Name": "Domain Enclosure"
   },
   {
-    "_index": 657,
+    "_index": 656,
     "Id": "3_Labyrinth_DG_straight",
     "Name": "Domain Path"
   },
   {
-    "_index": 658,
+    "_index": 657,
     "Id": "3_Labyrinth_DG_straight_bottleneck",
     "Name": "Domain Path"
   },
   {
-    "_index": 659,
+    "_index": 658,
     "Id": "3_Labyrinth_DG_branch",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 660,
+    "_index": 659,
     "Id": "3_Labyrinth_DG_branch_bottleneck_1_#",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 661,
+    "_index": 660,
     "Id": "3_Labyrinth_DG_branch_bottleneck_2",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 662,
+    "_index": 661,
     "Id": "3_Labyrinth_DG_branch_door",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 663,
+    "_index": 662,
     "Id": "3_Labyrinth_DG_quad",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 664,
+    "_index": 663,
     "Id": "3_Labyrinth_DG_quad_bottleneck",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 665,
+    "_index": 664,
     "Id": "3_Labyrinth_DG_quad_door",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 666,
+    "_index": 665,
     "Id": "3_Labyrinth_OH_end",
     "Name": "Estate Enclosure"
   },
   {
-    "_index": 667,
+    "_index": 666,
     "Id": "3_Labyrinth_OH_end_bottleneck",
     "Name": "Estate Enclosure"
   },
   {
-    "_index": 668,
+    "_index": 667,
     "Id": "3_Labyrinth_OH_straight",
     "Name": "Estate Path"
   },
   {
-    "_index": 669,
+    "_index": 668,
     "Id": "3_Labyrinth_OH_straight_bottleneck",
     "Name": "Estate Path"
   },
   {
-    "_index": 670,
+    "_index": 669,
     "Id": "3_Labyrinth_OH_branch",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 671,
+    "_index": 670,
     "Id": "3_Labyrinth_OH_branch_bottleneck_1",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 672,
+    "_index": 671,
     "Id": "3_Labyrinth_OH_branch_bottleneck_2",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 673,
+    "_index": 672,
     "Id": "3_Labyrinth_OH_branch_door",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 674,
+    "_index": 673,
     "Id": "3_Labyrinth_OH_quad_#",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 675,
+    "_index": 674,
     "Id": "3_Labyrinth_OH_quad_bottleneck",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 676,
+    "_index": 675,
     "Id": "3_Labyrinth_OH_quad_door_#",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 677,
+    "_index": 676,
     "Id": "3_Labyrinth_boss_1",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 678,
+    "_index": 677,
     "Id": "3_Labyrinth_boss_2",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 679,
+    "_index": 678,
     "Id": "3_Labyrinth_boss_3",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 680,
+    "_index": 679,
     "Id": "3_Labyrinth_boss_1_end",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 681,
+    "_index": 680,
     "Id": "3_Labyrinth_boss_2_end_#",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 682,
+    "_index": 681,
     "Id": "3_Labyrinth_boss_3_end",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 683,
+    "_index": 682,
     "Id": "EndGame_Labyrinth_C_end",
     "Name": "Sepulchre Annex"
   },
   {
-    "_index": 684,
+    "_index": 683,
     "Id": "EndGame_Labyrinth_C_end_bottleneck",
     "Name": "Sepulchre Annex"
   },
   {
-    "_index": 685,
+    "_index": 684,
     "Id": "EndGame_Labyrinth_C_straight",
     "Name": "Sepulchre Passage"
   },
   {
-    "_index": 686,
+    "_index": 685,
     "Id": "EndGame_Labyrinth_C_straight_bottleneck",
     "Name": "Sepulchre Passage"
   },
   {
-    "_index": 687,
+    "_index": 686,
     "Id": "EndGame_Labyrinth_C_branch",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 688,
+    "_index": 687,
     "Id": "EndGame_Labyrinth_C_branch_bottleneck_1",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 689,
+    "_index": 688,
     "Id": "EndGame_Labyrinth_C_branch_bottleneck_2",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 690,
+    "_index": 689,
     "Id": "EndGame_Labyrinth_C_branch_door",
     "Name": "Sepulchre Halls"
   },
   {
-    "_index": 691,
+    "_index": 690,
     "Id": "EndGame_Labyrinth_C_quad",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 692,
+    "_index": 691,
     "Id": "EndGame_Labyrinth_C_quad_bottleneck",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 693,
+    "_index": 692,
     "Id": "EndGame_Labyrinth_C_quad_door",
     "Name": "Sepulchre Atrium"
   },
   {
-    "_index": 694,
+    "_index": 693,
     "Id": "EndGame_Labyrinth_P_end",
     "Name": "Sanitorium Annex"
   },
   {
-    "_index": 695,
+    "_index": 694,
     "Id": "EndGame_Labyrinth_P_end_bottleneck",
     "Name": "Sanitorium Annex"
   },
   {
-    "_index": 696,
+    "_index": 695,
     "Id": "EndGame_Labyrinth_P_straight",
     "Name": "Sanitorium Passage"
   },
   {
-    "_index": 697,
+    "_index": 696,
     "Id": "EndGame_Labyrinth_P_straight_bottleneck",
     "Name": "Sanitorium Passage"
   },
   {
-    "_index": 698,
+    "_index": 697,
     "Id": "EndGame_Labyrinth_P_branch",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 699,
+    "_index": 698,
     "Id": "EndGame_Labyrinth_P_branch_bottleneck_1",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 700,
+    "_index": 699,
     "Id": "EndGame_Labyrinth_P_branch_bottleneck_2",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 701,
+    "_index": 700,
     "Id": "EndGame_Labyrinth_P_branch_door",
     "Name": "Sanitorium Halls"
   },
   {
-    "_index": 702,
+    "_index": 701,
     "Id": "EndGame_Labyrinth_P_quad",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 703,
+    "_index": 702,
     "Id": "EndGame_Labyrinth_P_quad_bottleneck",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 704,
+    "_index": 703,
     "Id": "EndGame_Labyrinth_P_quad_door",
     "Name": "Sanitorium Atrium"
   },
   {
-    "_index": 705,
+    "_index": 704,
     "Id": "EndGame_Labyrinth_EH_end",
     "Name": "Mansion Annex"
   },
   {
-    "_index": 706,
+    "_index": 705,
     "Id": "EndGame_Labyrinth_EH_end_bottleneck",
     "Name": "Mansion Annex"
   },
   {
-    "_index": 707,
+    "_index": 706,
     "Id": "EndGame_Labyrinth_EH_straight_#",
     "Name": "Mansion Passage"
   },
   {
-    "_index": 708,
+    "_index": 707,
     "Id": "EndGame_Labyrinth_EH_straight_bottleneck",
     "Name": "Mansion Passage"
   },
   {
-    "_index": 709,
+    "_index": 708,
     "Id": "EndGame_Labyrinth_EH_branch",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 710,
+    "_index": 709,
     "Id": "EndGame_Labyrinth_EH_branch_bottleneck_1",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 711,
+    "_index": 710,
     "Id": "EndGame_Labyrinth_EH_branch_bottleneck_2",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 712,
+    "_index": 711,
     "Id": "EndGame_Labyrinth_EH_branch_door",
     "Name": "Mansion Halls"
   },
   {
-    "_index": 713,
+    "_index": 712,
     "Id": "EndGame_Labyrinth_EH_quad",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 714,
+    "_index": 713,
     "Id": "EndGame_Labyrinth_EH_quad_bottleneck",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 715,
+    "_index": 714,
     "Id": "EndGame_Labyrinth_EH_quad_door_#",
     "Name": "Mansion Atrium"
   },
   {
-    "_index": 716,
+    "_index": 715,
     "Id": "EndGame_Labyrinth_RT_end",
     "Name": "Basilica Annex"
   },
   {
-    "_index": 717,
+    "_index": 716,
     "Id": "EndGame_Labyrinth_RT_end_bottleneck",
     "Name": "Basilica Annex"
   },
   {
-    "_index": 718,
+    "_index": 717,
     "Id": "EndGame_Labyrinth_RT_straight",
     "Name": "Basilica Passage"
   },
   {
-    "_index": 719,
+    "_index": 718,
     "Id": "EndGame_Labyrinth_RT_straight_bottleneck",
     "Name": "Basilica Passage"
   },
   {
-    "_index": 720,
+    "_index": 719,
     "Id": "EndGame_Labyrinth_RT_branch",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 721,
+    "_index": 720,
     "Id": "EndGame_Labyrinth_RT_branch_bottleneck_1",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 722,
+    "_index": 721,
     "Id": "EndGame_Labyrinth_RT_branch_bottleneck_2",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 723,
+    "_index": 722,
     "Id": "EndGame_Labyrinth_RT_branch_door",
     "Name": "Basilica Halls"
   },
   {
-    "_index": 724,
+    "_index": 723,
     "Id": "EndGame_Labyrinth_RT_quad_#",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 725,
+    "_index": 724,
     "Id": "EndGame_Labyrinth_RT_quad_bottleneck",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 726,
+    "_index": 725,
     "Id": "EndGame_Labyrinth_RT_quad_door",
     "Name": "Basilica Atrium"
   },
   {
-    "_index": 727,
+    "_index": 726,
     "Id": "EndGame_Labyrinth_DG_end",
     "Name": "Domain Enclosure"
   },
   {
-    "_index": 728,
+    "_index": 727,
     "Id": "EndGame_Labyrinth_DG_end_bottleneck_#",
     "Name": "Domain Enclosure"
   },
   {
-    "_index": 729,
+    "_index": 728,
     "Id": "EndGame_Labyrinth_DG_straight",
     "Name": "Domain Path"
   },
   {
-    "_index": 730,
+    "_index": 729,
     "Id": "EndGame_Labyrinth_DG_straight_bottleneck",
     "Name": "Domain Path"
   },
   {
-    "_index": 731,
+    "_index": 730,
     "Id": "EndGame_Labyrinth_DG_branch",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 732,
+    "_index": 731,
     "Id": "EndGame_Labyrinth_DG_branch_bottleneck_1_#",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 733,
+    "_index": 732,
     "Id": "EndGame_Labyrinth_DG_branch_bottleneck_2",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 734,
+    "_index": 733,
     "Id": "EndGame_Labyrinth_DG_branch_door",
     "Name": "Domain Walkways"
   },
   {
-    "_index": 735,
+    "_index": 734,
     "Id": "EndGame_Labyrinth_DG_quad",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 736,
+    "_index": 735,
     "Id": "EndGame_Labyrinth_DG_quad_bottleneck",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 737,
+    "_index": 736,
     "Id": "EndGame_Labyrinth_DG_quad_door",
     "Name": "Domain Crossing"
   },
   {
-    "_index": 738,
+    "_index": 737,
     "Id": "EndGame_Labyrinth_OH_end",
     "Name": "Estate Enclosure"
   },
   {
-    "_index": 739,
+    "_index": 738,
     "Id": "EndGame_Labyrinth_OH_end_bottleneck",
     "Name": "Estate Enclosure"
   },
   {
-    "_index": 740,
+    "_index": 739,
     "Id": "EndGame_Labyrinth_OH_straight",
     "Name": "Estate Path"
   },
   {
-    "_index": 741,
+    "_index": 740,
     "Id": "EndGame_Labyrinth_OH_straight_bottleneck",
     "Name": "Estate Path"
   },
   {
-    "_index": 742,
+    "_index": 741,
     "Id": "EndGame_Labyrinth_OH_branch",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 743,
+    "_index": 742,
     "Id": "EndGame_Labyrinth_OH_branch_bottleneck_1",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 744,
+    "_index": 743,
     "Id": "EndGame_Labyrinth_OH_branch_bottleneck_2",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 745,
+    "_index": 744,
     "Id": "EndGame_Labyrinth_OH_branch_door",
     "Name": "Estate Walkways"
   },
   {
-    "_index": 746,
+    "_index": 745,
     "Id": "EndGame_Labyrinth_OH_quad_#",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 747,
+    "_index": 746,
     "Id": "EndGame_Labyrinth_OH_quad_bottleneck",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 748,
+    "_index": 747,
     "Id": "EndGame_Labyrinth_OH_quad_door_#",
     "Name": "Estate Crossing"
   },
   {
-    "_index": 749,
+    "_index": 748,
     "Id": "EndGame_Labyrinth_boss_1",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 750,
+    "_index": 749,
     "Id": "EndGame_Labyrinth_boss_2",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 751,
+    "_index": 750,
     "Id": "EndGame_Labyrinth_boss_3",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 752,
+    "_index": 751,
     "Id": "EndGame_Labyrinth_boss_1_end",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 753,
+    "_index": 752,
     "Id": "EndGame_Labyrinth_boss_2_end",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 754,
+    "_index": 753,
     "Id": "EndGame_Labyrinth_boss_3_end",
     "Name": "Aspirant's Trial"
   },
   {
-    "_index": 755,
+    "_index": 754,
     "Id": "EndGame_Labyrinth_trials_sawblades_#",
     "Name": "Trial of Crippling Grief"
   },
   {
-    "_index": 756,
+    "_index": 755,
     "Id": "EndGame_Labyrinth_trials_lava_#",
     "Name": "Trial of Burning Rage"
   },
   {
-    "_index": 757,
+    "_index": 756,
     "Id": "EndGame_Labyrinth_trials_spinners",
     "Name": "Trial of Swirling Fear"
   },
   {
-    "_index": 758,
+    "_index": 757,
     "Id": "EndGame_Labyrinth_trials_spikes",
     "Name": "Trial of Piercing Truth"
   },
   {
-    "_index": 759,
+    "_index": 758,
     "Id": "EndGame_Labyrinth_trials_arrows",
     "Name": "Trial of Stinging Doubt"
   },
   {
-    "_index": 760,
+    "_index": 759,
     "Id": "EndGame_Labyrinth_trials_roombas",
     "Name": "Trial of Lingering Pain"
   },
   {
-    "_index": 761,
+    "_index": 760,
     "Id": "MapAtziri1",
     "Name": "The Apex of Sacrifice"
   },
   {
-    "_index": 762,
+    "_index": 761,
     "Id": "MapAtziri2",
     "Name": "The Alluring Abyss"
   },
   {
-    "_index": 763,
+    "_index": 762,
     "Id": "MapTier1_1",
     "Name": "Cursed Crypt"
   },
   {
-    "_index": 764,
+    "_index": 763,
     "Id": "MapTier1_1Unique",
     "Name": "The Coward's Trial"
   },
   {
-    "_index": 765,
+    "_index": 764,
     "Id": "MapTier1_2",
     "Name": "Dungeon"
   },
   {
-    "_index": 766,
+    "_index": 765,
     "Id": "MapTier1_3",
     "Name": "Grotto"
   },
   {
-    "_index": 767,
+    "_index": 766,
     "Id": "MapTier1_4",
     "Name": "Overgrown Ruin"
   },
   {
-    "_index": 768,
+    "_index": 767,
     "Id": "MapTier1_5",
     "Name": "Dunes"
   },
   {
-    "_index": 769,
+    "_index": 768,
     "Id": "MapTier1_6",
     "Name": "Arid Lake"
   },
   {
-    "_index": 770,
+    "_index": 769,
     "Id": "MapTier1_7",
     "Name": "Tropical Island"
   },
   {
-    "_index": 771,
+    "_index": 770,
     "Id": "MapTier1_7Unique",
     "Name": "Untainted Paradise"
   },
   {
-    "_index": 772,
+    "_index": 771,
     "Id": "MapTier1_8",
     "Name": "Orchard"
   },
   {
-    "_index": 773,
+    "_index": 772,
     "Id": "MapTier2_1",
     "Name": "Wharf"
   },
   {
-    "_index": 774,
+    "_index": 773,
     "Id": "MapTier2_2",
     "Name": "Arsenal"
   },
   {
-    "_index": 775,
+    "_index": 774,
     "Id": "MapTier2_3",
     "Name": "Thicket"
   },
   {
-    "_index": 776,
+    "_index": 775,
     "Id": "MapTier2_4",
     "Name": "Atoll"
   },
   {
-    "_index": 777,
+    "_index": 776,
     "Id": "MapTier2_4Unique",
     "Name": "Maelström of Chaos"
   },
   {
-    "_index": 778,
+    "_index": 777,
     "Id": "MapTier2_5",
     "Name": "Cemetery"
   },
   {
-    "_index": 779,
+    "_index": 778,
     "Id": "MapTier2_6",
     "Name": "Toxic Sewer"
   },
   {
-    "_index": 780,
+    "_index": 779,
     "Id": "MapTier2_7",
     "Name": "Arcade"
   },
   {
-    "_index": 781,
+    "_index": 780,
     "Id": "MapTier3_1",
     "Name": "Ghetto"
   },
   {
-    "_index": 782,
+    "_index": 781,
     "Id": "MapTier3_2",
     "Name": "Spider Lair"
   },
   {
-    "_index": 783,
+    "_index": 782,
     "Id": "MapTier3_3",
     "Name": "Vaal Pyramid"
   },
   {
-    "_index": 784,
+    "_index": 783,
     "Id": "MapTier3_3Unique",
     "Name": "Vaults of Atziri"
   },
   {
-    "_index": 785,
+    "_index": 784,
     "Id": "MapTier3_4",
     "Name": "Reef"
   },
   {
-    "_index": 786,
+    "_index": 785,
     "Id": "MapTier3_4Unique",
     "Name": "Mao Kun"
   },
   {
-    "_index": 787,
+    "_index": 786,
     "Id": "MapTier3_5",
     "Name": "Fungal Hollow"
   },
   {
-    "_index": 788,
+    "_index": 787,
     "Id": "MapTier3_6",
     "Name": "Mud Geyser"
   },
   {
-    "_index": 789,
+    "_index": 788,
     "Id": "MapTier3_7",
     "Name": "Museum"
   },
   {
-    "_index": 790,
+    "_index": 789,
     "Id": "MapTier4_1",
     "Name": "Bone Crypt"
   },
   {
-    "_index": 791,
+    "_index": 790,
     "Id": "MapTier4_1Unique",
     "Name": "Convent of the Twins' Flame"
   },
   {
-    "_index": 792,
+    "_index": 791,
     "Id": "MapTier4_2",
     "Name": "Overgrown Shrine"
   },
   {
-    "_index": 793,
+    "_index": 792,
     "Id": "MapTier4_2Unique",
     "Name": "Acton's Nightmare"
   },
   {
-    "_index": 794,
+    "_index": 793,
     "Id": "MapTier4_3",
     "Name": "Crystal Ore"
   },
   {
-    "_index": 795,
+    "_index": 794,
     "Id": "MapTier4_4",
     "Name": "Shore"
   },
   {
-    "_index": 796,
+    "_index": 795,
     "Id": "MapTier4_5",
     "Name": "Spider Forest"
   },
   {
-    "_index": 797,
+    "_index": 796,
     "Id": "MapTier4_6",
     "Name": "Promenade"
   },
   {
-    "_index": 798,
+    "_index": 797,
     "Id": "MapTier4_6Unique",
     "Name": "The Hall of Grandmasters"
   },
   {
-    "_index": 799,
+    "_index": 798,
     "Id": "MapTier5_1",
     "Name": "Underground River"
   },
   {
-    "_index": 800,
+    "_index": 799,
     "Id": "MapTier5_2",
     "Name": "Pier"
   },
   {
-    "_index": 801,
+    "_index": 800,
     "Id": "MapTier5_3",
     "Name": "Bog"
   },
   {
-    "_index": 802,
+    "_index": 801,
     "Id": "MapTier5_4",
     "Name": "Graveyard"
   },
   {
-    "_index": 803,
+    "_index": 802,
     "Id": "MapTier5_5",
     "Name": "Coves"
   },
   {
-    "_index": 804,
+    "_index": 803,
     "Id": "MapTier5_6",
     "Name": "Villa"
   },
   {
-    "_index": 805,
+    "_index": 804,
     "Id": "MapTier6_1",
     "Name": "Temple"
   },
   {
-    "_index": 806,
+    "_index": 805,
     "Id": "MapTier6_1Unique",
     "Name": "Poorjoy's Asylum"
   },
   {
-    "_index": 807,
+    "_index": 806,
     "Id": "MapTier6_2",
     "Name": "Arachnid Nest"
   },
   {
-    "_index": 808,
+    "_index": 807,
     "Id": "MapTier6_3",
     "Name": "Strand"
   },
   {
-    "_index": 809,
+    "_index": 808,
     "Id": "MapTier6_3Unique",
     "Name": "Whakawairua Tuahu"
   },
   {
-    "_index": 810,
+    "_index": 809,
     "Id": "MapTier6_4",
     "Name": "Ashen Wood"
   },
   {
-    "_index": 811,
+    "_index": 810,
     "Id": "MapTier6_5",
     "Name": "Colonnade"
   },
   {
-    "_index": 812,
+    "_index": 811,
     "Id": "MapTier6_5Unique",
     "Name": "Blackguard Salute"
   },
   {
-    "_index": 813,
+    "_index": 812,
     "Id": "MapTier7_1",
     "Name": "Primordial Blocks"
   },
   {
-    "_index": 814,
+    "_index": 813,
     "Id": "MapTier7_1Unique",
     "Name": "Oba's Cursed Trove"
   },
   {
-    "_index": 815,
+    "_index": 814,
     "Id": "MapTier7_2",
     "Name": "Waste Pool"
   },
   {
-    "_index": 816,
+    "_index": 815,
     "Id": "MapTier7_3",
     "Name": "Flooded Mine"
   },
   {
-    "_index": 817,
+    "_index": 816,
     "Id": "MapTier7_4",
     "Name": "Jungle Valley"
   },
   {
-    "_index": 818,
+    "_index": 817,
     "Id": "MapTier7_5",
     "Name": "Gardens"
   },
   {
-    "_index": 819,
+    "_index": 818,
     "Id": "MapTier8_1",
     "Name": "Cells"
   },
   {
-    "_index": 820,
+    "_index": 819,
     "Id": "MapTier8_2",
     "Name": "Canyon"
   },
   {
-    "_index": 821,
+    "_index": 820,
     "Id": "MapTier8_3",
     "Name": "Dark Forest"
   },
   {
-    "_index": 822,
+    "_index": 821,
     "Id": "MapTier8_4",
     "Name": "Peninsula"
   },
   {
-    "_index": 823,
+    "_index": 822,
     "Id": "MapTier9_1",
     "Name": "Underground Sea"
   },
   {
-    "_index": 824,
+    "_index": 823,
     "Id": "MapTier9_2",
     "Name": "Maze"
   },
   {
-    "_index": 825,
+    "_index": 824,
     "Id": "MapTier9_2Unique",
     "Name": "Olmec's Sanctum"
   },
   {
-    "_index": 826,
+    "_index": 825,
     "Id": "MapTier9_3",
     "Name": "Glacier"
   },
   {
-    "_index": 827,
+    "_index": 826,
     "Id": "MapTier9_4",
     "Name": "Residence"
   },
   {
-    "_index": 828,
+    "_index": 827,
     "Id": "MapTier10_1",
     "Name": "Necropolis"
   },
   {
-    "_index": 829,
+    "_index": 828,
     "Id": "MapTier10_1Unique",
     "Name": "Death and Taxes"
   },
   {
-    "_index": 830,
+    "_index": 829,
     "Id": "MapTier10_2",
     "Name": "Plateau"
   },
   {
-    "_index": 831,
+    "_index": 830,
     "Id": "MapTier10_3",
     "Name": "Bazaar"
   },
   {
-    "_index": 832,
+    "_index": 831,
     "Id": "MapTier11_1",
     "Name": "Lava Chamber"
   },
   {
-    "_index": 833,
+    "_index": 832,
     "Id": "MapTier11_2",
     "Name": "Precinct"
   },
   {
-    "_index": 834,
+    "_index": 833,
     "Id": "MapTier11_3",
     "Name": "Academy"
   },
   {
-    "_index": 835,
+    "_index": 834,
     "Id": "MapTier12_1",
     "Name": "Shipyard"
   },
   {
-    "_index": 836,
+    "_index": 835,
     "Id": "MapTier12_2",
     "Name": "Shrine"
   },
   {
-    "_index": 837,
+    "_index": 836,
     "Id": "MapTier12_2Unique",
     "Name": "Wraeclast Pantheon"
   },
   {
-    "_index": 838,
+    "_index": 837,
     "Id": "MapTier13_1",
     "Name": "Palace"
   },
   {
-    "_index": 839,
+    "_index": 838,
     "Id": "MapTier13_2",
     "Name": "Courtyard"
   },
   {
-    "_index": 840,
+    "_index": 839,
     "Id": "MapTier14_1",
     "Name": "Vaal Temple"
   },
   {
-    "_index": 841,
+    "_index": 840,
     "Id": "Map2Tier1_1",
     "Name": "Cursed Crypt"
   },
   {
-    "_index": 842,
+    "_index": 841,
     "Id": "Map2Tier1_1Unique",
     "Name": "The Coward's Trial"
   },
   {
-    "_index": 843,
+    "_index": 842,
     "Id": "Map2Tier1_2",
     "Name": "Dungeon"
   },
   {
-    "_index": 844,
+    "_index": 843,
     "Id": "Map2Tier1_3",
     "Name": "Grotto"
   },
   {
-    "_index": 845,
+    "_index": 844,
     "Id": "Map2Tier1_4",
     "Name": "Dunes"
   },
   {
-    "_index": 846,
+    "_index": 845,
     "Id": "Map2Tier1_5",
     "Name": "Pit"
   },
   {
-    "_index": 847,
+    "_index": 846,
     "Id": "Map2Tier1_6",
     "Name": "Tropical Island"
   },
   {
-    "_index": 848,
+    "_index": 847,
     "Id": "Map2Tier1_6Unique",
     "Name": "Untainted Paradise"
   },
   {
-    "_index": 849,
+    "_index": 848,
     "Id": "Map2Tier1_7",
     "Name": "Desert"
   },
   {
-    "_index": 850,
+    "_index": 849,
     "Id": "Map2Tier2_1",
     "Name": "Toxic Sewer"
   },
   {
-    "_index": 851,
+    "_index": 850,
     "Id": "Map2Tier2_2",
     "Name": "Channel"
   },
   {
-    "_index": 852,
+    "_index": 851,
     "Id": "Map2Tier2_3",
     "Name": "Thicket"
   },
   {
-    "_index": 853,
+    "_index": 852,
     "Id": "Map2Tier2_4",
     "Name": "Atoll"
   },
   {
-    "_index": 854,
+    "_index": 853,
     "Id": "Map2Tier2_4Unique",
     "Name": "Maelström of Chaos"
   },
   {
-    "_index": 855,
+    "_index": 854,
     "Id": "Map2Tier2_5",
     "Name": "Cemetery"
   },
   {
-    "_index": 856,
+    "_index": 855,
     "Id": "Map2Tier2_6",
     "Name": "Arcade"
   },
   {
-    "_index": 857,
+    "_index": 856,
     "Id": "Map2Tier2_7",
     "Name": "Wharf"
   },
   {
-    "_index": 858,
+    "_index": 857,
     "Id": "Map2Tier3_1",
     "Name": "Ghetto"
   },
   {
-    "_index": 859,
+    "_index": 858,
     "Id": "Map2Tier3_2",
     "Name": "Spider Lair"
   },
   {
-    "_index": 860,
+    "_index": 859,
     "Id": "Map2Tier3_3",
     "Name": "Vaal Pyramid"
   },
   {
-    "_index": 861,
+    "_index": 860,
     "Id": "Map2Tier3_3Unique",
     "Name": "Vaults of Atziri"
   },
   {
-    "_index": 862,
+    "_index": 861,
     "Id": "Map2Tier3_4",
     "Name": "Reef"
   },
   {
-    "_index": 863,
+    "_index": 862,
     "Id": "Map2Tier3_4Unique",
     "Name": "Mao Kun"
   },
   {
-    "_index": 864,
+    "_index": 863,
     "Id": "Map2Tier3_5",
     "Name": "Geode"
   },
   {
-    "_index": 865,
+    "_index": 864,
     "Id": "Map2Tier3_6",
     "Name": "Mud Geyser"
   },
   {
-    "_index": 866,
+    "_index": 865,
     "Id": "Map2Tier3_7",
     "Name": "Museum"
   },
   {
-    "_index": 867,
+    "_index": 866,
     "Id": "Map2Tier4_1",
     "Name": "Arena"
   },
   {
-    "_index": 868,
+    "_index": 867,
     "Id": "Map2Tier4_2",
     "Name": "Overgrown Shrine"
   },
   {
-    "_index": 869,
+    "_index": 868,
     "Id": "Map2Tier4_2Unique",
     "Name": "Acton's Nightmare"
   },
   {
-    "_index": 870,
+    "_index": 869,
     "Id": "Map2Tier4_3",
     "Name": "Crystal Ore"
   },
   {
-    "_index": 871,
+    "_index": 870,
     "Id": "Map2Tier4_4",
     "Name": "Shore"
   },
   {
-    "_index": 872,
+    "_index": 871,
     "Id": "Map2Tier4_5",
     "Name": "Spider Forest"
   },
   {
-    "_index": 873,
+    "_index": 872,
     "Id": "Map2Tier4_6",
     "Name": "Promenade"
   },
   {
-    "_index": 874,
+    "_index": 873,
     "Id": "Map2Tier4_6Unique",
     "Name": "The Hall of Grandmasters"
   },
   {
-    "_index": 875,
+    "_index": 874,
     "Id": "Map2Tier4_7",
     "Name": "Phantasmagoria"
   },
   {
-    "_index": 876,
+    "_index": 875,
     "Id": "Map2Tier5_1",
     "Name": "Underground River"
   },
   {
-    "_index": 877,
+    "_index": 876,
     "Id": "Map2Tier5_1Unique",
     "Name": "Caer Blaidd, Wolfpack's Den"
   },
   {
-    "_index": 878,
+    "_index": 877,
     "Id": "Map2Tier5_2",
     "Name": "Pier"
   },
   {
-    "_index": 879,
+    "_index": 878,
     "Id": "Map2Tier5_3",
     "Name": "Bog"
   },
   {
-    "_index": 880,
+    "_index": 879,
     "Id": "Map2Tier5_4",
     "Name": "Graveyard"
   },
   {
-    "_index": 881,
+    "_index": 880,
     "Id": "Map2Tier5_5",
     "Name": "Coves"
   },
   {
-    "_index": 882,
+    "_index": 881,
     "Id": "Map2Tier5_6",
     "Name": "Villa"
   },
   {
-    "_index": 883,
+    "_index": 882,
     "Id": "Map2Tier6_1",
     "Name": "Temple"
   },
   {
-    "_index": 884,
+    "_index": 883,
     "Id": "Map2Tier6_1Unique",
     "Name": "Poorjoy's Asylum"
   },
   {
-    "_index": 885,
+    "_index": 884,
     "Id": "Map2Tier6_2",
     "Name": "Arachnid Nest"
   },
   {
-    "_index": 886,
+    "_index": 885,
     "Id": "Map2Tier6_3",
     "Name": "Strand"
   },
   {
-    "_index": 887,
+    "_index": 886,
     "Id": "Map2Tier6_3Unique",
     "Name": "Whakawairua Tuahu"
   },
   {
-    "_index": 888,
+    "_index": 887,
     "Id": "Map2Tier6_4_",
     "Name": "Ashen Wood"
   },
   {
-    "_index": 889,
+    "_index": 888,
     "Id": "Map2Tier6_5",
     "Name": "Colonnade"
   },
   {
-    "_index": 890,
+    "_index": 889,
     "Id": "Map2Tier6_5Unique",
     "Name": "Blackguard Salute"
   },
   {
-    "_index": 891,
+    "_index": 890,
     "Id": "Map2Tier6_6",
     "Name": "Bone Crypt"
   },
   {
-    "_index": 892,
+    "_index": 891,
     "Id": "Map2Tier6_6Unique",
     "Name": "Olmec's Sanctum"
   },
   {
-    "_index": 893,
+    "_index": 892,
     "Id": "Map2Tier7_1",
     "Name": "Primordial Blocks"
   },
   {
-    "_index": 894,
+    "_index": 893,
     "Id": "Map2Tier7_1Unique",
     "Name": "Oba's Cursed Trove"
   },
   {
-    "_index": 895,
+    "_index": 894,
     "Id": "Map2Tier7_2",
     "Name": "Waste Pool"
   },
   {
-    "_index": 896,
+    "_index": 895,
     "Id": "Map2Tier7_3",
     "Name": "Flooded Mine"
   },
   {
-    "_index": 897,
+    "_index": 896,
     "Id": "Map2Tier7_4",
     "Name": "Jungle Valley"
   },
   {
-    "_index": 898,
+    "_index": 897,
     "Id": "Map2Tier7_5",
     "Name": "Gardens"
   },
   {
-    "_index": 899,
+    "_index": 898,
     "Id": "Map2Tier8_1",
     "Name": "Cells"
   },
   {
-    "_index": 900,
+    "_index": 899,
     "Id": "Map2Tier8_2",
     "Name": "Canyon"
   },
   {
-    "_index": 901,
+    "_index": 900,
     "Id": "Map2Tier8_3",
     "Name": "Dark Forest"
   },
   {
-    "_index": 902,
+    "_index": 901,
     "Id": "Map2Tier8_4",
     "Name": "Peninsula"
   },
   {
-    "_index": 903,
+    "_index": 902,
     "Id": "Map2Tier8_5",
     "Name": "Orchard"
   },
   {
-    "_index": 904,
+    "_index": 903,
     "Id": "Map2Tier9_1",
     "Name": "Underground Sea"
   },
   {
-    "_index": 905,
+    "_index": 904,
     "Id": "Map2Tier9_2",
     "Name": "Arid Lake"
   },
   {
-    "_index": 906,
+    "_index": 905,
     "Id": "Map2Tier9_3",
     "Name": "Glacier"
   },
   {
-    "_index": 907,
+    "_index": 906,
     "Id": "Map2Tier9_4",
     "Name": "Residence"
   },
   {
-    "_index": 908,
+    "_index": 907,
     "Id": "Map2Tier9_5",
     "Name": "Malformation"
   },
   {
-    "_index": 909,
+    "_index": 908,
     "Id": "Map2Tier10_1",
     "Name": "Necropolis"
   },
   {
-    "_index": 910,
+    "_index": 909,
     "Id": "Map2Tier10_1Unique",
     "Name": "Death and Taxes"
   },
   {
-    "_index": 911,
+    "_index": 910,
     "Id": "Map2Tier10_2",
     "Name": "Plateau"
   },
   {
-    "_index": 912,
+    "_index": 911,
     "Id": "Map2Tier10_3",
     "Name": "Bazaar"
   },
   {
-    "_index": 913,
+    "_index": 912,
     "Id": "Map2Tier10_4",
     "Name": "Volcano"
   },
   {
-    "_index": 914,
+    "_index": 913,
     "Id": "Map2Tier10_5",
     "Name": "Chateau"
   },
   {
-    "_index": 915,
+    "_index": 914,
     "Id": "Map2Tier10_5Unique",
     "Name": "Perandus Manor"
   },
   {
-    "_index": 916,
+    "_index": 915,
     "Id": "Map2Tier11_1",
     "Name": "Lava Chamber"
   },
   {
-    "_index": 917,
+    "_index": 916,
     "Id": "Map2Tier11_2",
     "Name": "Precinct"
   },
   {
-    "_index": 918,
+    "_index": 917,
     "Id": "Map2Tier11_3",
     "Name": "Academy"
   },
   {
-    "_index": 919,
+    "_index": 918,
     "Id": "Map2Tier11_4",
     "Name": "Fungal Hollow"
   },
   {
-    "_index": 920,
+    "_index": 919,
     "Id": "Map2Tier12_1",
     "Name": "Shipyard"
   },
   {
-    "_index": 921,
+    "_index": 920,
     "Id": "Map2Tier12_2",
     "Name": "Overgrown Ruin"
   },
   {
-    "_index": 922,
+    "_index": 921,
     "Id": "Map2Tier12_3",
     "Name": "Castle Ruins"
   },
   {
-    "_index": 923,
+    "_index": 922,
     "Id": "Map2Tier12_4",
     "Name": "Arsenal"
   },
   {
-    "_index": 924,
+    "_index": 923,
     "Id": "Map2Tier13_1",
     "Name": "Wasteland"
   },
   {
-    "_index": 925,
+    "_index": 924,
     "Id": "Map2Tier13_2",
     "Name": "Courtyard"
   },
   {
-    "_index": 926,
+    "_index": 925,
     "Id": "Map2Tier13_2Unique",
     "Name": "The Vinktar Square"
   },
   {
-    "_index": 927,
+    "_index": 926,
     "Id": "Map2Tier13_3",
     "Name": "Excavation"
   },
   {
-    "_index": 928,
+    "_index": 927,
     "Id": "Map2Tier13_4",
     "Name": "Waterways"
   },
   {
-    "_index": 929,
+    "_index": 928,
     "Id": "Map2Tier14_1",
     "Name": "Palace"
   },
   {
-    "_index": 930,
+    "_index": 929,
     "Id": "Map2Tier14_2",
     "Name": "Shrine"
   },
   {
-    "_index": 931,
+    "_index": 930,
     "Id": "Map2Tier14_2Unique",
     "Name": "Wraeclast Pantheon"
   },
   {
-    "_index": 932,
+    "_index": 931,
     "Id": "Map2Tier14_3",
     "Name": "Maze"
   },
   {
-    "_index": 933,
+    "_index": 932,
     "Id": "Map2Tier14_4",
     "Name": "Vaal Temple"
   },
   {
-    "_index": 934,
+    "_index": 933,
     "Id": "Map2Tier14_5",
     "Name": "Plaza"
   },
   {
-    "_index": 935,
+    "_index": 934,
     "Id": "Map2Tier15_1",
     "Name": "Core"
   },
   {
-    "_index": 936,
+    "_index": 935,
     "Id": "Map2Tier15_2",
     "Name": "Caldera"
   },
   {
-    "_index": 937,
+    "_index": 936,
     "Id": "Map2Tier15_3",
     "Name": "Colosseum"
   },
   {
-    "_index": 938,
+    "_index": 937,
     "Id": "MapAtlasGraveyardUnique",
     "Name": "Hallowed Ground"
   },
   {
-    "_index": 939,
+    "_index": 938,
     "Id": "MapAtlasArcade",
     "Name": "Arcade"
   },
   {
-    "_index": 940,
+    "_index": 939,
     "Id": "MapAtlasCrystalOre",
     "Name": "Crystal Ore"
   },
   {
-    "_index": 941,
+    "_index": 940,
     "Id": "MapAtlasDesert",
     "Name": "Desert"
   },
   {
-    "_index": 942,
+    "_index": 941,
     "Id": "MapAtlasJungleValley",
     "Name": "Jungle Valley"
   },
   {
-    "_index": 943,
+    "_index": 942,
     "Id": "MapAtlasBeach",
     "Name": "Beach"
   },
   {
-    "_index": 944,
+    "_index": 943,
     "Id": "MapAtlasFactory",
     "Name": "Factory"
   },
   {
-    "_index": 945,
+    "_index": 944,
     "Id": "MapAtlasGhetto",
     "Name": "Ghetto"
   },
   {
-    "_index": 946,
+    "_index": 945,
     "Id": "MapAtlasOasis",
     "Name": "Desert Spring"
   },
   {
-    "_index": 947,
+    "_index": 946,
     "Id": "MapAtlasAridLake",
     "Name": "Arid Lake"
   },
   {
-    "_index": 948,
+    "_index": 947,
     "Id": "MapAtlasCavern",
     "Name": "Flooded Mine"
   },
   {
-    "_index": 949,
+    "_index": 948,
     "Id": "MapAtlasChannel",
     "Name": "Channel"
   },
   {
-    "_index": 950,
+    "_index": 949,
     "Id": "MapAtlasGrotto",
     "Name": "Grotto"
   },
   {
-    "_index": 951,
+    "_index": 950,
     "Id": "MapAtlasMarshes",
     "Name": "Marshes"
   },
   {
-    "_index": 952,
+    "_index": 951,
     "Id": "MapAtlasSewer",
     "Name": "Toxic Sewer"
   },
   {
-    "_index": 953,
+    "_index": 952,
     "Id": "MapAtlasVaalPyramid",
     "Name": "Vaal Pyramid"
   },
   {
-    "_index": 954,
+    "_index": 953,
     "Id": "MapAtlasVaalPyramidUnique_",
     "Name": "Vaults of Atziri"
   },
   {
-    "_index": 955,
+    "_index": 954,
     "Id": "MapAtlasAcademy",
     "Name": "Academy"
   },
   {
-    "_index": 956,
+    "_index": 955,
     "Id": "MapAtlasMuseumUnique",
     "Name": "The Putrid Cloister"
   },
   {
-    "_index": 957,
+    "_index": 956,
     "Id": "MapAtlasAcidLakes",
     "Name": "Acid Caverns"
   },
   {
-    "_index": 958,
+    "_index": 957,
     "Id": "MapAtlasDungeon",
     "Name": "Dungeon"
   },
   {
-    "_index": 959,
+    "_index": 958,
     "Id": "MapAtlasGraveyard",
     "Name": "Graveyard"
   },
   {
-    "_index": 960,
+    "_index": 959,
     "Id": "MapAtlasPhantasmagoria",
     "Name": "Phantasmagoria"
   },
   {
-    "_index": 961,
+    "_index": 960,
     "Id": "MapAtlasVilla",
     "Name": "Villa"
   },
   {
-    "_index": 962,
+    "_index": 961,
     "Id": "MapAtlasWastePool",
     "Name": "Waste Pool"
   },
   {
-    "_index": 963,
+    "_index": 962,
     "Id": "MapAtlasBurialChambers",
     "Name": "Burial Chambers"
   },
   {
-    "_index": 964,
+    "_index": 963,
     "Id": "MapAtlasDryPeninsula",
     "Name": "Peninsula"
   },
   {
-    "_index": 965,
+    "_index": 964,
     "Id": "MapAtlasDunes",
     "Name": "Dunes"
   },
   {
-    "_index": 966,
+    "_index": 965,
     "Id": "MapAtlasMesa",
     "Name": "Mesa"
   },
   {
-    "_index": 967,
+    "_index": 966,
     "Id": "MapAtlasPit",
     "Name": "Pit"
   },
   {
-    "_index": 968,
+    "_index": 967,
     "Id": "MapAtlasPitUnique",
     "Name": "Darbel's Promise"
   },
   {
-    "_index": 969,
+    "_index": 968,
     "Id": "MapAtlasPrimordialPool",
     "Name": "Primordial Pool"
   },
   {
-    "_index": 970,
+    "_index": 969,
     "Id": "MapAtlasSpiderLair_",
     "Name": "Spider Lair"
   },
   {
-    "_index": 971,
+    "_index": 970,
     "Id": "MapAtlasTower",
     "Name": "Tower"
   },
   {
-    "_index": 972,
+    "_index": 971,
     "Id": "MapAtlasCanyon",
     "Name": "Canyon"
   },
   {
-    "_index": 973,
+    "_index": 972,
     "Id": "MapAtlasQuarry",
     "Name": "Geode"
   },
   {
-    "_index": 974,
+    "_index": 973,
     "Id": "MapAtlasRacecourse",
     "Name": "Racecourse"
   },
   {
-    "_index": 975,
+    "_index": 974,
     "Id": "MapAtlasRamparts",
     "Name": "Ramparts"
   },
   {
-    "_index": 976,
+    "_index": 975,
     "Id": "MapAtlasSpiderForest",
     "Name": "Spider Forest"
   },
   {
-    "_index": 977,
+    "_index": 976,
     "Id": "MapAtlasStrand",
     "Name": "Strand"
   },
   {
-    "_index": 978,
+    "_index": 977,
     "Id": "MapAtlasStrandUnique",
     "Name": "Whakawairua Tuahu"
   },
   {
-    "_index": 979,
+    "_index": 978,
     "Id": "MapAtlasThicket",
     "Name": "Thicket"
   },
   {
-    "_index": 980,
+    "_index": 979,
     "Id": "MapAtlasVaalCity",
     "Name": "Ancient City"
   },
   {
-    "_index": 981,
+    "_index": 980,
     "Id": "MapAtlasWharf",
     "Name": "Wharf"
   },
   {
-    "_index": 982,
+    "_index": 981,
     "Id": "MapAtlasArachnidTomb",
     "Name": "Arachnid Tomb"
   },
   {
-    "_index": 983,
+    "_index": 982,
     "Id": "MapAtlasCastleRuins",
     "Name": "Castle Ruins"
   },
   {
-    "_index": 984,
+    "_index": 983,
     "Id": "MapAtlasCatacomb_",
     "Name": "Bone Crypt"
   },
   {
-    "_index": 985,
+    "_index": 984,
     "Id": "MapAtlasCatacombUnique",
     "Name": "Olmec's Sanctum"
   },
   {
-    "_index": 986,
+    "_index": 985,
     "Id": "MapAtlasCells",
     "Name": "Cells"
   },
   {
-    "_index": 987,
+    "_index": 986,
     "Id": "MapAtlasArmory",
     "Name": "Armoury"
   },
   {
-    "_index": 988,
+    "_index": 987,
     "Id": "MapAtlasAshenWood",
     "Name": "Ashen Wood"
   },
   {
-    "_index": 989,
+    "_index": 988,
     "Id": "MapAtlasMudGeyser",
     "Name": "Mud Geyser"
   },
   {
-    "_index": 990,
+    "_index": 989,
     "Id": "MapAtlasArachnidNest",
     "Name": "Arachnid Nest"
   },
   {
-    "_index": 991,
+    "_index": 990,
     "Id": "MapAtlasArena",
     "Name": "Arena"
   },
   {
-    "_index": 992,
+    "_index": 991,
     "Id": "MapAtlasBog",
     "Name": "Bog"
   },
   {
-    "_index": 993,
+    "_index": 992,
     "Id": "MapAtlasCemetery",
     "Name": "Cemetery"
   },
   {
-    "_index": 994,
+    "_index": 993,
     "Id": "MapAtlasBarrows",
     "Name": "Barrows"
   },
   {
-    "_index": 995,
+    "_index": 994,
     "Id": "MapAtlasAtoll",
     "Name": "Atoll"
   },
   {
-    "_index": 996,
+    "_index": 995,
     "Id": "MapAtlasAtollUnique",
     "Name": "Maelström of Chaos"
   },
   {
-    "_index": 997,
+    "_index": 996,
     "Id": "MapAtlasPier",
     "Name": "Pier"
   },
   {
-    "_index": 998,
+    "_index": 997,
     "Id": "MapAtlasShore",
     "Name": "Shore"
   },
   {
-    "_index": 999,
+    "_index": 998,
     "Id": "MapAtlasTropicalIsland",
     "Name": "Tropical Island"
   },
   {
-    "_index": 1000,
+    "_index": 999,
     "Id": "MapAtlasTropicalIslandUnique",
     "Name": "Untainted Paradise"
   },
   {
-    "_index": 1001,
+    "_index": 1000,
     "Id": "MapAtlasCoves",
     "Name": "Coves"
   },
   {
-    "_index": 1002,
+    "_index": 1001,
     "Id": "MapAtlasCrypt",
     "Name": "Cursed Crypt"
   },
   {
-    "_index": 1003,
+    "_index": 1002,
     "Id": "MapAtlasCryptUnique",
     "Name": "The Coward's Trial"
   },
   {
-    "_index": 1004,
+    "_index": 1003,
     "Id": "MapAtlasMuseum",
     "Name": "Museum"
   },
   {
-    "_index": 1005,
+    "_index": 1004,
     "Id": "MapAtlasOrchard",
     "Name": "Orchard"
   },
   {
-    "_index": 1006,
+    "_index": 1005,
     "Id": "MapAtlasOvergrownShrine",
     "Name": "Overgrown Shrine"
   },
   {
-    "_index": 1007,
+    "_index": 1006,
     "Id": "MapAtlasOvergrownShrineUnique",
     "Name": "Acton's Nightmare"
   },
   {
-    "_index": 1008,
+    "_index": 1007,
     "Id": "MapAtlasPromenade",
     "Name": "Promenade"
   },
   {
-    "_index": 1009,
+    "_index": 1008,
     "Id": "MapAtlasPromenadeUnique",
     "Name": "The Hall of Grandmasters"
   },
   {
-    "_index": 1010,
+    "_index": 1009,
     "Id": "MapAtlasReef",
     "Name": "Reef"
   },
   {
-    "_index": 1011,
+    "_index": 1010,
     "Id": "MapAtlasReefUnique",
     "Name": "Mao Kun"
   },
   {
-    "_index": 1012,
+    "_index": 1011,
     "Id": "MapAtlasTemple",
     "Name": "Temple"
   },
   {
-    "_index": 1013,
+    "_index": 1012,
     "Id": "MapAtlasTempleUnique",
     "Name": "Poorjoy's Asylum"
   },
   {
-    "_index": 1014,
+    "_index": 1013,
     "Id": "MapAtlasColonnade",
     "Name": "Colonnade"
   },
   {
-    "_index": 1015,
+    "_index": 1014,
     "Id": "MapAtlasArsenal",
     "Name": "Arsenal"
   },
   {
-    "_index": 1016,
+    "_index": 1015,
     "Id": "MapAtlasCourtyard",
     "Name": "Courtyard"
   },
   {
-    "_index": 1017,
+    "_index": 1016,
     "Id": "MapAtlasCourtyardUnique",
     "Name": "The Vinktar Square"
   },
   {
-    "_index": 1018,
+    "_index": 1017,
     "Id": "MapAtlasMalformation",
     "Name": "Malformation"
   },
   {
-    "_index": 1019,
+    "_index": 1018,
     "Id": "MapAtlasQuay",
     "Name": "Port"
   },
   {
-    "_index": 1020,
+    "_index": 1019,
     "Id": "MapAtlasTerrace",
     "Name": "Gardens"
   },
   {
-    "_index": 1021,
+    "_index": 1020,
     "Id": "MapAtlasUndergroundRiver",
     "Name": "Underground River"
   },
   {
-    "_index": 1022,
+    "_index": 1021,
     "Id": "MapAtlasUndergroundRiverUnique",
     "Name": "Caer Blaidd, Wolfpack's Den"
   },
   {
-    "_index": 1023,
+    "_index": 1022,
     "Id": "MapAtlasBazaar",
     "Name": "Bazaar"
   },
   {
-    "_index": 1024,
+    "_index": 1023,
     "Id": "MapAtlasChateau",
     "Name": "Chateau"
   },
   {
-    "_index": 1025,
+    "_index": 1024,
     "Id": "MapAtlasChateauUnique",
     "Name": "Perandus Manor"
   },
   {
-    "_index": 1026,
+    "_index": 1025,
     "Id": "MapAtlasExcavation",
     "Name": "Excavation"
   },
   {
-    "_index": 1027,
+    "_index": 1026,
     "Id": "MapAtlasPrecinct",
     "Name": "Precinct"
   },
   {
-    "_index": 1028,
+    "_index": 1027,
     "Id": "MapAtlasTortureChamber",
     "Name": "Primordial Blocks"
   },
   {
-    "_index": 1029,
+    "_index": 1028,
     "Id": "MapAtlasTortureChamberUnique",
     "Name": "Oba's Cursed Trove"
   },
   {
-    "_index": 1030,
+    "_index": 1029,
     "Id": "MapAtlasUndergroundSea",
     "Name": "Underground Sea"
   },
   {
-    "_index": 1031,
+    "_index": 1030,
     "Id": "MapAtlasWasteland",
     "Name": "Wasteland"
   },
   {
-    "_index": 1032,
+    "_index": 1031,
     "Id": "MapAtlasCrematorium",
     "Name": "Lava Chamber"
   },
   {
-    "_index": 1033,
+    "_index": 1032,
     "Id": "MapAtlasEstuary",
     "Name": "Estuary"
   },
   {
-    "_index": 1034,
+    "_index": 1033,
     "Id": "MapAtlasNecropolis",
     "Name": "Necropolis"
   },
   {
-    "_index": 1035,
+    "_index": 1034,
     "Id": "MapAtlasNecropolisUnique",
     "Name": "Death and Taxes"
   },
   {
-    "_index": 1036,
+    "_index": 1035,
     "Id": "MapAtlasPlateau",
     "Name": "Plateau"
   },
   {
-    "_index": 1037,
+    "_index": 1036,
     "Id": "MapAtlasIvoryTemple",
     "Name": "Ivory Temple"
   },
   {
-    "_index": 1038,
+    "_index": 1037,
     "Id": "MapAtlasResidence",
     "Name": "Residence"
   },
   {
-    "_index": 1039,
+    "_index": 1038,
     "Id": "MapAtlasShipyard",
     "Name": "Shipyard"
   },
   {
-    "_index": 1040,
+    "_index": 1039,
     "Id": "MapAtlasVault",
     "Name": "Vault"
   },
   {
-    "_index": 1041,
+    "_index": 1040,
     "Id": "MapAtlasLair",
     "Name": "Lair"
   },
   {
-    "_index": 1042,
+    "_index": 1041,
     "Id": "MapAtlasBeacon",
     "Name": "Lighthouse"
   },
   {
-    "_index": 1043,
+    "_index": 1042,
     "Id": "MapAtlasGorge",
     "Name": "Glacier"
   },
   {
-    "_index": 1044,
+    "_index": 1043,
     "Id": "MapAtlasHighGardens",
     "Name": "Terrace"
   },
   {
-    "_index": 1045,
+    "_index": 1044,
     "Id": "MapAtlasPlaza",
     "Name": "Plaza"
   },
   {
-    "_index": 1046,
+    "_index": 1045,
     "Id": "MapAtlasScriptorium",
     "Name": "Scriptorium"
   },
   {
-    "_index": 1047,
+    "_index": 1046,
     "Id": "MapAtlasSulphurWastes",
     "Name": "Leyline"
   },
   {
-    "_index": 1048,
+    "_index": 1047,
     "Id": "MapAtlasWaterways",
     "Name": "Waterways"
   },
   {
-    "_index": 1049,
+    "_index": 1048,
     "Id": "MapAtlasMaze",
     "Name": "Maze"
   },
   {
-    "_index": 1050,
+    "_index": 1049,
     "Id": "MapAtlasMineralPools",
     "Name": "Mineral Pools"
   },
   {
-    "_index": 1051,
+    "_index": 1050,
     "Id": "MapAtlasPalace",
     "Name": "Palace"
   },
   {
-    "_index": 1052,
+    "_index": 1051,
     "Id": "MapAtlasShrine",
     "Name": "Shrine"
   },
   {
-    "_index": 1053,
+    "_index": 1052,
     "Id": "MapAtlasSprings",
     "Name": "Fungal Hollow"
   },
   {
-    "_index": 1054,
+    "_index": 1053,
     "Id": "MapAtlasVolcano",
     "Name": "Volcano"
   },
   {
-    "_index": 1055,
+    "_index": 1054,
     "Id": "MapAtlasAbyss",
     "Name": "Caldera"
   },
   {
-    "_index": 1056,
+    "_index": 1055,
     "Id": "MapAtlasColosseum",
     "Name": "Colosseum"
   },
   {
-    "_index": 1057,
+    "_index": 1056,
     "Id": "MapAtlasCore",
     "Name": "Core"
   },
   {
-    "_index": 1058,
+    "_index": 1057,
     "Id": "MapAtlasDarkForest",
     "Name": "Dark Forest"
   },
   {
-    "_index": 1059,
+    "_index": 1058,
     "Id": "MapAtlasOvergrownRuin",
     "Name": "Overgrown Ruin"
   },
   {
-    "_index": 1060,
+    "_index": 1059,
     "Id": "MapAtlasChimera",
     "Name": "Pit of the Chimera"
   },
   {
-    "_index": 1061,
+    "_index": 1060,
     "Id": "MapAtlasHydra",
     "Name": "Lair of the Hydra"
   },
   {
-    "_index": 1062,
+    "_index": 1061,
     "Id": "MapAtlasPhoenix",
     "Name": "Forge of the Phoenix"
   },
   {
-    "_index": 1063,
+    "_index": 1062,
     "Id": "MapAtlasMinotaur",
     "Name": "Maze of the Minotaur"
   },
   {
-    "_index": 1064,
+    "_index": 1063,
     "Id": "MapAtlasShapersRealm",
     "Name": "The Shaper's Realm"
   },
   {
-    "_index": 1065,
+    "_index": 1064,
     "Id": "MapAtlasVaalTemple",
     "Name": "Vaal Temple"
   },
   {
-    "_index": 1066,
+    "_index": 1065,
     "Id": "BreachBossPhysical",
     "Name": "Uul-Netol's Domain"
   },
   {
-    "_index": 1067,
+    "_index": 1066,
     "Id": "BreachBossChaos",
     "Name": "Chayula's Domain"
   },
   {
-    "_index": 1068,
+    "_index": 1067,
     "Id": "BreachBossFire",
     "Name": "Xoph's Domain"
   },
   {
-    "_index": 1069,
+    "_index": 1068,
     "Id": "BreachBossCold",
     "Name": "Tul's Domain"
   },
   {
-    "_index": 1070,
+    "_index": 1069,
     "Id": "BreachBossLightning",
     "Name": "Esh's Domain"
   },
   {
-    "_index": 1071,
+    "_index": 1070,
     "Id": "BreachBossPhysical2",
     "Name": "Uul-Netol's Domain"
   },
   {
-    "_index": 1072,
+    "_index": 1071,
     "Id": "BreachBossChaos2",
     "Name": "Chayula's Domain"
   },
   {
-    "_index": 1073,
+    "_index": 1072,
     "Id": "BreachBossFire2",
     "Name": "Xoph's Domain"
   },
   {
-    "_index": 1074,
+    "_index": 1073,
     "Id": "BreachBossCold2_",
     "Name": "Tul's Domain"
   },
   {
-    "_index": 1075,
+    "_index": 1074,
     "Id": "BreachBossLightning2",
     "Name": "Esh's Domain"
   },
   {
-    "_index": 1076,
+    "_index": 1075,
     "Id": "BreachBossPhysical3",
     "Name": "Uul-Netol's Domain"
   },
   {
-    "_index": 1077,
+    "_index": 1076,
     "Id": "BreachBossChaos3",
     "Name": "Chayula's Domain"
   },
   {
-    "_index": 1078,
+    "_index": 1077,
     "Id": "BreachBossFire3",
     "Name": "Xoph's Domain"
   },
   {
-    "_index": 1079,
+    "_index": 1078,
     "Id": "BreachBossCold3",
     "Name": "Tul's Domain"
   },
   {
-    "_index": 1080,
+    "_index": 1079,
     "Id": "BreachBossLightning3",
     "Name": "Esh's Domain"
   },
   {
-    "_index": 1081,
+    "_index": 1080,
     "Id": "BreachBossPhysical4",
     "Name": "Uul-Netol's Domain"
   },
   {
-    "_index": 1082,
+    "_index": 1081,
     "Id": "BreachBossChaos4",
     "Name": "Chayula's Domain"
   },
   {
-    "_index": 1083,
+    "_index": 1082,
     "Id": "BreachBossFire4",
     "Name": "Xoph's Domain"
   },
   {
-    "_index": 1084,
+    "_index": 1083,
     "Id": "BreachBossCold4",
     "Name": "Tul's Domain"
   },
   {
-    "_index": 1085,
+    "_index": 1084,
     "Id": "BreachBossLightning4",
     "Name": "Esh's Domain"
   },
   {
-    "_index": 1086,
+    "_index": 1085,
     "Id": "BreachBossPhysical5",
     "Name": "Uul-Netol's Domain"
   },
   {
-    "_index": 1087,
+    "_index": 1086,
     "Id": "BreachBossChaos5",
     "Name": "Chayula's Domain"
   },
   {
-    "_index": 1088,
+    "_index": 1087,
     "Id": "BreachBossFire5",
     "Name": "Xoph's Domain"
   },
   {
-    "_index": 1089,
+    "_index": 1088,
     "Id": "BreachBossCold5",
     "Name": "Tul's Domain"
   },
   {
-    "_index": 1090,
+    "_index": 1089,
     "Id": "BreachBossLightning5",
     "Name": "Esh's Domain"
   },
   {
-    "_index": 1091,
+    "_index": 1090,
     "Id": "MapAtlasHarbinger",
     "Name": "Harbinger's Isle"
   },
   {
-    "_index": 1092,
+    "_index": 1091,
     "Id": "MapAtlasHarbingerLow",
     "Name": "The Beachhead"
   },
   {
-    "_index": 1093,
+    "_index": 1092,
     "Id": "MapAtlasHarbingerMid",
     "Name": "The Beachhead"
   },
   {
-    "_index": 1094,
+    "_index": 1093,
     "Id": "MapAtlasHarbingerHigh",
     "Name": "The Beachhead"
   },
   {
-    "_index": 1095,
+    "_index": 1094,
     "Id": "MapWorldsLookout",
     "Name": "Lookout"
   },
   {
-    "_index": 1096,
+    "_index": 1095,
     "Id": "MapWorldsBeach",
     "Name": "Beach"
   },
   {
-    "_index": 1097,
+    "_index": 1096,
     "Id": "MapWorldsGraveyard",
     "Name": "Graveyard"
   },
   {
-    "_index": 1098,
+    "_index": 1097,
     "Id": "MapWorldsDungeon",
     "Name": "Dungeon"
   },
   {
-    "_index": 1099,
+    "_index": 1098,
     "Id": "MapWorldsAlleyways",
     "Name": "Alleyways"
   },
   {
-    "_index": 1100,
+    "_index": 1099,
     "Id": "MapWorldsPen",
     "Name": "Pen"
   },
   {
-    "_index": 1101,
+    "_index": 1100,
     "Id": "MapWorldsDesert",
     "Name": "Desert"
   },
   {
-    "_index": 1102,
+    "_index": 1101,
     "Id": "MapWorldsAridLake",
     "Name": "Arid Lake"
   },
   {
-    "_index": 1103,
+    "_index": 1102,
     "Id": "MapWorldsFloodedMine",
     "Name": "Flooded Mine"
   },
   {
-    "_index": 1104,
+    "_index": 1103,
     "Id": "MapWorldsMarshes",
     "Name": "Marshes"
   },
   {
-    "_index": 1105,
+    "_index": 1104,
     "Id": "MapWorldsIceberg",
     "Name": "Iceberg"
   },
   {
-    "_index": 1106,
+    "_index": 1105,
     "Id": "MapWorldsCage",
     "Name": "Cage"
   },
   {
-    "_index": 1107,
+    "_index": 1106,
     "Id": "MapWorldsSprings",
     "Name": "Fungal Hollow"
   },
   {
-    "_index": 1108,
+    "_index": 1107,
     "Id": "MapWorldsExcavation",
     "Name": "Excavation"
   },
   {
-    "_index": 1109,
+    "_index": 1108,
     "Id": "MapWorldsLeyline",
     "Name": "Leyline"
   },
   {
-    "_index": 1110,
+    "_index": 1109,
     "Id": "MapWorldsPeninsula",
     "Name": "Peninsula"
   },
   {
-    "_index": 1111,
+    "_index": 1110,
     "Id": "MapWorldsPort",
     "Name": "Port"
   },
   {
-    "_index": 1112,
+    "_index": 1111,
     "Id": "MapWorldsBurialChambers",
     "Name": "Burial Chambers"
   },
   {
-    "_index": 1113,
+    "_index": 1112,
     "Id": "MapWorldsCells",
     "Name": "Cells"
   },
   {
-    "_index": 1114,
+    "_index": 1113,
     "Id": "MapWorldsArcade",
     "Name": "Arcade"
   },
   {
-    "_index": 1115,
+    "_index": 1114,
     "Id": "MapWorldsCitySquare",
     "Name": "City Square"
   },
   {
-    "_index": 1116,
+    "_index": 1115,
     "Id": "MapWorldsRelicChambers",
     "Name": "Relic Chambers"
   },
   {
-    "_index": 1117,
+    "_index": 1116,
     "Id": "MapWorldsCourthouse",
     "Name": "Courthouse"
   },
   {
-    "_index": 1118,
+    "_index": 1117,
     "Id": "MapWorldsStrand",
     "Name": "Strand"
   },
   {
-    "_index": 1119,
+    "_index": 1118,
     "Id": "MapWorldsStrandUnique",
     "Name": "Whakawairua Tuahu"
   },
   {
-    "_index": 1120,
+    "_index": 1119,
     "Id": "MapWorldsChateau",
     "Name": "Chateau"
   },
   {
-    "_index": 1121,
+    "_index": 1120,
     "Id": "MapWorldsChateauUnique",
     "Name": "Perandus Manor"
   },
   {
-    "_index": 1122,
+    "_index": 1121,
     "Id": "MapWorldsGrotto",
     "Name": "Grotto"
   },
   {
-    "_index": 1123,
+    "_index": 1122,
     "Id": "MapWorldsGorge",
     "Name": "Glacier"
   },
   {
-    "_index": 1124,
+    "_index": 1123,
     "Id": "MapWorldsVolcano",
     "Name": "Volcano"
   },
   {
-    "_index": 1125,
+    "_index": 1124,
     "Id": "MapWorldsLighthouse",
     "Name": "Lighthouse"
   },
   {
-    "_index": 1126,
+    "_index": 1125,
     "Id": "MapWorldsCanyon",
     "Name": "Canyon"
   },
   {
-    "_index": 1127,
+    "_index": 1126,
     "Id": "MapWorldsConservatory",
     "Name": "Conservatory"
   },
   {
-    "_index": 1128,
+    "_index": 1127,
     "Id": "MapWorldsSulphurVents",
     "Name": "Sulphur Vents"
   },
   {
-    "_index": 1129,
+    "_index": 1128,
     "Id": "MapWorldsHauntedMansion",
     "Name": "Haunted Mansion"
   },
   {
-    "_index": 1130,
+    "_index": 1129,
     "Id": "MapWorldsMaze",
     "Name": "Maze"
   },
   {
-    "_index": 1131,
+    "_index": 1130,
     "Id": "MapWorldsMazeUnique",
     "Name": "Doryani's Machinarium"
   },
   {
-    "_index": 1132,
+    "_index": 1131,
     "Id": "MapWorldsChannel",
     "Name": "Channel"
   },
   {
-    "_index": 1133,
+    "_index": 1132,
     "Id": "MapWorldsToxicSewer",
     "Name": "Toxic Sewer"
   },
   {
-    "_index": 1134,
+    "_index": 1133,
     "Id": "MapWorldsAncientCity",
     "Name": "Ancient City"
   },
   {
-    "_index": 1135,
+    "_index": 1134,
     "Id": "MapWorldsIvoryTemple",
     "Name": "Ivory Temple"
   },
   {
-    "_index": 1136,
+    "_index": 1135,
     "Id": "MapWorldsSpiderLair",
     "Name": "Spider Lair"
   },
   {
-    "_index": 1137,
+    "_index": 1136,
     "Id": "MapWorldsBarrows",
     "Name": "Barrows"
   },
   {
-    "_index": 1138,
+    "_index": 1137,
     "Id": "MapWorldsMausoleum",
     "Name": "Mausoleum"
   },
   {
-    "_index": 1139,
+    "_index": 1138,
     "Id": "MapWorldsFields",
     "Name": "Fields"
   },
   {
-    "_index": 1140,
+    "_index": 1139,
     "Id": "MapWorldsJungleValley",
     "Name": "Jungle Valley"
   },
   {
-    "_index": 1141,
+    "_index": 1140,
     "Id": "MapWorldsPhantasmagoria",
     "Name": "Phantasmagoria"
   },
   {
-    "_index": 1142,
+    "_index": 1141,
     "Id": "MapWorldsAcademy",
     "Name": "Academy"
   },
   {
-    "_index": 1143,
+    "_index": 1142,
     "Id": "MapWorldsThicket",
     "Name": "Thicket"
   },
   {
-    "_index": 1144,
+    "_index": 1143,
     "Id": "MapWorldsWharf",
     "Name": "Wharf"
   },
   {
-    "_index": 1145,
+    "_index": 1144,
     "Id": "MapWorldsAshenWood",
     "Name": "Ashen Wood"
   },
   {
-    "_index": 1146,
+    "_index": 1145,
     "Id": "MapWorldsAtoll",
     "Name": "Atoll"
   },
   {
-    "_index": 1147,
+    "_index": 1146,
     "Id": "MapWorldsAtollUnique",
     "Name": "Maelström of Chaos"
   },
   {
-    "_index": 1148,
+    "_index": 1147,
     "Id": "MapWorldsCemetery",
     "Name": "Cemetery"
   },
   {
-    "_index": 1149,
+    "_index": 1148,
     "Id": "MapWorldsCemeteryUnique",
     "Name": "Hallowed Ground"
   },
   {
-    "_index": 1150,
+    "_index": 1149,
     "Id": "MapWorldsUndergroundSea",
     "Name": "Underground Sea"
   },
   {
-    "_index": 1151,
+    "_index": 1150,
     "Id": "MapWorldsTribunal",
     "Name": "Crater"
   },
   {
-    "_index": 1152,
+    "_index": 1151,
     "Id": "MapWorldsCoralRuins",
     "Name": "Coral Ruins"
   },
   {
-    "_index": 1153,
+    "_index": 1152,
     "Id": "MapWorldsLavaChamber",
     "Name": "Lava Chamber"
   },
   {
-    "_index": 1154,
+    "_index": 1153,
     "Id": "MapWorldsResidence",
     "Name": "Residence"
   },
   {
-    "_index": 1155,
+    "_index": 1154,
     "Id": "MapWorldsRamparts",
     "Name": "Ramparts"
   },
   {
-    "_index": 1156,
+    "_index": 1155,
     "Id": "MapWorldsDunes",
     "Name": "Dunes"
   },
   {
-    "_index": 1157,
+    "_index": 1156,
     "Id": "MapWorldsDunesUnique",
     "Name": "Pillars of Arun"
   },
   {
-    "_index": 1158,
+    "_index": 1157,
     "Id": "MapWorldsBoneCrypt",
     "Name": "Bone Crypt"
   },
   {
-    "_index": 1159,
+    "_index": 1158,
     "Id": "MapWorldsBoneCryptUnique",
     "Name": "Olmec's Sanctum"
   },
   {
-    "_index": 1160,
+    "_index": 1159,
     "Id": "MapWorldsUndergroundRiver",
     "Name": "Underground River"
   },
   {
-    "_index": 1161,
+    "_index": 1160,
     "Id": "MapWorldsUndergroundRiverUnique",
     "Name": "Caer Blaidd, Wolfpack's Den"
   },
   {
-    "_index": 1162,
+    "_index": 1161,
     "Id": "MapWorldsGardens",
     "Name": "Gardens"
   },
   {
-    "_index": 1163,
+    "_index": 1162,
     "Id": "MapWorldsArachnidNest",
     "Name": "Arachnid Nest"
   },
   {
-    "_index": 1164,
+    "_index": 1163,
     "Id": "MapWorldsBazaar",
     "Name": "Bazaar"
   },
   {
-    "_index": 1165,
+    "_index": 1164,
     "Id": "MapWorldsLaboratory",
     "Name": "Laboratory"
   },
   {
-    "_index": 1166,
+    "_index": 1165,
     "Id": "MapWorldsInfestedValley",
     "Name": "Infested Valley"
   },
   {
-    "_index": 1167,
+    "_index": 1166,
     "Id": "MapWorldsOvergrownRuin",
     "Name": "Overgrown Ruin"
   },
   {
-    "_index": 1168,
+    "_index": 1167,
     "Id": "MapWorldsVaalPyramid",
     "Name": "Vaal Pyramid"
   },
   {
-    "_index": 1169,
+    "_index": 1168,
     "Id": "MapWorldsVaalPyramidUnique",
     "Name": "Vaults of Atziri"
   },
   {
-    "_index": 1170,
+    "_index": 1169,
     "Id": "MapWorldsGeode",
     "Name": "Geode"
   },
   {
-    "_index": 1171,
+    "_index": 1170,
     "Id": "MapWorldsArmoury",
     "Name": "Armoury"
   },
   {
-    "_index": 1172,
+    "_index": 1171,
     "Id": "MapWorldsCourtyard",
     "Name": "Courtyard"
   },
   {
-    "_index": 1173,
+    "_index": 1172,
     "Id": "MapWorldsCourtyardUnique",
     "Name": "The Vinktar Square"
   },
   {
-    "_index": 1174,
+    "_index": 1173,
     "Id": "MapWorldsMudGeyser",
     "Name": "Mud Geyser"
   },
   {
-    "_index": 1175,
+    "_index": 1174,
     "Id": "MapWorldsShore",
     "Name": "Shore"
   },
   {
-    "_index": 1176,
+    "_index": 1175,
     "Id": "MapWorldsShoreUnique",
     "Name": "Mao Kun"
   },
   {
-    "_index": 1177,
+    "_index": 1176,
     "Id": "MapWorldsTropicalIsland",
     "Name": "Tropical Island"
   },
   {
-    "_index": 1178,
+    "_index": 1177,
     "Id": "MapWorldsTropicalIslandUnique",
     "Name": "Untainted Paradise"
   },
   {
-    "_index": 1179,
+    "_index": 1178,
     "Id": "MapWorldsMineralPools",
     "Name": "Mineral Pools"
   },
   {
-    "_index": 1180,
+    "_index": 1179,
     "Id": "MapWorldsMoonTemple",
     "Name": "Moon Temple"
   },
   {
-    "_index": 1181,
+    "_index": 1180,
     "Id": "MapWorldsMoonTempleUnique",
     "Name": "The Twilight Temple"
   },
   {
-    "_index": 1182,
+    "_index": 1181,
     "Id": "MapWorldsSepulchre",
     "Name": "Sepulchre"
   },
   {
-    "_index": 1183,
+    "_index": 1182,
     "Id": "MapWorldsTower",
     "Name": "Tower"
   },
   {
-    "_index": 1184,
+    "_index": 1183,
     "Id": "MapWorldsWastePool",
     "Name": "Waste Pool"
   },
   {
-    "_index": 1185,
+    "_index": 1184,
     "Id": "MapWorldsPlateau",
     "Name": "Plateau"
   },
   {
-    "_index": 1186,
+    "_index": 1185,
     "Id": "MapWorldsEstuary",
     "Name": "Estuary"
   },
   {
-    "_index": 1187,
+    "_index": 1186,
     "Id": "MapWorldsVault",
     "Name": "Vault"
   },
   {
-    "_index": 1188,
+    "_index": 1187,
     "Id": "MapWorldsTemple",
     "Name": "Temple"
   },
   {
-    "_index": 1189,
+    "_index": 1188,
     "Id": "MapWorldsTempleUnique",
     "Name": "Poorjoy's Asylum"
   },
   {
-    "_index": 1190,
+    "_index": 1189,
     "Id": "MapWorldsArena",
     "Name": "Arena"
   },
   {
-    "_index": 1191,
+    "_index": 1190,
     "Id": "MapWorldsMuseum",
     "Name": "Museum"
   },
   {
-    "_index": 1192,
+    "_index": 1191,
     "Id": "MapWorldsMuseumUnique",
     "Name": "The Putrid Cloister"
   },
   {
-    "_index": 1193,
+    "_index": 1192,
     "Id": "MapWorldsScriptorium",
     "Name": "Scriptorium"
   },
   {
-    "_index": 1194,
+    "_index": 1193,
     "Id": "MapWorldsSiege",
     "Name": "Siege"
   },
   {
-    "_index": 1195,
+    "_index": 1194,
     "Id": "MapWorldsSynthesisedWorld",
     "Name": "Synthesised World"
   },
   {
-    "_index": 1196,
+    "_index": 1195,
     "Id": "MapWorldsShipyard",
     "Name": "Shipyard"
   },
   {
-    "_index": 1197,
+    "_index": 1196,
     "Id": "MapWorldsBelfry",
     "Name": "Belfry"
   },
   {
-    "_index": 1198,
+    "_index": 1197,
     "Id": "MapWorldsArachnidTomb",
     "Name": "Arachnid Tomb"
   },
   {
-    "_index": 1199,
+    "_index": 1198,
     "Id": "MapWorldsWasteland",
     "Name": "Wasteland"
   },
   {
-    "_index": 1200,
+    "_index": 1199,
     "Id": "MapWorldsPrecinct",
     "Name": "Precinct"
   },
   {
-    "_index": 1201,
+    "_index": 1200,
     "Id": "MapWorldsBog",
     "Name": "Bog"
   },
   {
-    "_index": 1202,
+    "_index": 1201,
     "Id": "MapWorldsPier",
     "Name": "Pier"
   },
   {
-    "_index": 1203,
+    "_index": 1202,
     "Id": "MapWorldsCursedCrypt",
     "Name": "Cursed Crypt"
   },
   {
-    "_index": 1204,
+    "_index": 1203,
     "Id": "MapWorldsCursedCryptUnique",
     "Name": "The Coward's Trial"
   },
   {
-    "_index": 1205,
+    "_index": 1204,
     "Id": "MapWorldsOrchard",
     "Name": "Orchard"
   },
   {
-    "_index": 1206,
+    "_index": 1205,
     "Id": "MapWorldsPromenade",
     "Name": "Promenade"
   },
   {
-    "_index": 1207,
+    "_index": 1206,
     "Id": "MapWorldsPromenadeUnique",
     "Name": "The Hall of Grandmasters"
   },
   {
-    "_index": 1208,
+    "_index": 1207,
     "Id": "MapWorldsLair",
     "Name": "Lair"
   },
   {
-    "_index": 1209,
+    "_index": 1208,
     "Id": "MapWorldsColonnade",
     "Name": "Colonnade"
   },
   {
-    "_index": 1210,
+    "_index": 1209,
     "Id": "MapWorldsPrimordialPool",
     "Name": "Primordial Pool"
   },
   {
-    "_index": 1211,
+    "_index": 1210,
     "Id": "MapWorldsSpiderForest",
     "Name": "Spider Forest"
   },
   {
-    "_index": 1212,
+    "_index": 1211,
     "Id": "MapWorldsCoves",
     "Name": "Coves"
   },
   {
-    "_index": 1213,
+    "_index": 1212,
     "Id": "MapWorldsWaterways",
     "Name": "Waterways"
   },
   {
-    "_index": 1214,
+    "_index": 1213,
     "Id": "MapWorldsFactory",
     "Name": "Factory"
   },
   {
-    "_index": 1215,
+    "_index": 1214,
     "Id": "MapWorldsMesa",
     "Name": "Mesa"
   },
   {
-    "_index": 1216,
+    "_index": 1215,
     "Id": "MapWorldsPit",
     "Name": "Pit"
   },
   {
-    "_index": 1217,
+    "_index": 1216,
     "Id": "MapWorldsPitUnique",
     "Name": "Darbel's Promise"
   },
   {
-    "_index": 1218,
+    "_index": 1217,
     "Id": "MapWorldsDefiledCathedral",
     "Name": "Defiled Cathedral"
   },
   {
-    "_index": 1219,
+    "_index": 1218,
     "Id": "MapWorldsSummit",
     "Name": "Summit"
   },
   {
-    "_index": 1220,
+    "_index": 1219,
     "Id": "MapWorldsOvergrownShrine",
     "Name": "Overgrown Shrine"
   },
   {
-    "_index": 1221,
+    "_index": 1220,
     "Id": "MapWorldsOvergrownShrineUnique",
     "Name": "Acton's Nightmare"
   },
   {
-    "_index": 1222,
+    "_index": 1221,
     "Id": "MapWorldsCastleRuins",
     "Name": "Castle Ruins"
   },
   {
-    "_index": 1223,
+    "_index": 1222,
     "Id": "MapWorldsCrystalOre",
     "Name": "Crystal Ore"
   },
   {
-    "_index": 1224,
+    "_index": 1223,
     "Id": "MapWorldsVilla",
     "Name": "Villa"
   },
   {
-    "_index": 1225,
+    "_index": 1224,
     "Id": "MapWorldsTortureChamber",
     "Name": "Primordial Blocks"
   },
   {
-    "_index": 1226,
+    "_index": 1225,
     "Id": "MapWorldsTortureChamberUnique",
     "Name": "Oba's Cursed Trove"
   },
   {
-    "_index": 1227,
+    "_index": 1226,
     "Id": "MapWorldsNecropolis",
     "Name": "Necropolis"
   },
   {
-    "_index": 1228,
+    "_index": 1227,
     "Id": "MapWorldsNecropolisUnique",
     "Name": "Death and Taxes"
   },
   {
-    "_index": 1229,
+    "_index": 1228,
     "Id": "MapWorldsRacecourse_",
     "Name": "Racecourse"
   },
   {
-    "_index": 1230,
+    "_index": 1229,
     "Id": "MapWorldsCaldera",
     "Name": "Caldera"
   },
   {
-    "_index": 1231,
+    "_index": 1230,
     "Id": "MapWorldsGhetto",
     "Name": "Ghetto"
   },
   {
-    "_index": 1232,
+    "_index": 1231,
     "Id": "MapWorldsPark",
     "Name": "Park"
   },
   {
-    "_index": 1233,
+    "_index": 1232,
     "Id": "MapWorldsMalformation",
     "Name": "Malformation"
   },
   {
-    "_index": 1234,
+    "_index": 1233,
     "Id": "MapWorldsTerrace",
     "Name": "Terrace"
   },
   {
-    "_index": 1235,
+    "_index": 1234,
     "Id": "MapWorldsShrine",
     "Name": "Shrine"
   },
   {
-    "_index": 1236,
+    "_index": 1235,
     "Id": "MapWorldsArsenal",
     "Name": "Arsenal"
   },
   {
-    "_index": 1237,
+    "_index": 1236,
     "Id": "MapWorldsDesertSpring",
     "Name": "Desert Spring"
   },
   {
-    "_index": 1238,
+    "_index": 1237,
     "Id": "MapWorldsCore",
     "Name": "Core"
   },
   {
-    "_index": 1239,
+    "_index": 1238,
     "Id": "MapWorldsColosseum",
     "Name": "Colosseum"
   },
   {
-    "_index": 1240,
+    "_index": 1239,
     "Id": "MapWorldsAcidLakes",
     "Name": "Acid Caverns"
   },
   {
-    "_index": 1241,
+    "_index": 1240,
     "Id": "MapWorldsDarkForest",
     "Name": "Dark Forest"
   },
   {
-    "_index": 1242,
+    "_index": 1241,
     "Id": "MapWorldsCrimsonTemple",
     "Name": "Crimson Temple"
   },
   {
-    "_index": 1243,
+    "_index": 1242,
     "Id": "MapWorldsPlaza",
     "Name": "Plaza"
   },
   {
-    "_index": 1244,
+    "_index": 1243,
     "Id": "MapWorldsDig",
     "Name": "Dig"
   },
   {
-    "_index": 1245,
+    "_index": 1244,
     "Id": "MapWorldsPalace",
     "Name": "Palace"
   },
   {
-    "_index": 1246,
+    "_index": 1245,
     "Id": "MapWorldsLavaLake",
     "Name": "Lava Lake"
   },
   {
-    "_index": 1247,
+    "_index": 1246,
     "Id": "MapWorldsBasilica",
     "Name": "Basilica"
   },
   {
-    "_index": 1248,
+    "_index": 1247,
     "Id": "MapWorldsSunkenCity",
     "Name": "Sunken City"
   },
   {
-    "_index": 1249,
+    "_index": 1248,
     "Id": "MapWorldsReef",
     "Name": "Reef"
   },
   {
-    "_index": 1250,
+    "_index": 1249,
     "Id": "MapWorldsCarcass",
     "Name": "Carcass"
   },
   {
-    "_index": 1251,
+    "_index": 1250,
     "Id": "MapWorldsChimera",
     "Name": "Pit of the Chimera"
   },
   {
-    "_index": 1252,
+    "_index": 1251,
     "Id": "MapWorldsHydra",
     "Name": "Lair of the Hydra"
   },
   {
-    "_index": 1253,
+    "_index": 1252,
     "Id": "MapWorldsPhoenix",
     "Name": "Forge of the Phoenix"
   },
   {
-    "_index": 1254,
+    "_index": 1253,
     "Id": "MapWorldsMinotaur",
     "Name": "Maze of the Minotaur"
   },
   {
-    "_index": 1255,
+    "_index": 1254,
     "Id": "MapWorldsShapersRealm",
     "Name": "The Shaper's Realm"
   },
   {
-    "_index": 1256,
+    "_index": 1255,
     "Id": "MapWorldsVaalTemple",
     "Name": "Vaal Temple"
   },
   {
-    "_index": 1257,
+    "_index": 1256,
     "Id": "MapWorldsHarbinger",
     "Name": "Harbinger's Isle"
   },
   {
-    "_index": 1258,
+    "_index": 1257,
     "Id": "MapWorldsHarbingerLow",
     "Name": "The Beachhead"
   },
   {
-    "_index": 1259,
+    "_index": 1258,
     "Id": "MapWorldsHarbingerMid",
     "Name": "The Beachhead"
   },
   {
-    "_index": 1260,
+    "_index": 1259,
     "Id": "MapWorldsHarbingerHigh",
     "Name": "The Beachhead"
   },
   {
-    "_index": 1261,
+    "_index": 1260,
     "Id": "MapWorldsHarbingerUber",
     "Name": "Infused Beachhead"
   },
   {
-    "_index": 1262,
+    "_index": 1261,
     "Id": "MapWorldsDrySea",
     "Name": "Dry Sea"
   },
   {
-    "_index": 1263,
+    "_index": 1262,
     "Id": "MapWorldsSteppes",
     "Name": "Steppes"
   },
   {
-    "_index": 1264,
+    "_index": 1263,
     "Id": "MapWorldsStagnation",
     "Name": "Stagnation"
   },
   {
-    "_index": 1265,
+    "_index": 1264,
     "Id": "MapWorldsBrambleValley",
     "Name": "Bramble Valley"
   },
   {
-    "_index": 1266,
+    "_index": 1265,
     "Id": "MapWorldsFrozenCabins",
     "Name": "Frozen Cabins"
   },
   {
-    "_index": 1267,
+    "_index": 1266,
     "Id": "MapWorldsHarbingerPrison",
     "Name": "Harbinger Prison"
   },
   {
-    "_index": 1268,
+    "_index": 1267,
     "Id": "MapWorldsGraveTrough",
     "Name": "Grave Trough"
   },
   {
-    "_index": 1269,
+    "_index": 1268,
     "Id": "MapWorldsCrimsonTownship",
     "Name": "Crimson Township"
   },
   {
-    "_index": 1270,
+    "_index": 1269,
     "Id": "MapWorldsForkingRiver",
     "Name": "Forking River"
   },
   {
-    "_index": 1271,
+    "_index": 1270,
     "Id": "MapWorldsFoundry",
     "Name": "Foundry"
   },
   {
-    "_index": 1272,
+    "_index": 1271,
     "Id": "MapWorldsColdRiver_",
     "Name": "Cold River"
   },
   {
-    "_index": 1273,
+    "_index": 1272,
     "Id": "MapWorldsForbiddenWoods",
     "Name": "Forbidden Woods"
   },
   {
-    "_index": 1274,
+    "_index": 1273,
     "Id": "MapWorldsSilo",
     "Name": "Silo"
   },
   {
-    "_index": 1275,
+    "_index": 1274,
     "Id": "MapWorldsBeachLanding",
     "Name": "Beach Landing"
   },
   {
-    "_index": 1276,
+    "_index": 1275,
     "Id": "MapWorldsSanctuary",
     "Name": "Sanctuary"
   },
   {
-    "_index": 1277,
+    "_index": 1276,
     "Id": "MapWorldsCitadel",
     "Name": "Citadel"
   },
   {
-    "_index": 1278,
+    "_index": 1277,
     "Id": "MapWorldsFortress",
     "Name": "Fortress"
   },
   {
-    "_index": 1279,
+    "_index": 1278,
     "Id": "MapWorldsAbomination",
     "Name": "Abomination"
   },
   {
-    "_index": 1280,
+    "_index": 1279,
     "Id": "MapWorldsZiggurat",
     "Name": "Ziggurat"
   },
   {
-    "_index": 1281,
+    "_index": 1280,
     "Id": "MapWorldsCourtyardOfWasting",
     "Name": "Courtyard of Wasting"
   },
   {
-    "_index": 1282,
+    "_index": 1281,
     "Id": "MapWorldsChambersOfImpurity",
     "Name": "Chambers of Impurity"
   },
   {
-    "_index": 1283,
+    "_index": 1282,
     "Id": "MapWorldsTheatreOfLies",
     "Name": "Theatre of Lies"
   },
   {
-    "_index": 1284,
+    "_index": 1283,
     "Id": "MapWorldsElder_Desert",
     "Name": "Desert of Dementia"
   },
   {
-    "_index": 1285,
+    "_index": 1284,
     "Id": "MapWorldsElder_Volcano",
     "Name": "River of Hysteria"
   },
   {
-    "_index": 1286,
+    "_index": 1285,
     "Id": "MapWorldsElder_Sulphur",
     "Name": "Wastes of Lunacy"
   },
   {
-    "_index": 1287,
+    "_index": 1286,
     "Id": "MapWorldsElder_Reliquary",
     "Name": "Pits of Sorrow"
   },
   {
-    "_index": 1288,
+    "_index": 1287,
     "Id": "MapWorldsElder_Temple",
     "Name": "Vaults of Insanity"
   },
   {
-    "_index": 1289,
+    "_index": 1288,
     "Id": "MapWorldsElder_Elegant",
     "Name": "Halls of Delirium"
   },
   {
-    "_index": 1290,
+    "_index": 1289,
     "Id": "MapWorldsElder_Sceptre",
     "Name": "Manor of Madness"
   },
   {
-    "_index": 1291,
+    "_index": 1290,
     "Id": "MapWorldsElder_Tower",
     "Name": "Spires of Delusion"
   },
   {
-    "_index": 1292,
+    "_index": 1291,
     "Id": "MapWorldsElder_Refinery",
     "Name": "Repository of Derision"
   },
   {
-    "_index": 1293,
+    "_index": 1292,
     "Id": "MapWorldsElder_Reef",
     "Name": "Sea of Isolation"
   },
   {
-    "_index": 1294,
+    "_index": 1293,
     "Id": "MapWorldsElder_River",
     "Name": "Islands of Devastation"
   },
   {
-    "_index": 1295,
+    "_index": 1294,
     "Id": "MapWorldsElder_Garden",
     "Name": "Ruins of Despair"
   },
   {
-    "_index": 1296,
+    "_index": 1295,
     "Id": "MapWorldsElderArena",
     "Name": "Absence of Value and Meaning"
   },
   {
-    "_index": 1297,
+    "_index": 1296,
     "Id": "MapWorldsElderArenaUber",
     "Name": "The Shaper's Realm"
   },
   {
-    "_index": 1298,
+    "_index": 1297,
     "Id": "MapWorldsPrimordialBoss1",
     "Name": "Seething Chyme"
   },
   {
-    "_index": 1299,
+    "_index": 1298,
     "Id": "MapWorldsPrimordialBoss2",
     "Name": "Polaric Void"
   },
   {
-    "_index": 1300,
+    "_index": 1299,
     "Id": "MapWorldsPrimordialBoss3",
     "Name": "Absence of Patience and Wisdom"
   },
   {
-    "_index": 1301,
+    "_index": 1300,
     "Id": "MapWorldsPrimordialBoss4",
     "Name": "Absence of Symmetry and Harmony"
   },
   {
-    "_index": 1302,
+    "_index": 1301,
     "Id": "MapWorldsMemoryBoss1",
     "Name": "Moment of Trauma"
   },
   {
-    "_index": 1303,
+    "_index": 1302,
     "Id": "MapWorldsMemoryBoss1_Uber",
     "Name": "Moment of Trauma"
   },
   {
-    "_index": 1304,
+    "_index": 1303,
     "Id": "MapWorldsMemoryBoss2",
     "Name": "Moment of Loneliness"
   },
   {
-    "_index": 1305,
+    "_index": 1304,
     "Id": "MapWorldsMemoryBoss2_Uber",
     "Name": "Moment of Loneliness"
   },
   {
-    "_index": 1306,
+    "_index": 1305,
     "Id": "MapWorldsMemoryBoss3",
     "Name": "Moment of Reverence"
   },
   {
-    "_index": 1307,
+    "_index": 1306,
     "Id": "MapWorldsMemoryBoss3_Uber",
     "Name": "Moment of Reverence"
   },
   {
-    "_index": 1308,
+    "_index": 1307,
     "Id": "MapWorldsMemoryTear",
     "Name": "Memory Tear"
   },
   {
-    "_index": 1309,
+    "_index": 1308,
     "Id": "MapWorldsMemoryVault1",
     "Name": "Machinist's Vault"
   },
   {
-    "_index": 1310,
+    "_index": 1309,
     "Id": "MapWorldsMemoryVault2",
     "Name": "Zealot's Vault"
   },
   {
-    "_index": 1311,
+    "_index": 1310,
     "Id": "MapWorldsMemoryVault3",
     "Name": "Arkhon's Vault"
   },
   {
-    "_index": 1312,
+    "_index": 1311,
     "Id": "MapWorldsMemoryVault4",
     "Name": "Scholar's Vault"
   },
   {
-    "_index": 1313,
+    "_index": 1312,
     "Id": "MapAtlasEncounter_Perandus",
     "Name": "The Manor Foyer"
   },
   {
-    "_index": 1314,
+    "_index": 1313,
     "Id": "MapAtlasEncounter_NamelessSeer",
     "Name": "River's End"
   },
   {
-    "_index": 1315,
+    "_index": 1314,
     "Id": "MapAtlasEncounter_ReflectingMist",
     "Name": "Lake Islet"
   },
   {
-    "_index": 1316,
+    "_index": 1315,
     "Id": "MapAtlasEncounter_VaalUniqueSacrifice",
     "Name": "The Court of Chaos"
   },
   {
-    "_index": 1317,
+    "_index": 1316,
     "Id": "MapAtlasEncounter_VentorsStrongbox",
     "Name": "Gambling District"
   },
   {
-    "_index": 1318,
+    "_index": 1317,
     "Id": "MapAtlasEncounter_VaalTrader",
     "Name": "Forgotten Shrine"
+  },
+  {
+    "_index": 1318,
+    "Id": "MapAtlasEncounter_MercenaryArena",
+    "Name": "The Proving Grounds"
   },
   {
     "_index": 1319,
@@ -6661,1783 +6661,1783 @@
   },
   {
     "_index": 1332,
-    "Id": "Affliction_BossArena",
-    "Name": "[UNUSED] Affliction Boss"
-  },
-  {
-    "_index": 1333,
     "Id": "HarvestLeague",
     "Name": "The Sacred Grove"
   },
   {
-    "_index": 1334,
+    "_index": 1333,
     "Id": "HarvestLeagueMemoryLine",
     "Name": "Overgrown Grove"
   },
   {
-    "_index": 1335,
+    "_index": 1334,
     "Id": "HarvestLeagueBoss",
     "Name": "The Sacred Grove"
   },
   {
-    "_index": 1336,
+    "_index": 1335,
     "Id": "ffa1_1",
     "Name": "Sarn Arena"
   },
   {
-    "_index": 1337,
+    "_index": 1336,
     "Id": "ffa2_1",
     "Name": "Sarn Arena"
   },
   {
-    "_index": 1338,
+    "_index": 1337,
     "Id": "ffa3_1",
     "Name": "Sarn Arena"
   },
   {
-    "_index": 1339,
+    "_index": 1338,
     "Id": "pvp1",
     "Name": "PvP Arena"
   },
   {
-    "_index": 1340,
+    "_index": 1339,
     "Id": "pvp2",
     "Name": "PvP Arena"
   },
   {
-    "_index": 1341,
+    "_index": 1340,
     "Id": "pvp3",
     "Name": "PvP Arena"
   },
   {
-    "_index": 1342,
+    "_index": 1341,
     "Id": "pvp1Cruel",
     "Name": "PvP Arena"
   },
   {
-    "_index": 1343,
+    "_index": 1342,
     "Id": "pvp3Cruel",
     "Name": "PvP Arena"
   },
   {
-    "_index": 1344,
+    "_index": 1343,
     "Id": "pvp1Open",
     "Name": "PvP Arena"
   },
   {
-    "_index": 1345,
+    "_index": 1344,
     "Id": "pvp2Open",
     "Name": "PvP Arena"
   },
   {
-    "_index": 1346,
+    "_index": 1345,
     "Id": "pvp3Open",
     "Name": "PvP Arena"
   },
   {
-    "_index": 1347,
+    "_index": 1346,
     "Id": "pvpBlitz",
     "Name": "PvP Blitz Arena"
   },
   {
-    "_index": 1348,
+    "_index": 1347,
     "Id": "PetFlats",
     "Name": "PetFlats"
   },
   {
-    "_index": 1349,
+    "_index": 1348,
     "Id": "Descent1",
     "Name": "The Phrecia Outskirts"
   },
   {
-    "_index": 1350,
+    "_index": 1349,
     "Id": "Descent2",
     "Name": "The Heart of Phrecia"
   },
   {
-    "_index": 1351,
+    "_index": 1350,
     "Id": "Descent3",
     "Name": "The Lost Cathedral"
   },
   {
-    "_index": 1352,
+    "_index": 1351,
     "Id": "Descent4",
     "Name": "The Mortal Tomb"
   },
   {
-    "_index": 1353,
+    "_index": 1352,
     "Id": "Descent5",
     "Name": "The Arachnid Tomb"
   },
   {
-    "_index": 1354,
+    "_index": 1353,
     "Id": "Descent6",
     "Name": "The Tomb of Statues"
   },
   {
-    "_index": 1355,
+    "_index": 1354,
     "Id": "Descent7",
     "Name": "The Frozen Abyss"
   },
   {
-    "_index": 1356,
+    "_index": 1355,
     "Id": "Descent8",
     "Name": "The Simian Cave"
   },
   {
-    "_index": 1357,
+    "_index": 1356,
     "Id": "Descent9",
     "Name": "The Skeletal Caverns"
   },
   {
-    "_index": 1358,
+    "_index": 1357,
     "Id": "Descent10",
     "Name": "The Forbidden Ruins"
   },
   {
-    "_index": 1359,
+    "_index": 1358,
     "Id": "Descent11",
     "Name": "The Vault of the Guardians"
   },
   {
-    "_index": 1360,
+    "_index": 1359,
     "Id": "Descent12",
     "Name": "The Hall of Heroes"
   },
   {
-    "_index": 1361,
+    "_index": 1360,
     "Id": "Descent13",
     "Name": "The Desecrated Shrine"
   },
   {
-    "_index": 1362,
+    "_index": 1361,
     "Id": "Descent14",
     "Name": "The Demonic Shrine"
   },
   {
-    "_index": 1363,
+    "_index": 1362,
     "Id": "Descent15",
     "Name": "The Infernal Shrine"
   },
   {
-    "_index": 1364,
+    "_index": 1363,
     "Id": "Descent2_1",
     "Name": "The Entrance Hall"
   },
   {
-    "_index": 1365,
+    "_index": 1364,
     "Id": "Descent2_2_1",
     "Name": "The Chattering Halls"
   },
   {
-    "_index": 1366,
+    "_index": 1365,
     "Id": "Descent2_2_2",
     "Name": "The Croaking Halls"
   },
   {
-    "_index": 1367,
+    "_index": 1366,
     "Id": "Descent2_3",
     "Name": "The Rasping Halls"
   },
   {
-    "_index": 1368,
+    "_index": 1367,
     "Id": "Descent2_3_side1",
     "Name": "The Freezing Chamber"
   },
   {
-    "_index": 1369,
+    "_index": 1368,
     "Id": "Descent2_3_boss",
     "Name": "The Shrine of the Pagan God"
   },
   {
-    "_index": 1370,
+    "_index": 1369,
     "Id": "Descent2_4",
     "Name": "The Dungeon of Anarchy"
   },
   {
-    "_index": 1371,
+    "_index": 1370,
     "Id": "Descent2_5_1",
     "Name": "The Dungeon of Necromancy"
   },
   {
-    "_index": 1372,
+    "_index": 1371,
     "Id": "Descent2_5_2",
     "Name": "The Hollow Cave"
   },
   {
-    "_index": 1373,
+    "_index": 1372,
     "Id": "Descent2_6_1",
     "Name": "The Haunted Dungeon"
   },
   {
-    "_index": 1374,
+    "_index": 1373,
     "Id": "Descent2_6_1_side1",
     "Name": "The Obelisks of Faith"
   },
   {
-    "_index": 1375,
+    "_index": 1374,
     "Id": "Descent2_6_2",
     "Name": "The Burning Cave"
   },
   {
-    "_index": 1376,
+    "_index": 1375,
     "Id": "Descent2_6_2_side1",
     "Name": "The Chamber of Greed"
   },
   {
-    "_index": 1377,
+    "_index": 1376,
     "Id": "Descent2_6_boss",
     "Name": "The Cage"
   },
   {
-    "_index": 1378,
+    "_index": 1377,
     "Id": "Descent2_7",
     "Name": "The Necromantic Crypt"
   },
   {
-    "_index": 1379,
+    "_index": 1378,
     "Id": "Descent2_8_1",
     "Name": "The Diabolic Crypt"
   },
   {
-    "_index": 1380,
+    "_index": 1379,
     "Id": "Descent2_8_2",
     "Name": "The Misty Cave"
   },
   {
-    "_index": 1381,
+    "_index": 1380,
     "Id": "Descent2_9_1",
     "Name": "The Ember Crypt"
   },
   {
-    "_index": 1382,
+    "_index": 1381,
     "Id": "Descent2_9_2",
     "Name": "The Stormy Ledge"
   },
   {
-    "_index": 1383,
+    "_index": 1382,
     "Id": "Descent2_9_3",
     "Name": "The Frozen Cave"
   },
   {
-    "_index": 1384,
+    "_index": 1383,
     "Id": "Descent2_9_boss1",
     "Name": "The Glittering Crypt"
   },
   {
-    "_index": 1385,
+    "_index": 1384,
     "Id": "Descent2_9_boss2",
     "Name": "The Glittering Cave"
   },
   {
-    "_index": 1386,
+    "_index": 1385,
     "Id": "Descent2_10",
     "Name": "The Inner Halls Level 1"
   },
   {
-    "_index": 1387,
+    "_index": 1386,
     "Id": "Descent2_11",
     "Name": "The Inner Halls Level 2"
   },
   {
-    "_index": 1388,
+    "_index": 1387,
     "Id": "Descent2_12",
     "Name": "The Inner Halls Level 3"
   },
   {
-    "_index": 1389,
+    "_index": 1388,
     "Id": "Descent2_12_boss",
     "Name": "The Nexus"
   },
   {
-    "_index": 1390,
+    "_index": 1389,
     "Id": "ctf1",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1391,
+    "_index": 1390,
     "Id": "ctf2",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1392,
+    "_index": 1391,
     "Id": "ctf3",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1393,
+    "_index": 1392,
     "Id": "ctf4",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1394,
+    "_index": 1393,
     "Id": "ctf3open",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1395,
+    "_index": 1394,
     "Id": "ctf4open",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1396,
+    "_index": 1395,
     "Id": "ctf5",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1397,
+    "_index": 1396,
     "Id": "ctf6",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1398,
+    "_index": 1397,
     "Id": "ctf7",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1399,
+    "_index": 1398,
     "Id": "ctf8",
     "Name": "PvP Capture the Flag"
   },
   {
-    "_index": 1400,
+    "_index": 1399,
     "Id": "ExileRoyale",
     "Name": "Path of Exile Royale"
   },
   {
-    "_index": 1401,
+    "_index": 1400,
     "Id": "EndlessLedge1",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1402,
+    "_index": 1401,
     "Id": "EndlessLedge2",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1403,
+    "_index": 1402,
     "Id": "EndlessLedge3",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1404,
+    "_index": 1403,
     "Id": "MapEndlessLedge4",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1405,
+    "_index": 1404,
     "Id": "MapEndlessLedge5",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1406,
+    "_index": 1405,
     "Id": "MapEndlessLedge6",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1407,
+    "_index": 1406,
     "Id": "MapEndlessLedge7",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1408,
+    "_index": 1407,
     "Id": "MapEndlessLedge8",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1409,
+    "_index": 1408,
     "Id": "MapEndlessLedge9",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1410,
+    "_index": 1409,
     "Id": "MapEndlessLedge10",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1411,
+    "_index": 1410,
     "Id": "MapEndlessLedge11",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1412,
+    "_index": 1411,
     "Id": "MapEndlessLedge12",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1413,
+    "_index": 1412,
     "Id": "MapEndlessLedge13",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1414,
+    "_index": 1413,
     "Id": "MapEndlessLedge14",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1415,
+    "_index": 1414,
     "Id": "MapEndlessLedge15",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1416,
+    "_index": 1415,
     "Id": "MapEndlessLedge16",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1417,
+    "_index": 1416,
     "Id": "MapEndlessLedge17",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1418,
+    "_index": 1417,
     "Id": "MapEndlessLedge18",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1419,
+    "_index": 1418,
     "Id": "MapEndlessLedge19",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1420,
+    "_index": 1419,
     "Id": "MapEndlessLedge20",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1421,
+    "_index": 1420,
     "Id": "MapEndlessLedge21",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1422,
+    "_index": 1421,
     "Id": "MapEndlessLedge22",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1423,
+    "_index": 1422,
     "Id": "MapEndlessLedge23",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1424,
+    "_index": 1423,
     "Id": "MapEndlessLedge24",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1425,
+    "_index": 1424,
     "Id": "MapEndlessLedge25",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1426,
+    "_index": 1425,
     "Id": "MapEndlessLedge26",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1427,
+    "_index": 1426,
     "Id": "MapEndlessLedge27",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1428,
+    "_index": 1427,
     "Id": "MapEndlessLedge28",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1429,
+    "_index": 1428,
     "Id": "MapEndlessLedge29",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1430,
+    "_index": 1429,
     "Id": "MapEndlessLedge30",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1431,
+    "_index": 1430,
     "Id": "MapEndlessLedge31",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1432,
+    "_index": 1431,
     "Id": "MapEndlessLedge32",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1433,
+    "_index": 1432,
     "Id": "MapEndlessLedge33",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1434,
+    "_index": 1433,
     "Id": "MapEndlessLedge34",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1435,
+    "_index": 1434,
     "Id": "MapEndlessLedge35",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1436,
+    "_index": 1435,
     "Id": "MapEndlessLedge36",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1437,
+    "_index": 1436,
     "Id": "MapEndlessLedge37",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1438,
+    "_index": 1437,
     "Id": "MapEndlessLedge38",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1439,
+    "_index": 1438,
     "Id": "MapEndlessLedge39",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1440,
+    "_index": 1439,
     "Id": "MapEndlessLedge40",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1441,
+    "_index": 1440,
     "Id": "MapEndlessLedge41",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1442,
+    "_index": 1441,
     "Id": "MapEndlessLedge42",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1443,
+    "_index": 1442,
     "Id": "MapEndlessLedge43",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1444,
+    "_index": 1443,
     "Id": "MapEndlessLedge44",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1445,
+    "_index": 1444,
     "Id": "MapEndlessLedge45",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1446,
+    "_index": 1445,
     "Id": "MapEndlessLedge46",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1447,
+    "_index": 1446,
     "Id": "MapEndlessLedge47",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1448,
+    "_index": 1447,
     "Id": "MapEndlessLedge48",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1449,
+    "_index": 1448,
     "Id": "MapEndlessLedge49",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1450,
+    "_index": 1449,
     "Id": "MapEndlessLedge50",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1451,
+    "_index": 1450,
     "Id": "MapEndlessLedge51",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1452,
+    "_index": 1451,
     "Id": "MapEndlessLedge52",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1453,
+    "_index": 1452,
     "Id": "MapEndlessLedge53",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1454,
+    "_index": 1453,
     "Id": "MapEndlessLedge54",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1455,
+    "_index": 1454,
     "Id": "MapEndlessLedge55",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1456,
+    "_index": 1455,
     "Id": "MapEndlessLedge56",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1457,
+    "_index": 1456,
     "Id": "MapEndlessLedge57",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1458,
+    "_index": 1457,
     "Id": "MapEndlessLedge58",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1459,
+    "_index": 1458,
     "Id": "MapEndlessLedge59",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1460,
+    "_index": 1459,
     "Id": "MapEndlessLedge60",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1461,
+    "_index": 1460,
     "Id": "MapEndlessLedge61",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1462,
+    "_index": 1461,
     "Id": "MapEndlessLedge62",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1463,
+    "_index": 1462,
     "Id": "MapEndlessLedge63",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1464,
+    "_index": 1463,
     "Id": "MapEndlessLedge64",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1465,
+    "_index": 1464,
     "Id": "MapEndlessLedge65",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1466,
+    "_index": 1465,
     "Id": "MapEndlessLedge66",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1467,
+    "_index": 1466,
     "Id": "MapEndlessLedge67",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1468,
+    "_index": 1467,
     "Id": "MapEndlessLedge68",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1469,
+    "_index": 1468,
     "Id": "MapEndlessLedge69",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1470,
+    "_index": 1469,
     "Id": "MapEndlessLedge70",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1471,
+    "_index": 1470,
     "Id": "MapEndlessLedge71",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1472,
+    "_index": 1471,
     "Id": "MapEndlessLedge72",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1473,
+    "_index": 1472,
     "Id": "MapEndlessLedge73",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1474,
+    "_index": 1473,
     "Id": "MapEndlessLedge74",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1475,
+    "_index": 1474,
     "Id": "MapEndlessLedge75",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1476,
+    "_index": 1475,
     "Id": "MapEndlessLedge76",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1477,
+    "_index": 1476,
     "Id": "MapEndlessLedge77",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1478,
+    "_index": 1477,
     "Id": "MapEndlessLedge78",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1479,
+    "_index": 1478,
     "Id": "MapEndlessLedge79",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1480,
+    "_index": 1479,
     "Id": "MapEndlessLedge80",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1481,
+    "_index": 1480,
     "Id": "MapEndlessLedge81",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1482,
+    "_index": 1481,
     "Id": "MapEndlessLedge82",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1483,
+    "_index": 1482,
     "Id": "MapEndlessLedge83",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1484,
+    "_index": 1483,
     "Id": "MapEndlessLedge84",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1485,
+    "_index": 1484,
     "Id": "MapEndlessLedge85",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1486,
+    "_index": 1485,
     "Id": "MapEndlessLedge86",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1487,
+    "_index": 1486,
     "Id": "MapEndlessLedge87",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1488,
+    "_index": 1487,
     "Id": "MapEndlessLedge88",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1489,
+    "_index": 1488,
     "Id": "MapEndlessLedge89",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1490,
+    "_index": 1489,
     "Id": "MapEndlessLedge90",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1491,
+    "_index": 1490,
     "Id": "MapEndlessLedge91",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1492,
+    "_index": 1491,
     "Id": "MapEndlessLedge92",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1493,
+    "_index": 1492,
     "Id": "MapEndlessLedge93",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1494,
+    "_index": 1493,
     "Id": "MapEndlessLedge94",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1495,
+    "_index": 1494,
     "Id": "MapEndlessLedge95",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1496,
+    "_index": 1495,
     "Id": "MapEndlessLedge96",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1497,
+    "_index": 1496,
     "Id": "MapEndlessLedge97",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1498,
+    "_index": 1497,
     "Id": "MapEndlessLedge98",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1499,
+    "_index": 1498,
     "Id": "MapEndlessLedge99",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1500,
+    "_index": 1499,
     "Id": "MapEndlessLedge100",
     "Name": "The Endless Ledge"
   },
   {
-    "_index": 1501,
+    "_index": 1500,
     "Id": "MapEndlessLedge2_01",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1502,
+    "_index": 1501,
     "Id": "MapEndlessLedge2_02",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1503,
+    "_index": 1502,
     "Id": "MapEndlessLedge2_03",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1504,
+    "_index": 1503,
     "Id": "MapEndlessLedge2_04",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1505,
+    "_index": 1504,
     "Id": "MapEndlessLedge2_05",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1506,
+    "_index": 1505,
     "Id": "MapEndlessLedge2_06",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1507,
+    "_index": 1506,
     "Id": "MapEndlessLedge2_07",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1508,
+    "_index": 1507,
     "Id": "MapEndlessLedge2_08",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1509,
+    "_index": 1508,
     "Id": "MapEndlessLedge2_09",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1510,
+    "_index": 1509,
     "Id": "MapEndlessLedge2_10",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1511,
+    "_index": 1510,
     "Id": "MapEndlessLedge2_11",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1512,
+    "_index": 1511,
     "Id": "MapEndlessLedge2_12_",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1513,
+    "_index": 1512,
     "Id": "MapEndlessLedge2_13",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1514,
+    "_index": 1513,
     "Id": "MapEndlessLedge2_14",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1515,
+    "_index": 1514,
     "Id": "MapEndlessLedge2_15",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1516,
+    "_index": 1515,
     "Id": "MapEndlessLedge2_16",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1517,
+    "_index": 1516,
     "Id": "MapEndlessLedge2_17",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1518,
+    "_index": 1517,
     "Id": "MapEndlessLedge2_18",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1519,
+    "_index": 1518,
     "Id": "MapEndlessLedge2_19",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1520,
+    "_index": 1519,
     "Id": "MapEndlessLedge2_20",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1521,
+    "_index": 1520,
     "Id": "MapEndlessLedge2_21_",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1522,
+    "_index": 1521,
     "Id": "MapEndlessLedge2_22",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1523,
+    "_index": 1522,
     "Id": "MapEndlessLedge2_23",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1524,
+    "_index": 1523,
     "Id": "MapEndlessLedge2_24",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1525,
+    "_index": 1524,
     "Id": "MapEndlessLedge2_25",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1526,
+    "_index": 1525,
     "Id": "MapEndlessLedge2_26",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1527,
+    "_index": 1526,
     "Id": "MapEndlessLedge2_27",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1528,
+    "_index": 1527,
     "Id": "MapEndlessLedge2_28",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1529,
+    "_index": 1528,
     "Id": "MapEndlessLedge2_29",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1530,
+    "_index": 1529,
     "Id": "MapEndlessLedge2_30",
     "Name": "Path of Endurance"
   },
   {
-    "_index": 1531,
+    "_index": 1530,
     "Id": "Master_TH_Shipgraveyard",
     "Name": "Secluded Cove"
   },
   {
-    "_index": 1532,
+    "_index": 1531,
     "Id": "Master_SP_Volcano",
     "Name": "Crucible of Spirit"
   },
   {
-    "_index": 1533,
+    "_index": 1532,
     "Id": "InvasionBoss",
     "Name": ""
   },
   {
-    "_index": 1534,
+    "_index": 1533,
     "Id": "AnyCorruptedSideArea",
     "Name": ""
   },
   {
-    "_index": 1535,
+    "_index": 1534,
     "Id": "AnyAfflictionEndgameArea",
     "Name": "Simulacrum"
   },
   {
-    "_index": 1536,
+    "_index": 1535,
     "Id": "AnyUberTabTrial",
     "Name": ""
   },
   {
-    "_index": 1537,
+    "_index": 1536,
     "Id": "Hideout4_3",
     "Name": "Cavernous Hideout"
   },
   {
-    "_index": 1538,
+    "_index": 1537,
     "Id": "Hideout5_3",
     "Name": "Forsaken Hideout"
   },
   {
-    "_index": 1539,
+    "_index": 1538,
     "Id": "Hideout11_3",
     "Name": "Bloodsoaked Hideout"
   },
   {
-    "_index": 1540,
+    "_index": 1539,
     "Id": "Hideout12_3",
     "Name": "Downtown Hideout"
   },
   {
-    "_index": 1541,
+    "_index": 1540,
     "Id": "Hideout13_3",
     "Name": "Lofty Hideout"
   },
   {
-    "_index": 1542,
+    "_index": 1541,
     "Id": "Hideout16_3",
     "Name": "Stockroom Hideout"
   },
   {
-    "_index": 1543,
+    "_index": 1542,
     "Id": "Hideout17_3",
     "Name": "Industrial Hideout"
   },
   {
-    "_index": 1544,
+    "_index": 1543,
     "Id": "Hideout24_1",
     "Name": "HideoutShip1"
   },
   {
-    "_index": 1545,
+    "_index": 1544,
     "Id": "Hideout61_3",
     "Name": "Winding Pier"
   },
   {
-    "_index": 1546,
+    "_index": 1545,
     "Id": "HideoutArch",
     "Name": "Robber's Trench Hideout"
   },
   {
-    "_index": 1547,
+    "_index": 1546,
     "Id": "HideoutArchClaim",
     "Name": "Robber's Trench Hideout"
   },
   {
-    "_index": 1548,
+    "_index": 1547,
     "Id": "HideoutCoralClaim",
     "Name": "Coral Hideout"
   },
   {
-    "_index": 1549,
+    "_index": 1548,
     "Id": "HideoutCoral",
     "Name": "Coral Hideout"
   },
   {
-    "_index": 1550,
+    "_index": 1549,
     "Id": "HideoutShapersRealm",
     "Name": "Celestial Hideout"
   },
   {
-    "_index": 1551,
+    "_index": 1550,
     "Id": "HideoutCave",
     "Name": "Submerged Hideout"
   },
   {
-    "_index": 1552,
+    "_index": 1551,
     "Id": "HideoutPrisonTower",
     "Name": "Brutal Hideout"
   },
   {
-    "_index": 1553,
+    "_index": 1552,
     "Id": "HideoutPrisonTower_Claim",
     "Name": "Brutal Hideout"
   },
   {
-    "_index": 1554,
+    "_index": 1553,
     "Id": "HideoutBaths",
     "Name": "Luxurious Hideout"
   },
   {
-    "_index": 1555,
+    "_index": 1554,
     "Id": "HideoutBaths_Claim",
     "Name": "Luxurious Hideout"
   },
   {
-    "_index": 1556,
+    "_index": 1555,
     "Id": "HideoutOssuary",
     "Name": "Skeletal Hideout"
   },
   {
-    "_index": 1557,
+    "_index": 1556,
     "Id": "HideoutOssuary_Claim",
     "Name": "Skeletal Hideout"
   },
   {
-    "_index": 1558,
+    "_index": 1557,
     "Id": "HideoutCourts",
     "Name": "Stately Hideout"
   },
   {
-    "_index": 1559,
+    "_index": 1558,
     "Id": "HideoutCourts_Claim",
     "Name": "Stately Hideout"
   },
   {
-    "_index": 1560,
+    "_index": 1559,
     "Id": "HideoutSunken",
     "Name": "Sunken Hideout"
   },
   {
-    "_index": 1561,
+    "_index": 1560,
     "Id": "HideoutCauseway_Claim",
     "Name": "Sunken Hideout"
   },
   {
-    "_index": 1562,
+    "_index": 1561,
     "Id": "HideoutHighGardens",
     "Name": "Arboreal Hideout"
   },
   {
-    "_index": 1563,
+    "_index": 1562,
     "Id": "HideoutHighGarden_Claim",
     "Name": "Arboreal Hideout"
   },
   {
-    "_index": 1564,
+    "_index": 1563,
     "Id": "HideoutShipgraveyard",
     "Name": "Shipwreck Hideout"
   },
   {
-    "_index": 1565,
+    "_index": 1564,
     "Id": "HideoutForest_Claim",
     "Name": "Lush Hideout"
   },
   {
-    "_index": 1566,
+    "_index": 1565,
     "Id": "HideoutForest",
     "Name": "Lush Hideout"
   },
   {
-    "_index": 1567,
+    "_index": 1566,
     "Id": "HideoutSewer_Claim",
     "Name": "Undercity Hideout"
   },
   {
-    "_index": 1568,
+    "_index": 1567,
     "Id": "HideoutSewer",
     "Name": "Undercity Hideout"
   },
   {
-    "_index": 1569,
+    "_index": 1568,
     "Id": "HideoutSpace",
     "Name": "Celestial Nebula Hideout"
   },
   {
-    "_index": 1570,
+    "_index": 1569,
     "Id": "HideoutArenaGraveyardTrio",
     "Name": "Entombed Hideout"
   },
   {
-    "_index": 1571,
+    "_index": 1570,
     "Id": "HideoutMine_Claim",
     "Name": "Excavated Hideout"
   },
   {
-    "_index": 1572,
+    "_index": 1571,
     "Id": "HideoutMine",
     "Name": "Excavated Hideout"
   },
   {
-    "_index": 1573,
+    "_index": 1572,
     "Id": "HideoutRuinedTemple_Claim",
     "Name": "Baleful Hideout"
   },
   {
-    "_index": 1574,
+    "_index": 1573,
     "Id": "HideoutRuinedTemple",
     "Name": "Baleful Hideout"
   },
   {
-    "_index": 1575,
+    "_index": 1574,
     "Id": "HideoutOasis_Claim",
     "Name": "Desert Hideout"
   },
   {
-    "_index": 1576,
+    "_index": 1575,
     "Id": "HideoutOasis",
     "Name": "Desert Hideout"
   },
   {
-    "_index": 1577,
+    "_index": 1576,
     "Id": "HideoutPillarsOfArun",
     "Name": "Towering Hideout"
   },
   {
-    "_index": 1578,
+    "_index": 1577,
     "Id": "HideoutAtziriArena",
     "Name": "Corrupted Hideout"
   },
   {
-    "_index": 1579,
+    "_index": 1578,
     "Id": "HideoutInnocenceArena",
     "Name": "Innocent Hideout"
   },
   {
-    "_index": 1580,
+    "_index": 1579,
     "Id": "HideoutShaperArena",
     "Name": "Shaped Hideout"
   },
   {
-    "_index": 1581,
+    "_index": 1580,
     "Id": "HideoutKaomArena",
     "Name": "Furious Hideout"
   },
   {
-    "_index": 1582,
+    "_index": 1581,
     "Id": "HideoutDaressoArena",
     "Name": "Champion's Hideout"
   },
   {
-    "_index": 1583,
+    "_index": 1582,
     "Id": "HideoutDominusArena",
     "Name": "Indomitable Hideout"
   },
   {
-    "_index": 1584,
+    "_index": 1583,
     "Id": "HideoutPietyArena",
     "Name": "Morbid Hideout"
   },
   {
-    "_index": 1585,
+    "_index": 1584,
     "Id": "HideoutLunarisSolarisArena",
     "Name": "Eclipsed Hideout"
   },
   {
-    "_index": 1586,
+    "_index": 1585,
     "Id": "HideoutKitavaArenaAct10",
     "Name": "Ravenous Hideout"
   },
   {
-    "_index": 1587,
+    "_index": 1586,
     "Id": "HideoutTemplarLab",
     "Name": "Cartographer's Hideout"
   },
   {
-    "_index": 1588,
+    "_index": 1587,
     "Id": "HideoutSlum",
     "Name": "Backstreet Hideout"
   },
   {
-    "_index": 1589,
+    "_index": 1588,
     "Id": "HideoutSlum_Claim",
     "Name": "Backstreet Hideout"
   },
   {
-    "_index": 1590,
+    "_index": 1589,
     "Id": "HideoutBeach",
     "Name": "Coastal Hideout"
   },
   {
-    "_index": 1591,
+    "_index": 1590,
     "Id": "HideoutBeach_Claim",
     "Name": "Coastal Hideout"
   },
   {
-    "_index": 1592,
+    "_index": 1591,
     "Id": "HideoutFellshrine",
     "Name": "Unearthed Hideout"
   },
   {
-    "_index": 1593,
+    "_index": 1592,
     "Id": "HideoutFellshrine_Claim",
     "Name": "Unearthed Hideout"
   },
   {
-    "_index": 1594,
+    "_index": 1593,
     "Id": "HideoutBattleground",
     "Name": "Battle-scarred Hideout"
   },
   {
-    "_index": 1595,
+    "_index": 1594,
     "Id": "HideoutBattleground_Claim",
     "Name": "Battle-scarred Hideout"
   },
   {
-    "_index": 1596,
+    "_index": 1595,
     "Id": "HideoutLibrary",
     "Name": "Enlightened Hideout"
   },
   {
-    "_index": 1597,
+    "_index": 1596,
     "Id": "HideoutLibrary_Claim",
     "Name": "Enlightened Hideout"
   },
   {
-    "_index": 1598,
+    "_index": 1597,
     "Id": "HideoutSolaris",
     "Name": "Immaculate Hideout"
   },
   {
-    "_index": 1599,
+    "_index": 1598,
     "Id": "HideoutSolaris_Claim",
     "Name": "Immaculate Hideout"
   },
   {
-    "_index": 1600,
+    "_index": 1599,
     "Id": "HideoutGardens",
     "Name": "Overgrown Hideout"
   },
   {
-    "_index": 1601,
+    "_index": 1600,
     "Id": "HideoutGardens_Claim_",
     "Name": "Overgrown Hideout"
   },
   {
-    "_index": 1602,
+    "_index": 1601,
     "Id": "HideoutIceberg",
     "Name": "Glacial Hideout"
   },
   {
-    "_index": 1603,
+    "_index": 1602,
     "Id": "HideoutIceberg_Claim",
     "Name": "Glacial Hideout"
   },
   {
-    "_index": 1604,
+    "_index": 1603,
     "Id": "HideoutCrimsonTemple",
     "Name": "Sanguine Hideout"
   },
   {
-    "_index": 1605,
+    "_index": 1604,
     "Id": "HideoutCrimsonTemple_Claim",
     "Name": "Sanguine Hideout"
   },
   {
-    "_index": 1606,
+    "_index": 1605,
     "Id": "HideoutTwilightTemple",
     "Name": "Divided Hideout"
   },
   {
-    "_index": 1607,
+    "_index": 1606,
     "Id": "HideoutTwilightTemple_Claim",
     "Name": "Divided Hideout"
   },
   {
-    "_index": 1608,
+    "_index": 1607,
     "Id": "HideoutMountain",
     "Name": "Alpine Hideout"
   },
   {
-    "_index": 1609,
+    "_index": 1608,
     "Id": "HideoutMountain_Claim",
     "Name": "Alpine Hideout"
   },
   {
-    "_index": 1610,
+    "_index": 1609,
     "Id": "HideoutHauntedMansion",
     "Name": "Haunted Hideout"
   },
   {
-    "_index": 1611,
+    "_index": 1610,
     "Id": "HideoutHaunted_Claim",
     "Name": "Haunted Hideout"
   },
   {
-    "_index": 1612,
+    "_index": 1611,
     "Id": "HideoutMoonTemple",
     "Name": "Nocturnal Hideout"
   },
   {
-    "_index": 1613,
+    "_index": 1612,
     "Id": "HideoutMoonTemple_Claim",
     "Name": "Nocturnal Hideout"
   },
   {
-    "_index": 1614,
+    "_index": 1613,
     "Id": "HideoutPrimevalRuins",
     "Name": "Primeval Hideout"
   },
   {
-    "_index": 1615,
+    "_index": 1614,
     "Id": "HideoutPrimevalRuins_Claim",
     "Name": "Primeval Hideout"
   },
   {
-    "_index": 1616,
+    "_index": 1615,
     "Id": "HideoutDoomguard",
     "Name": "Doomguard Hideout"
   },
   {
-    "_index": 1617,
+    "_index": 1616,
     "Id": "HideoutSunspire",
     "Name": "Sunspire Hideout"
   },
   {
-    "_index": 1618,
+    "_index": 1617,
     "Id": "HideoutDarkwood",
     "Name": "Glimmerwood Hideout"
   },
   {
-    "_index": 1619,
+    "_index": 1618,
     "Id": "HideoutArenaElder",
     "Name": "Void Hideout"
   },
   {
-    "_index": 1620,
+    "_index": 1619,
     "Id": "HideoutChiyouSpring",
     "Name": "Chiyou Hideout"
   },
   {
-    "_index": 1621,
+    "_index": 1620,
     "Id": "HideoutBlankAbyss",
     "Name": "Infinite Abyss Hideout"
   },
   {
-    "_index": 1622,
+    "_index": 1621,
     "Id": "HideoutBlankCity",
     "Name": "Urban Sprawl Hideout"
   },
   {
-    "_index": 1623,
+    "_index": 1622,
     "Id": "HideoutBlankClouds",
     "Name": "Boundless Skies Hideout"
   },
   {
-    "_index": 1624,
+    "_index": 1623,
     "Id": "HideoutBlankDesert",
     "Name": "Endless Sands Hideout"
   },
   {
-    "_index": 1625,
+    "_index": 1624,
     "Id": "HideoutBlankDirt",
     "Name": "Eternal Wasteland Hideout"
   },
   {
-    "_index": 1626,
+    "_index": 1625,
     "Id": "HideoutBlankGrass",
     "Name": "Vast Plains Hideout"
   },
   {
-    "_index": 1627,
+    "_index": 1626,
     "Id": "HideoutBlankSea",
     "Name": "All at Sea Hideout"
   },
   {
-    "_index": 1628,
+    "_index": 1627,
     "Id": "HideoutBlankSnow",
     "Name": "Glacial Expanse Hideout"
   },
   {
-    "_index": 1629,
+    "_index": 1628,
     "Id": "HideoutThaumaturgy",
     "Name": "Thaumaturgical Hideout"
   },
   {
-    "_index": 1630,
+    "_index": 1629,
     "Id": "HideoutYaochi",
     "Name": "Yaochi Hideout"
   },
   {
-    "_index": 1631,
+    "_index": 1630,
     "Id": "HideoutHumanoidPet",
     "Name": "Humanoid Pet Hideout"
   },
   {
-    "_index": 1632,
+    "_index": 1631,
     "Id": "HideoutRitualLeague",
     "Name": "Ritualist's Hideout"
   },
   {
-    "_index": 1633,
+    "_index": 1632,
     "Id": "HideoutArenaMaven",
     "Name": "Crucible Hideout"
   },
   {
-    "_index": 1634,
+    "_index": 1633,
     "Id": "HideoutHasina",
     "Name": "Tavern Hideout"
   },
   {
-    "_index": 1635,
+    "_index": 1634,
     "Id": "HideoutAzuriteCave",
     "Name": "Azurite Cavern Hideout"
   },
   {
-    "_index": 1636,
+    "_index": 1635,
     "Id": "HideoutSynthesisHub",
     "Name": "Synthesis Hideout"
   },
   {
-    "_index": 1637,
+    "_index": 1636,
     "Id": "HideoutVeritaniaArena",
     "Name": "Redeemer's Hideout"
   },
   {
-    "_index": 1638,
+    "_index": 1637,
     "Id": "HideoutBlankBlack",
     "Name": "Black Void Hideout"
   },
   {
-    "_index": 1639,
+    "_index": 1638,
     "Id": "HideoutTencentApocalypse",
     "Name": "Cataclysmic Hideout"
   },
   {
-    "_index": 1640,
+    "_index": 1639,
     "Id": "HideoutOlrothArena",
     "Name": "Ancestral Hideout"
   },
   {
-    "_index": 1641,
+    "_index": 1640,
     "Id": "HideoutLight",
     "Name": "Timekeeper's Hideout"
   },
   {
-    "_index": 1642,
+    "_index": 1641,
     "Id": "HideoutDark",
     "Name": "Ghost-lit Graveyard Hideout"
   },
   {
-    "_index": 1643,
+    "_index": 1642,
     "Id": "HideoutArenaBlackStar_",
     "Name": "Polaric Hideout"
   },
   {
-    "_index": 1644,
+    "_index": 1643,
     "Id": "HideoutArenaInfiniteHunger",
     "Name": "Seething Hideout"
   },
   {
-    "_index": 1645,
+    "_index": 1644,
     "Id": "HideoutCosmicAtlas",
     "Name": "Atlas Hideout"
   },
   {
-    "_index": 1646,
+    "_index": 1645,
     "Id": "HideoutArenaEaterOfWorlds",
     "Name": "Tangled Hideout"
   },
   {
-    "_index": 1647,
+    "_index": 1646,
     "Id": "HideoutArenaSearingExarch",
     "Name": "Searing Hideout"
   },
   {
-    "_index": 1648,
+    "_index": 1647,
     "Id": "HideoutBeaconOfSalvation",
     "Name": "Beacon of Salvation Hideout"
   },
   {
-    "_index": 1649,
+    "_index": 1648,
     "Id": "HideoutCrucible",
     "Name": "Forge of the Titans Hideout"
   },
   {
-    "_index": 1650,
+    "_index": 1649,
     "Id": "HideoutAncestralTrial",
     "Name": "Trial of the Ancestors Hideout"
   },
   {
-    "_index": 1651,
+    "_index": 1650,
     "Id": "HideoutEnigma",
     "Name": "Enigma Hideout"
   },
   {
-    "_index": 1652,
+    "_index": 1651,
     "Id": "HideoutMistWood",
     "Name": "Wildwood Hideout"
   },
   {
-    "_index": 1653,
+    "_index": 1652,
     "Id": "HideoutWorldTurtle",
     "Name": "Cosmic Turtle Hideout"
   },
   {
-    "_index": 1654,
+    "_index": 1653,
     "Id": "HideoutLake",
     "Name": "[DNT] Lake Hideout"
   },
   {
-    "_index": 1655,
+    "_index": 1654,
     "Id": "HideoutLakeEvil",
     "Name": "[DNT] Lake Hideout Evil"
   },
   {
-    "_index": 1656,
+    "_index": 1655,
     "Id": "HideoutRacetrack",
     "Name": "Vastiri Racecourse Hideout"
   },
   {
-    "_index": 1657,
+    "_index": 1656,
     "Id": "HideoutDreadnought",
     "Name": "The Dreadnought Hideout"
   },
   {
-    "_index": 1658,
+    "_index": 1657,
     "Id": "HideoutSummit",
     "Name": "Plateau of the Gods Hideout"
   },
   {
-    "_index": 1659,
+    "_index": 1658,
     "Id": "HideoutArcaneIsle",
     "Name": "Arcane Isle Hideout"
   },
   {
-    "_index": 1660,
+    "_index": 1659,
     "Id": "HideoutShipwreck",
     "Name": "Kraken's Cove Hideout"
   },
   {
-    "_index": 1661,
+    "_index": 1660,
     "Id": "HideoutSacrifice",
     "Name": "Sacrificial Apex Hideout"
   },
   {
-    "_index": 1662,
+    "_index": 1661,
     "Id": "HideoutVerdant",
     "Name": "Overgrown Apex Hideout"
   },
   {
-    "_index": 1663,
+    "_index": 1662,
     "Id": "HideoutBlankUrban",
     "Name": "Civic Square Hideout"
   },
   {
-    "_index": 1664,
+    "_index": 1663,
     "Id": "HideoutBlankMountain",
     "Name": "Alpine Plateau Hideout"
   },
   {
-    "_index": 1665,
+    "_index": 1664,
     "Id": "HideoutBlankDesert2",
     "Name": "Vastiri Plains Hideout"
   },
   {
-    "_index": 1666,
+    "_index": 1665,
     "Id": "HideoutBlankCrypt",
     "Name": "Mausoleum Hideout"
   },
   {
-    "_index": 1667,
+    "_index": 1666,
     "Id": "HideoutSunkenPalace",
     "Name": "Sunken Palace Hideout"
   },
   {
-    "_index": 1668,
+    "_index": 1667,
     "Id": "HideoutColossalTitan",
     "Name": "Titan Apex Hideout"
   },
   {
-    "_index": 1669,
+    "_index": 1668,
     "Id": "HideoutBlankJungle",
     "Name": "Jungle Clearing Hideout"
   },
   {
-    "_index": 1670,
+    "_index": 1669,
     "Id": "HideoutBlankVolcanicCave",
     "Name": "Volcanic Cave Hideout"
   },
   {
-    "_index": 1671,
+    "_index": 1670,
     "Id": "HideoutVampireManor",
     "Name": "Bloodreaver Manor Hideout"
   },
   {
-    "_index": 1672,
+    "_index": 1671,
     "Id": "HideoutArenaIncursion",
     "Name": "Red Queen's Chambers Hideout"
   },
   {
-    "_index": 1673,
+    "_index": 1672,
     "Id": "HideoutRemidusMonastery_",
     "Name": "Saints End Monastery Hideout"
   },
   {
-    "_index": 1674,
+    "_index": 1673,
     "Id": "HideoutShip",
     "Name": "The Sovereign Hideout"
   },
   {
-    "_index": 1675,
+    "_index": 1674,
     "Id": "HideoutBlankIce",
     "Name": "Frozen Lake Hideout"
   },
   {
-    "_index": 1676,
+    "_index": 1675,
     "Id": "HideoutBlankFire",
     "Name": "Wildfire Clearing Hideout"
   },
   {
+    "_index": 1676,
+    "Id": "HideoutMaze_",
+    "Name": "Labyrinth Hideout"
+  },
+  {
     "_index": 1677,
+    "Id": "HideoutDivine",
+    "Name": "Apex of Divinity Hideout"
+  },
+  {
+    "_index": 1678,
+    "Id": "HideoutExilecon2026",
+    "Name": "Exilecon 2026 Hideout"
+  },
+  {
+    "_index": 1679,
+    "Id": "HideoutSnake",
+    "Name": "[DNT] Snake Hideout"
+  },
+  {
+    "_index": 1680,
+    "Id": "HideoutBird",
+    "Name": "[DNT] Bird Hideout"
+  },
+  {
+    "_index": 1681,
     "Id": "pvpTown",
     "Name": "Sarn Arena Staging Area"
   },
   {
-    "_index": 1678,
-    "Id": "VFXTest",
-    "Name": "Particle Shower"
-  },
-  {
-    "_index": 1679,
+    "_index": 1682,
     "Id": "Design",
     "Name": "Gone Fishing"
   },
   {
-    "_index": 1680,
+    "_index": 1683,
     "Id": "brig",
     "Name": "The Brig"
   },
   {
-    "_index": 1681,
+    "_index": 1684,
     "Id": "TGRMulti",
     "Name": "Multi Test"
   },
   {
-    "_index": 1682,
+    "_index": 1685,
     "Id": "DGRMulti",
     "Name": "Multi Test"
   },
   {
-    "_index": 1683,
-    "Id": "BlackTest",
-    "Name": "All Black"
-  },
-  {
-    "_index": 1684,
-    "Id": "kitavafilming",
-    "Name": "Kitava BloodFace"
-  },
-  {
-    "_index": 1685,
+    "_index": 1686,
     "Id": "Programming",
     "Name": "Programming World"
   },
   {
-    "_index": 1686,
+    "_index": 1687,
     "Id": "Programming_Lite",
     "Name": "Programming World (Lite)"
-  },
-  {
-    "_index": 1687,
-    "Id": "AncestralTrialTest",
-    "Name": "Ancestral Trial Test"
   },
   {
     "_index": 1688,
@@ -9171,8 +9171,8 @@
   },
   {
     "_index": 1834,
-    "Id": "ExpeditionHeavyMetal",
-    "Name": "[DNT] Kalguur Tileset Test"
+    "Id": "ExpeditionKalguurCrafting",
+    "Name": "[DNT] Kalguur Crafting Table"
   },
   {
     "_index": 1835,
@@ -9566,97 +9566,112 @@
   },
   {
     "_index": 1913,
-    "Id": "AzmeriTrailerTest",
-    "Name": "[DNT] TrailerTest"
-  },
-  {
-    "_index": 1914,
     "Id": "NecropolisLeague",
     "Name": "The Necropolis"
   },
   {
-    "_index": 1915,
+    "_index": 1914,
     "Id": "KalguuranSettlersLeague",
     "Name": "Kingsmarch"
   },
   {
-    "_index": 1916,
+    "_index": 1915,
     "Id": "SettlersBossFallenStar",
     "Name": "Starfall Crater"
   },
   {
-    "_index": 1917,
+    "_index": 1916,
     "Id": "SettlersBossPirateCove",
     "Name": "Sailor's Folly"
   },
   {
-    "_index": 1918,
+    "_index": 1917,
     "Id": "SettlersBossAlleyway",
     "Name": "Abandoned Port"
   },
   {
-    "_index": 1919,
-    "Id": "TrailerSettlersBeach",
-    "Name": "[DNT] Trailer Settlers Beach"
-  },
-  {
-    "_index": 1920,
+    "_index": 1918,
     "Id": "ChayulaLeague",
     "Name": "Monastery of the Keepers"
   },
   {
-    "_index": 1921,
+    "_index": 1919,
     "Id": "ChayulaLeagueTower",
     "Name": "Hive Fortress"
   },
   {
-    "_index": 1922,
+    "_index": 1920,
     "Id": "ChayulaLeagueTowerBoss",
     "Name": "Hive Colony"
   },
   {
-    "_index": 1923,
+    "_index": 1921,
     "Id": "FaridunLeagueBoss",
     "Name": "The Black Barya"
   },
   {
-    "_index": 1924,
+    "_index": 1922,
     "Id": "DeepwaterHub",
     "Name": "The Sovereign"
   },
   {
-    "_index": 1925,
+    "_index": 1923,
     "Id": "DeepwaterEncounter",
     "Name": "The Fathomless Depths"
   },
   {
-    "_index": 1926,
+    "_index": 1924,
     "Id": "DeepwaterEncounterVoyage",
     "Name": "The Fathomless Depths"
   },
   {
-    "_index": 1927,
+    "_index": 1925,
     "Id": "DeepwaterSandy",
     "Name": "Sandy Seabed"
   },
   {
-    "_index": 1928,
+    "_index": 1926,
     "Id": "DeepwaterCoralForest",
     "Name": "Coral Forest"
   },
   {
-    "_index": 1929,
+    "_index": 1927,
     "Id": "DeepwaterCoralReef",
     "Name": "Coral Reef"
   },
   {
-    "_index": 1930,
+    "_index": 1928,
     "Id": "DeepwaterThermalVents",
     "Name": "Thermal Vents"
   },
   {
+    "_index": 1929,
+    "Id": "BeyondRealmKtash",
+    "Name": "The Swarmforge"
+  },
+  {
+    "_index": 1930,
+    "Id": "BeyondRealmGhorr",
+    "Name": "The Fetid Fleshpit"
+  },
+  {
     "_index": 1931,
-    "Id": "DeepwaterFilmingBecalmedWater",
-    "Name": "[DNT] Becalmed Water"
+    "Id": "BeyondRealmBeidat",
+    "Name": "The Pale"
+  },
+  {
+    "_index": 1932,
+    "Id": "AuguryLeagueBoss",
+    "Name": "Tenebria"
+  },
+  {
+    "_index": 1933,
+    "Id": "PlayerAtlasHideout",
+    "Name": "Beacon of Corruption"
+  },
+  {
+    "_index": 1934,
+    "Id": "PlayerAtlasHideoutInert",
+    "Name": "Beacon of Corruption"
   }
 ]
