@@ -17,6 +17,10 @@ extraMetadata:
 nsis:
   oneClick: false
   allowToChangeInstallationDirectory: true
+  # 日本語版: 本家と同じ名前の末尾に -jp を付ける
+  artifactName: "${productName} Setup ${version}-jp.${ext}"
+portable:
+  artifactName: "${productName} ${version}-jp.${ext}"
 win:
   target:
   - "nsis"
