@@ -20906,6 +20906,10 @@ const outLines = lines.map(line => {
           if (stripped !== t) jaTexts.push(stripped)
         }
       }
+      // 3.30でGGGが「エレメンタル」を「元素」に言い換えた(例: 元素ダメージ)。旧表記も残しつつ新表記も登録する
+      for (const t of [...jaTexts]) {
+        if (t.includes('エレメンタル')) jaTexts.push(t.replaceAll('エレメンタル', '元素'))
+      }
       for (const jaText of jaTexts) {
         if (jaText && !stat.matchers.some((m) => m.string === jaText)) {
           stat.matchers.push({ ...matcher, string: jaText })
