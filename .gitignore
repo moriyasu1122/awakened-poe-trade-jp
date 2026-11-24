@@ -29,3 +29,4 @@ poe_dat_export/.cache/
 # Modの説明文(取得物・大きいので管理外)
 poe_dat_export/stat_descriptions/
 poe_dat_export/export_log.txt
+push_log.txt
