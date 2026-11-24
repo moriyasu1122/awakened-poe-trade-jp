@@ -23,10 +23,6 @@ yarn-error.log*
 # Electron-builder output
 /dist_electron
 
-# vitepress
-docs/.vitepress/dist
-docs/.vitepress/cache
-
 # poe_dat_export download cache
 poe_dat_export/.cache/
 
