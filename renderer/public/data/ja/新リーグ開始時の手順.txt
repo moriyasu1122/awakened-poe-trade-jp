@@ -9,9 +9,13 @@
    config.json の "patch" を最新のパッチ番号に書き換える
    npx pathofexile-dat
 
+2b. Modの説明文(全言語の正式な訳)を取得する
+   poe_dat_export フォルダの get_stat_descriptions.bat をダブルクリック
+   (最新のパッチ番号を自動で取得し、config.json も更新する。stat_descriptions フォルダに保存される)
+
 3. 日本語データを作り直す(renderer フォルダで)
    node build-ja-items.mjs   … アイテム名。既存の訳を残し、新アイテムはゲームデータから訳を取る
-   node build-ja-stats.mjs   … Mod。build-ja-stats.mjs の TRANSLATIONS 辞書から作る
+   node build-ja-stats.mjs   … Mod。TRANSLATIONS 辞書 + ゲームデータの説明文(2b)から作る
 
 4. client_strings.js の項目の抜けを確認する
    本家の en/client_strings.js に増えた項目を ja/client_strings.js にも追加する

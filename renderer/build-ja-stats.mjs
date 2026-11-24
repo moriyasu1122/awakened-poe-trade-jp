@@ -1,5 +1,6 @@
 // @ts-check
 import fs from 'fs'
+import { loadGameStatTranslations } from './game-stat-translations.mjs'
 
 // 通常のMod（数字は # のプレースホルダーのまま書く）
 const TRANSLATIONS = {
@@ -20888,7 +20889,16 @@ const TRANSLATIONS_NORM = new Map()
 for (const [k, v] of Object.entries(TRANSLATIONS)) {
   TRANSLATIONS_NORM.set(normKey(k), v)
 }
-const lookupTranslation = (en) => TRANSLATIONS[en] ?? TRANSLATIONS_NORM.get(normKey(en))
+// ゲームデータのMod説明文から作った対応表(../poe_dat_export/stat_descriptions がある場合)
+// ゲームの正式な日本語表記なので、手作業の辞書の訳に加えて登録する
+const GAME_TRANSLATIONS = loadGameStatTranslations()
+console.log(`ゲームデータの対応表: ${GAME_TRANSLATIONS.size} 件`)
+const lookupTranslation = (en) => {
+  const manual = TRANSLATIONS[en] ?? TRANSLATIONS_NORM.get(normKey(en))
+  const game = GAME_TRANSLATIONS.get(en)
+  if (!game) return manual
+  return [...new Set([...[].concat(manual ?? []), ...game])]
+}
 
 let addedCount = 0
 let notableMatchedCount = 0
