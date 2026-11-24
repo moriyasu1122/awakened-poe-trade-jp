@@ -3,6 +3,16 @@ import fs from 'fs'
 
 // 通常のMod（数字は # のプレースホルダーのまま書く）
 const TRANSLATIONS = {
+  // --- 3.30 新暗黙Mod(プレフィックス/サフィックスの数・強さ) ゲーム画面の表記より ---
+  '# Prefix Modifier allowed': 'プレフィックスモッド #個',
+  '# Prefix Modifiers allowed': 'プレフィックスモッド #個',
+  '# Suffix Modifier allowed': 'サフィックスモッド #個',
+  '# Suffix Modifiers allowed': 'サフィックスモッド #個',
+  'Implicit Modifiers Cannot Be Changed': '暗黙モッドは変化しない',
+  '#% increased Prefix Modifier magnitudes': 'プレフィックスモッドの強さが#%増加する',
+  '#% reduced Prefix Modifier magnitudes': 'プレフィックスモッドの強さが#%減少する',
+  '#% increased Suffix Modifier magnitudes': 'サフィックスモッドの強さが#%増加する', // 未確認(プレフィックスと同形と推定)
+  '#% reduced Suffix Modifier magnitudes': 'サフィックスモッドの強さが#%減少する', // 未確認(プレフィックスと同形と推定)
   '# to Strength': '筋力 #',
   '# to Intelligence': '知性 #',
   '# to Dexterity': '器用さ #',
@@ -6533,9 +6543,9 @@ const TRANSLATIONS = {
   '# Modifiers ': 'モッド #個',
   '# Notable Passive Skills ': '特殊パッシブスキル #個',
   '# Physical Damage taken on Minion Death': 'ミニオン死亡時に#の物理ダメージを受ける',
-  '# Prefix Modifiers ': 'プレフィックスモッド #個',
+  // '# Prefix Modifiers ': 'プレフィックスモッド #個', // 疑似Mod。3.30の新暗黙Mod「+# Prefix/Suffix Modifier allowed」と表記が衝突するため無効化
   '# Strength per 1 Strength on Allocated Passives in Radius': '範囲内の割り当て済みパッシブの筋力1ごとに筋力 #',
-  '# Suffix Modifiers ': 'サフィックスモッド #個',
+  // '# Suffix Modifiers ': 'サフィックスモッド #個', // 疑似Mod。3.30の新暗黙Mod「+# Prefix/Suffix Modifier allowed」と表記が衝突するため無効化
   '# to # Added Attack Chaos Damage per 100 Maximum Mana': '最大マナ100ごとに#から#の追加混沌ダメージ',
   '# to # Added Chaos Damage with Bow Attacks': '弓によるアタックに#から#の追加混沌ダメージ',
   '# to # Added Chaos Damage with Claw Attacks': '鉤爪によるアタックに#から#の追加混沌ダメージ',
@@ -12635,8 +12645,8 @@ const TRANSLATIONS = {
   '#% increased Mana Regeneration Rate': 'マナ自動回復レートが#%増加する',
   '# Enchant Modifiers ': 'エンチャントモッド #個',
   '# Implicit Modifiers ': '暗黙モッド #個',
-  '# Prefix Modifiers ': 'プレフィックスモッド #個',
-  '# Suffix Modifiers ': 'サフィックスモッド #個',
+  // '# Prefix Modifiers ': 'プレフィックスモッド #個', // 疑似Mod。3.30の新暗黙Mod「+# Prefix/Suffix Modifier allowed」と表記が衝突するため無効化
+  // '# Suffix Modifiers ': 'サフィックスモッド #個', // 疑似Mod。3.30の新暗黙Mod「+# Prefix/Suffix Modifier allowed」と表記が衝突するため無効化
   '# Modifiers ': 'モッド #個',
   '# Crafted Prefix Modifiers ': 'クラフトプレフィックスモッド #個',
   '# Crafted Suffix Modifiers ': 'クラフトサフィックスモッド #個',
